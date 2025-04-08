@@ -1,5 +1,5 @@
 version: "1"
 rules:
-  - base: master 
-    upstream: fmhy:master 
+  - base: main 
+    upstream: fmhy:main 
     mergeMethod: rebase
