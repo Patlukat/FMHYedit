@@ -6,15 +6,17 @@ COPY . /app
 WORKDIR /app
 
 FROM base AS prod-deps
-RUN pnpm install
+
+RUN --mount=type=cache,id=pnpm,target=/pnpm/store pnpm install --frozen-lockfile
 
 FROM base AS build
-RUN pnpm install
-RUN pnpm docs:build
+RUN --mount=type=cache,id=pnpm,target=/pnpm/store pnpm install --frozen-lockfile
+RUN pnpm run docs:build
 
 FROM base
 COPY --from=prod-deps /app/node_modules /app/node_modules
 COPY --from=build /app/docs/.vitepress/dist /app/docs/.vitepress/dist
 
 EXPOSE 4173
-CMD [ "pnpm", "docs:preview" ]
+
+CMD ["pnpm", "docs:preview"]
