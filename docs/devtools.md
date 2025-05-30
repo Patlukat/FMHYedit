@@ -20,6 +20,7 @@
 * [The Devs Network](https://thedevs.network/) - Developer Chat
 * [DevBuddies](https://buddies.dev/) - Search for Programming Partners
 * [StackShare](https://stackshare.io/) - Tech Stack Collaboration
+* [Cloudflare Dev](https://discord.com/invite/cloudflaredev) - Official Cloudflare Discord
 
 ***
 
