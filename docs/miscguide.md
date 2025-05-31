@@ -350,7 +350,7 @@
 * [Blitzortung.org](https://www.blitzortung.org/en/live_lightning_maps.php) or [Lightning Maps](https://www.lightningmaps.org/) - Lightning / Thunderstorms Maps
 * [ClearOutside](https://clearoutside.com/) - Weather Visibility Tracker
 * [aqicn.org](https://aqicn.org/map/world) - Air Quality Map
-* [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
+* [Light Pollution Map](https://lightpollutionmap.info/) or [lightpollutionmap](https://lightpollutionmap.app) - Light Pollution Maps
 * [CPRE](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution and Dark Skies
 * [Electricity Maps](https://app.electricitymaps.com/map) - Electricity CO₂ Emissions Map
 * [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality in Ukraine
@@ -413,6 +413,7 @@
 * [Imperium](https://imperium.ahlfeldt.se/) - Digital Atlas of the Roman Empire
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
 * [1940s NYC](https://1940s.nyc/) - Explore 1940's New York
+* [HK Battle 1841](https://digital.lib.hkbu.edu.hk/1941hkbattle/en/index.php) - The Battle of Hong Kong 1941 Interactive Map
 
 ***
 
