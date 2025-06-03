@@ -8,7 +8,7 @@
 
 ## ▷ Modded APKs
 
-* ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Free Books / Sign-Up Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
+* ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)**, [2](https://forum.mobilism.me/) - Free Books / Sign-Up Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [Translator](https://fmhy.net/text-tools#translators) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods)
 * ⭐ **[PlatinMods](https://platinmods.com/)**
@@ -422,7 +422,7 @@
 * [Oblivion](https://github.com/bepass-org/oblivion) - Warp Client
 * [Intra](https://getintra.org) - Proxies
 * [Privacy Guides](https://www.privacyguides.org/en/android/) - Android Privacy Guides
-* [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Managers
+* [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Manager
 * [LibChecker](https://github.com/LibChecker/LibChecker) - View App Third-Party Libraries
 * [Sapio](https://github.com/jonathanklee/Sapio) - Scan Apps for Google Dependency
 * [NetGuard](https://www.netguard.me/) - Block Internet Access Per App / [GitHub](https://github.com/M66B/NetGuard)
@@ -1149,7 +1149,7 @@
 * ⭐ **[Signal](https://signal.org/)** - Encrypted Messaging / [GitHub](https://github.com/signalapp/Signal-iOS)
 * ⭐ **[SimpleX](https://apps.apple.com/app/id1605771084)** - Encrypted Messaging / [GitHub](https://github.com/simplex-chat/simplex-chat)
 * [Session](https://getsession.org/) - Encrypted Messaging
-* [Olvid](https://olvid.io/en/) - Encrypted Messaging
+* [Damus](https://damus.io/) - Encrypted Messaging
 * [DNSecure](https://github.com/kkebo/DNSecure) - Encrypted DNS
 * [Brave](https://apps.apple.com/app/id1052879175) or [Firefox Focus](https://apps.apple.com/app/id1055677337) - Privacy-Focused Browsers
 * [Element](https://apps.apple.com/app/id1083446067) or [FluffyChat](https://apps.apple.com/app/id1551469600) - Matrix Clients
@@ -1172,7 +1172,6 @@
 * [iOSVizor](https://iosvizor.com/) - Tweaked Apps / [Telegram](https://t.me/iosvizor)
 * [DriftyWinds](https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json) - AltStore App Source
 * [fnd](https://fnd.io/) - App Store Search
-* [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312) - App Library / Sign-Up Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * [TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - Tweaked Apps
 * [PlatinMods](https://platinmods.com/) - Tweaked Apps / Sign-Up Required
 * [AppTesters](https://repository.apptesters.org/) - Tweaked Apps / [Telegram](https://t.me/AppleTesters)
