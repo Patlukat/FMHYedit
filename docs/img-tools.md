@@ -175,9 +175,9 @@
 * [tldraw](https://www.tldraw.com/) - Drawing / Sketching
 * [Ok! So](https://okso.app/) - Drawing / Sketching
 * [Sketchpad](https://sketchpad.app/), [2](https://sketch.io/sketchpad) - Drawing / Sketching
-* [Sketchbook](https://www.sketchbook.com/) - Drawing / Sketching / Mobile Only
-* [Paper](https://wetransfer.com/explore/paper) - Drawing / Sketching / iOS Only
-* [Fresco](https://www.adobe.com/products/fresco.html) - Drawing / Windows / iOS
+* [Sketchbook](https://www.sketchbook.com/) - Drawing / Sketching / Android, iOS
+* [Paper](https://wetransfer.com/explore/paper) - Drawing / Sketching / iOS
+* [Fresco](https://www.adobe.com/products/fresco.html) - Drawing / Windows, iOS
 * [Concepts](https://concepts.app/) - Drawing / Sketching
 * [Magma](https://magma.com/), [HelloPaint](https://hellopaint.io/), [DrawPile](https://drawpile.net/), [LockDraw](https://www.skycow.us/), [World Draw](https://world-draw.appspot.com/draw) or [malmal](https://malmal.io/) - Collaborative Drawing
 * [Ink Workspace](https://www.microsoft.com/store/productId/9P0RP342JZMN) - Pen App Launcher
@@ -439,15 +439,15 @@
 
 ## ▷ Stock Images
 
-* **Note** - Royalty-free implies images free for personal or commercial use with some usage restrictions (see sites TOS). CC0 stands for Creative Commons Zero and means images are public domain. Sites not tagged have licensing that varies.
+* **Note** - Royalty-free implies images free for personal or commercial use with some usage restrictions (see site's TOS). CC0 stands for Creative Commons Zero and means images are public domain. Sites not tagged have licensing that varies.
 
 ***
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
 * ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[DownPic](https://downpic.cc)**, **[Downloader.la](https://downloader.la/)** or [istock](https://istock.7xm.xyz/) - Paid Stock Photo Downloaders
 * ⭐ **[EveryPixel](https://www.everypixel.com/)**, [O-DAN](https://o-dan.net/en/) or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
-* [Adobe Stock](https://stock.adobe.com/free) - Stock Photos / Royalty-Free
 * [Unsplash](https://unsplash.com/) - Stock Photos / Royalty-Free
+* [Adobe Stock](https://stock.adobe.com/free) - Stock Photos / Royalty-Free
 * [Pixnio](https://pixnio.com/) - Stock Photos / Royalty-Free
 * [Pikwizard](https://pikwizard.com/) - Stock Photos / Royalty-Free
 * [diverseui](https://diverseui.com/) - Human Face Photos / Royalty-Free
@@ -764,7 +764,7 @@
 * [Photofield](https://github.com/SmilyOrg/photofield)
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
 * [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
-* [GPhotos Guide](https://github.com/g8row/gphotos-guide) - Unlimited Google Photos Storage Guide / Windows
+* [GPhotos Guide](https://github.com/g8row/gphotos-guide) - Guide for Unlimited Google Photos Storage on Windows
 * [Google Photos EXIF](https://github.com/mattwilson1024/google-photos-exif) - Populate Missing EXIF metadata in Google Photos
 
 ***
