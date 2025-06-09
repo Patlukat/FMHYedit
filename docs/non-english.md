@@ -54,6 +54,7 @@
 * [jotorrent](https://www.jotorrent.com/) - Anime / Sign-Ups Open Every Month
 * [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
 * [Bein4kora](https://bein4kora.com/) - Live Football
+* [koraa-live](https://www.koraa-live.com/) - Live Football
 * [al-fann](https://www.al-fann.net/) - Music
 * [nghmat](https://songs.nghmat.com/) - Music / MP3
 
@@ -142,6 +143,7 @@
 * 🌐 **[heji](https://233heji.com/)** or [bajins](https://www.bajins.com/) - Chinese Sites / Tools Indexes
 * 🌐 **[Awesome GitHub Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)** - Programming Resources Index
 * 🌐 **[RecTG](https://github.com/jackhawks/rectg)** - Chinese Telegram Groups / Bots
+* ⭐ **[Censorship Bypass Guide](https://2305878273.7844380499.cfd/)** - Censorship Bypass Guide
 * [assrt](https://assrt.net/), [srtku](https://srtku.com/) or [zimuku](https://zimuku.org/) - Subtitles
 * [Tool.lu](https://tool.lu/) - Online Tools
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
@@ -344,12 +346,17 @@
 * [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW
 * [WebShare](https://webshare.cz/) - Video / Audio / Books
 
+## ▷ Torrenting
+
+* [sktorrent](https://sktorrent.eu/) - Movies / TV / Anime
+
 ## ▷ Streaming / Streamování
 
 * [Bombuj](https://bombuj.si/) - Movies / TV
 * [Sledujteto](https://www.sledujteto.cz/) - Movies / TV / Anime / 1080p
 * [videoserialy](https://videoserialy.to/) - Movies / TV / Anime / 1080p
 * [svetserialu](https://svetserialu.io/) - Movies / TV / Anime / 1080p
+* [najserialy](https://www.najserialy.io/) - Movies / TV / Anime / 1080p
 * [Ceskatelevize](https://www.ceskatelevize.cz/ivysilani/) - Movies / TV
 * [StarSites](https://goal.starsites.fun/) - Live Football / Hockey
 * [CSFD](https://www.csfd.cz/) - Czech Film Database
@@ -443,7 +450,11 @@
 * [coflix](https://coflix.mov/) - Movies / TV / Anime
 * [Sadisflix](https://sadisflix.ing/), [2](https://sadisflix.vip/) - Movies / TV / Anime / Dub / 1080p / Use Adblocker / [Mirrors](https://sadis.wiki/) / [Telegram](https://t.me/sadisflix)
 * [Kordoz](https://www.kordoz.com/) - Movies / TV / Anime
+* [filmoflix](https://www.filmoflix.is/) - Movies / TV / Anime
 * [TF1](https://www.tf1.fr/) - Movies / TV / Anime / Live TV
+* [wiflix](https://www.wiflix.is/) -  Movies / TV / Anime
+* [french-streaming](https://www.french-streaming.tv) -  Movies / TV / Anime
+* [cinestream](https://cinestream.info/) - Movies / TV / Anime
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
 * [ICI Tou.tv](https://ici.tou.tv/) - Canada Public Broadcaster / Movies / TV / Docs / Cartoons / Requires Account
 * [Télé-Québec](https://www.telequebec.tv/) - Québec Public Broadcaster / Movies / TV / Docs / Requires Account
@@ -455,6 +466,7 @@
 * [VoirAnime](https://v6.voiranime.com/) - Anime / Sub / 1080p
 * [vostfree](https://vostfree.ws/) - Anime / Sub / 1080p
 * [animesultra](https://v6.animesultra.net/) - Anime / Sub / Dub
+* [ryokaianime](https://ryokaianime.fr/) - Anime / Dub / [Discord](https://discord.gg/JXpm5cZrtC)
 * [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p
 * [vostanime](https://vostanime.fr/) - Anime / Sub / 1080p
@@ -468,7 +480,7 @@
 * [JokerTV](https://jokertv.ru/) - Live Football
 * [remontadatv](https://remontadatv.ru/) - Live Football
 * [CatoonHub](https://catoonhub.com/) - Cartoons / Dub / 720p / [Discord](https://discord.com/invite/M7gRTuXc6d)
-* [kiboanime](https://www.kiboanime.app/>) - Anime Streaming Mobile App
+* [kiboanime](https://www.kiboanime.app/) - Anime Streaming Mobile App
 * [Lesics](https://youtube.com/@LesicsFR) - Sabins Civil Engineering
 * [Grafikart](https://grafikart.fr/) - Programming Courses
 * [fluxradios](https://fluxradios.blogspot.com/) - Radio Stations
@@ -728,6 +740,7 @@
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies / Dub / 1080p
 * [MiniTV](https://www.amazon.in/minitv) - Movies / TV / Sub / 1080p
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies / Dub / 1080p
+* [Cinemaluxe](https://cinemaluxe.sbs/) - Movies / TV / Anime
 * [WatchoFree](https://watchofree.online/) - Movies / TV / Dub / 1080p
 * [HDMovie1](https://hdmovie1.free.nf/) - Movies / TV / Dub / 1080p / 4K
 * [moviesflix](https://moviesflix.com.pl/) - Movies / Dub / 1080p
@@ -795,6 +808,7 @@
 * [BacaLightNovel](https://bacalightnovel.co/) - Light Novels
 * [Sakuranovel](https://sakuranovel.id/) - Light Novels
 * [langka](https://langka.vercel.app/) or [catatannusantara](https://www.catatannusantara.com/pustaka) - History Books
+* [sastra](https://www.sastra.org/) - History Wiki
 
 ***
 
@@ -844,7 +858,7 @@
 
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [Poipiku](https://poipiku.com/) - User-Made Images
-* [⁠Voicevox](: https://voicevox.hiroshiba.jp/) - FOSS Japanese TTS / Singing Synthesis
+* [⁠Voicevox](https://voicevox.hiroshiba.jp/) - FOSS Japanese TTS / Singing Synthesis
 * [Annict](https://annict.com/) - Anime Tracker
 * [Japanese Subtitles](https://gist.github.com/tatsumoto-ren/78ba4e5b7c53c7ed2c987015fa05cc2b) - Subtitles
 * [Jimaku](https://jimaku.cc/) - Anime Subtitles
@@ -1167,7 +1181,9 @@
 * [Olhos na TV](https://www.olhosnatv.com.br) - Live TV / Sports
 * [CXTv](https://www.cxtv.com.br) - Live TV
 * [TV Gazeta](https://www.tvgazeta.com.br/aovivo/) - Live TV
+* [embedtv](https://embedtv.digital/) - Live TV
 * [TV Cultura](https://cultura.uol.com.br/aovivo/) - Live TV
+* [piratetv](https://piratetv.pro/) - Live TV
 * [pirilampo](https://www.pirilampo.tv/) - Live TV
 * [Futebol Agora](https://futebolagora.gratis/) - Live Sports
 * [IPTV Brasil](https://iptvbrasilapk.com) - IPTV Player
@@ -1471,6 +1487,10 @@
 * [Bombuj](https://bombuj.si/) - Movies / TV
 * [MojeVideo](https://www.mojevideo.sk/) - User Videos
 
+## ▷ Torrenting
+
+* [sktorrent](https://sktorrent.eu/) - Movies / TV / Anime
+
 ***
 
 # ► Spanish / Español
@@ -1534,6 +1554,7 @@
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Sub / Light Novels
 * [animesfinalizadoLSHD](https://t.me/animesfinalizadoLSHD) - Anime / Telegram
 * [Cursos En Mega](https://t.me/s/cursosenmega) - Courses / [Bypass](https://greasyfork.org/en/scripts/462492)
+* [punkconpunk](https://punkconpunk.blogspot.com/) - MP3 / Punk Music
 * [Hello-Python](https://github.com/mouredev/Hello-Python) or [python-web](https://github.com/mouredev/python-web) - Python Courses
 
 ## ▷ Torrenting / Torrentear
@@ -1704,6 +1725,7 @@
 * [Playstation Haber](https://playstationhaber.com/) / [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forums
 * [Turkish Audio Center](https://www.turkishaudiocenter.com), [Shareses](https://shareses.com), [Türkçe Ses İndir](https://www.turkcesesindir.com/), [Turkce Ses Dosyası](https://turkce-sesdosyasi.blogspot.com/) or [Turkish Sound Track](https://trsoundtrack.blogspot.com/) - Turkish Dubs
 * [Sinner Clown](https://sinnerclownceviri.net) / [Discord](https://discord.com/invite/nApvcT6Tt6), [Hangar](https://www.hangarceviri.com) - Game Localizations
+* [mp3semti](https://mp3semti.com/) - Music / MP3s
 
 ## ▷ Streaming / İzleme
 
@@ -1714,6 +1736,7 @@
 * [Dizipal](https://www.google.com/search?q=intitle:%22dizipal%22&num=1) - Movies / TV / Sub / Dub / 1080p
 * [Dizilla](https://dizilla.club) - Movies / TV / Sub / Dub / 1080p
 * [SeriesAZ](https://seriesaz.com/) - Movies / TV / Sub / Dub / 1080p
+* [filmmakinesi](https://filmmakinesi.de/) - Movies / TV / Sub / Dub / 1080p
 * [Dizibox](https://www.dizibox.com) - TV / Sub / 1080p
 * [Diziyou](https://www.diziyou.co/) - TV / Sub / Dub / 1080p
 * [SelçukFlix](https://selcukflix.com/) - TV / Sub / Dub / 1080p
@@ -1827,7 +1850,7 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / [Telegram](https://t.me/rophimzone) / [Discord](https://discord.gg/rophim)
+* ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / [Telegram](https://t.me/rophimzone), [2](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim)
 * ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV
 * ⭐ **[ZingMP3](https://zingmp3.vn/)** - Music
 * [BiluTV](https://bilutvw.com/) - Movies / TV / Anime / Sub / Dub
@@ -1913,6 +1936,7 @@
 * [Filma24](https://www.filma24.band/) - Albanian / Movies / TV / 1080p
 * [amharicbookss](https://t.me/amharicbookss) - Amharic / Books
 * [Yoda](https://yoda.az/) - Azerbaijani / Live TV
+* [euskal](https://www.euskal-encodings.eus/) - Basque / Download / Movies / TV
 * [channelmyanmar](https://channelmyanmar.org) - Burmese / Movies / TV / Cartoons / 1080p / 4K
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
