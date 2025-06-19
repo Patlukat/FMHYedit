@@ -9,6 +9,7 @@
 - Website: [fmhy.net](https://fmhy.net)
 - News & Monthly Updates: [fmhy.net/posts](https://fmhy.net/posts)
 - Backups: [github.com/fmhy/FMHY/wiki/Backups](https://github.com/fmhy/FMHY/wiki/Backups)
+- Neither the site or github host any files
 
 ## 🗺️ Emoji Legend
  
@@ -33,5 +34,3 @@ Here are a few ways you can get involved:
 <p>
   <a href="https://rentry.co/fmhy-invite"><img width="30px" src="./discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="30px" src="./github.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/fmhy.net"><img width="30px" src="./bluesky.svg" alt="Bluesky"></a>
 </p>
-
-<p align="center"> This site does not store any files on our server, we only link websites.</p>
