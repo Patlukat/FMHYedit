@@ -85,8 +85,6 @@
 * ⭐ **[bt.etree](https://bt.etree.org/)** - Concert Recordings / Torrents
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
 * ⭐ **[BBC Radio 1 Essential Mix](https://rentry.co/FMHYBase64#bbc-essential)** - BBC Essential Mix / [Discovery Guide](https://rentry.co/musicdiscovery#bbc-radio-1-essential-mix)
-
-
 * ⭐ **[MiroPPB](https://miroppb.com/)** / [DL Script](https://pastebin.com/raw/GZ7AvbwV) or [ASOTArchive](http://www.asotarchive.org/) - A State of Trance Archives / DJ Mixes
 * [JamBase](https://www.jambase.com/videos) - Concert Recordings
 * [Relisten](https://relisten.net/) - Concert Recordings / [GitHub](https://github.com/relistennet)
@@ -587,6 +585,7 @@
 * [VGMPF](https://www.vgmpf.com/Wiki/index.php) - Retro Game Soundtracks / MP3
 * [VGMRips](https://vgmrips.net/packs/) - Retro Game Music Rips / VGM
 * [Zophar's](https://www.zophar.net/music) - Retro Game Music Rips / VGM
+* [HCS Forum](https://rentry.co/FMHYBase64#hcs-forum) - Game Soundtracks
 * [GameOST](https://gameost.net/) - Game Soundtracks / MP3
 * [exotica](https://www.exotica.org.uk/) - Amiga Games Soundtracks
 * [VIP VGM](https://www.vipvgm.net/) - Game Music Radio
