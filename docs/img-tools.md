@@ -26,7 +26,7 @@
 * ⭐ **[Photoshop](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) or [GenP](https://rentry.co/FMHYBase64#genp) / Windows, Mac / Use VPN / [Guide](https://rentry.co/FMHYBase64#adobe-guide) / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
 * ⭐ **[GIMP](https://www.gimp.org/)** / Windows, Mac, Linux / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/)
 * ⭐ **[Pinta Project](https://www.pinta-project.com/)** / Windows, Mac, Linux / [GitHub](https://github.com/PintaProject/Pinta)
-* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / Windows, Mac, Linux, iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [Github](https://github.com/imagemagick/imagemagick)
+* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / Windows, Mac, Linux, iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
 * [LazPaint](https://lazpaint.github.io/) / Windows, Mac, Linux / [GitHub](https://github.com/bgrabitmap/lazpaint/)
 * [PhotoDemon](https://photodemon.org/) / Windows / [GitHub](https://github.com/tannerhelland/PhotoDemon)
 * [Paint.net](https://www.getpaint.net/index.html) / Windows / [GitHub](https://github.com/paintdotnet)
@@ -34,6 +34,7 @@
 * [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom / Windows, Mac, Linux / [GitHub](https://github.com/darktable-org/darktable)
 * [RawTherapee](https://www.rawtherapee.com/) - Raw Image Editor / Windows, Mac, Linux / [GitHub](https://github.com/RawTherapee/RawTherapee)
 * [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator / Windows, Mac, Linux
+* [IOPaint](https://github.com/Sanster/IOPaint) - AI Image Multitool Editor
   
 ***
 
@@ -62,6 +63,20 @@
 * [RedKetchup](https://redketchup.io/) - Multi-Tool
 * [fffuel](https://fffuel.co/) - Multi-Tool
 * [Mara](https://mara.photos/) - Multi-Tool
+
+***
+
+## Content Removers
+
+* ⭐ **[ObjectRemover](https://objectremover.com/)**, **[Lama Cleaner](https://lama-cleaner-docs.vercel.app/)**, [Inpaint](https://theinpaint.com/), [Cleanup.pictures](https://cleanup.pictures/) or [HAMA](https://www.hama.app/) - Object Removers
+* ⭐ **[BRIA RMBG](https://briaai-bria-rmbg-2-0.hf.space/)** - Background Remover
+* ⭐ **[BG Bye](https://bgbye.fyrean.com/)**, [2](https://fyrean.itch.io/bgbye-background-remover) - Background Remover / [GitHub](https://github.com/MangoLion/bgbye)
+* [Pixelcut](https://www.pixelcut.ai/) - BackgroundRemover
+* [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover
+* [remove.bg](https://www.remove.bg/)  - Background Remover / [GIMP Plugin](https://github.com/manu12121999/RemoveBG-GIMP)
+* [ORMBG](https://huggingface.co/spaces/schirrmacher/ormbg) - Human Optimised Background Remover
+* [Rembg](https://github.com/danielgatis/rembg) - Self-Hosted Background Remover
+* [Segment Anything](https://segment-anything.com/) - Visual Segmentation / [GUI](https://github.com/dibrale/samist) / [Stable Diffusion WebUI](https://github.com/continue-revolution/sd-webui-segment-anything) / [Extensions](https://github.com/kevmo314/magic-copy)
 
 ***
 
