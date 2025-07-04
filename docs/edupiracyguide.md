@@ -626,6 +626,7 @@
 * [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) - Biodiversity Research
 * [Alien](https://alien-project.org/) - Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)
 * [Metazooa](https://metazooa.com/) - Species Connection Game
+* [⁠Phenome10K](https://www.phenome10k.org/) - Biological / Palaeontological 3D Scans
 * [RecentlyExtinctSpecies](https://recentlyextinctspecies.com/) - Recently Extinct Species Database
 * [UniProt](https://www.uniprot.org/) - Protein Database
 * [iNaturalist](https://www.inaturalist.org/) - Organism Identification
@@ -1120,7 +1121,7 @@
 * [Code.org](https://code.org/) - Computer Science Courses
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - Computer Science Courses
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
-* [CS50](https://cs50.harvard.edu/x/) - Harvard Computer Science Course
+* [CS50](https://cs50.harvard.edu/x/) - Harvard Computer Science Course / [Subreddit](https://www.reddit.com/r/cs50/) / [Discord](https://discord.com/invite/cs50) / [Telegram](https://t.me/cs50x) / [GitHub](https://github.com/cs50)
 * [CollegeComendium](https://collegecompendium.org/) - Computer Science Courses
 * [Runestone Interactive](https://runestone.academy/) - Interactive Guides
 * [Computerphile](https://www.youtube.com/@Computerphile/) or [CSDojo](https://www.youtube.com/@CSDojo) - Computer Science YouTube Channels
