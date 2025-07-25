@@ -414,7 +414,7 @@
 
 ## ▷ Live Sports
 
-* 🌐 **[/sport calendars/](https://rentry.co/sportcalendars)** - Importable Sports Calendars
+* 🌐 **[/sport calendars/](https://dan.valeena.dev/guides/sport-calendars/), [2](https://rentry.co/sportcalendars)** - Importable Sports Calendars
 * ⭐ **[WatchSports](https://watchsports.to/)** - Stream Aggregator
 * ⭐ **[SportyHunter](https://sportyhunter.com/)**, [2](https://nflhunter.com/), [3](https://nhlstreams.io/v1/), [4](https://mlbgamepass.com/) / Community Aggregator / [Discord](https://discord.gg/zbxWcejadm)
 * ⭐ **[Streamed](https://streamed.su/)**, [2](https://strmd.link/) / [Discord](https://discord.gg/streamed)
