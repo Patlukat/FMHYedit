@@ -4,7 +4,7 @@
 ***
 ***
 
-* **Note** - This section can be used to get movies, music, books, courses, etc. but for anything you install, like games, software, or APKs, it's highly recommended to use the English sections instead. The only exceptions are sites like m0nkrus that have very good reputations. Keep in mind that you can always change the language in the installers.
+* **Note** - Use this section for media (movies, music, books). For installing software, games, or APKs, use the English sections unless the source is highly trusted (e.g., m0nkrus).
 
 ***
 
@@ -655,10 +655,10 @@
 
 ## ▷ Streaming
 
-* [moviedrive](https://moviedrive.hu/) - Movies / TV / Anime / Sub / Dub / 1080p
+* [moviedrive](https://moviedrive.hu/) - Movies / TV / Sub / Dub / 1080p [Discord](https://discord.com/invite/blackfire)
+* [hdmozi](https://hdmozi.hu/) - Movies / TV / Sub / Dub / 1080p [Facebook Group](https://www.facebook.com/groups/3325147607704979)
 * [OnlineFilmekIngyen](https://www.onlinefilmekingyen1.com/) - Movies / Sub / Dub / 1080p
 * [filmezz](https://filmezz.club/) - Movies / TV / Dub / 720p
-* [filminvazio](https://filminvazio.cc/) - Movies / TV 
 * [filmezek](https://filmezek.com/) - Movies
 * [mozicsillag](https://mozicsillag1.me/) - Movies / TV / Sub / Dub / 720p
 * [animedrive](https://animedrive.hu/) - Anime / [Discord](https://discord.com/invite/blackfire)
