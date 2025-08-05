@@ -82,7 +82,7 @@
 * ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
 * ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux
 * ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
-* ⭐ **[Disc Rip](https://nullish.cat/blog/disc-rip)** - Disc Ripping Guide / [Mirror](https://rentry.org/disc-rip)
+* ⭐ **[Disc Ripping Guide](https://nullish.cat/blog/disc-rip)**, [2](https://rentry.org/disc-rip) - Disc Ripping Guide
 * ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** - Learn How to Remux Videos
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos / Windows, Linux
@@ -263,7 +263,7 @@
 # ► Media Servers
 
 * 🌐 **[Auto Download Tool Index](https://web.archive.org/web/20250322180317/https://www.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_and_software/)**
-* ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV)
+* ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [Github](https://github.com/jellyfin/jellyfin)
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
 * [Self-Hosted Anime](https://github.com/shyonae/selfhosted-anime/wiki) - Anime Server Setup Guides
