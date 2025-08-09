@@ -39,14 +39,14 @@
 
 ***
 
-* ⭐ **[movie-web Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_movie_web_instances)** - Movies / TV / Anime / Auto-Next / Watch Parties
+* ⭐ **[P-Stream](https://pstream.mov/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/p-stream)
 * ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.com/invite/yvwWjqvzjE)
 * ⭐ **[BEECH](https://beech.watch/)** or [Mocine](https://mocine.cam/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/FekgaSAtJa)
 * ⭐ **[CinemaOS](https://cinemaos.live/)**, [2](https://cinemaos.tech/), [3](https://cinemaos-v3.vercel.app/), [4](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
 * [Vidbox](https://vidbox.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [Willow](https://willow.arlen.icu/), [2](https://salix.pages.dev/) - Movies / TV / Anime / [4K Guide](https://rentry.co/willow-guide) / [Discord](https://discord.com/invite/gmXvwcmxWR)
+* [Primeshows](https://www.primeshows.live/) - Movies / TV / Anime / [Discord](https://discord.com/invite/t2PnzRgKeM)
 * [VLOP](https://www.vlop.fun/) - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/vlopstreaming) / [Discord](https://discord.gg/GzXQWKUbjh)
-* [PrimeShows](https://www.primeshows.live/) - Movies / TV / Anime / [Discord](https://discord.com/invite/t2PnzRgKeM)
 * [Cinezo](https://www.cinezo.net/) - Movies / TV / Anime / Watch Parties / [Discord](https://discord.gg/k6QxBBzr)
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / Watch Parties / [Discord](https://discord.gg/V8XUhQb2MZ)
 * [MovieMaze](https://moviemaze.cc/) - Movies / TV / Anime
@@ -106,22 +106,6 @@
 * [Zoechip](https://zoechip.org/) - Movies / TV
 * [Player4U](https://rentry.co/FMHYBase64#player4u) - Movies / TV / Anime
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / Plex Required
-
-***
-
-## ▷ movie web Instances
-
-* **Note** - Though the original movie-web is gone, many working and well-maintained instances still exist.
-
-***
-
-* 🌐 **[movie-web Instances](https://erynith.github.io/movie-web-instances/)** - Index of movie-web Instances / [GitHub](https://github.com/erynith/movie-web-instances/blob/main/page.md)
-* ⭐ **[P-Stream](https://pstream.mov/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/p-stream)
-* [justchill.app](https://justchill.app) - Movies / TV / Anime
-* [streamwatch.online](https://streamwatch.online) - Movies / TV / Anime 
-* [streamerflix.xyz](https://streamerflix.xyz) - Movies / TV / Anime 
-* [sudo-flix.nl](https://sudo-flix.nl) - Movies / TV / Anime 
-* [film.kace.dev](https://film.kace.dev) - Movies / TV / Anime
 
 ***
 
