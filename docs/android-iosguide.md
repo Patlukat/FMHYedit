@@ -367,8 +367,8 @@
 * 🌐 **[Android ROM Comparisons](https://eylenburg.github.io/android_comparison.htm)** or [Android ROM List](https://github.com/musabcel/android_rom_list)
 * ⭐ **[CustomRomBay](https://customrombay.org/)** - ROMs Compatibility Search
 * ⭐ **[GrapheneOS](https://grapheneos.org/)** - Security & Privacy Hardened Android / Google Pixel Only / [Discord](https://discord.com/invite/grapheneos) / [Telegram](https://t.me/GrapheneOS)
-* [CalyxOS](https://calyxos.org/) - Privacy-Focused OS
 * [LineageOS](https://www.lineageos.org/) - Privacy-Focused OS / [Discord](https://discord.gg/gD6DMtf)
+
 ***
 
 # ► Android Tools
@@ -434,7 +434,7 @@
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
 * ↪️ **[Android 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[Triage](https://tria.ge/)**, **[Hybrid Analysis](https://hybrid-analysis.com/)**, [VirusTotal](https://docs.virustotal.com/docs/mobile-apps) or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
-* ⭐ **[Rethink App](https://rethinkdns.com/)** / [GitHub](https://github.com/celzero/rethink-app), AFWall+](https://github.com/ukanth/afwall/) (root) or [Karma](https://github.com/StarGW-net/karma-firewall) - Firewalls
+* ⭐ **[Rethink App](https://rethinkdns.com/)** / [GitHub](https://github.com/celzero/rethink-app), [AFWall+](https://github.com/ukanth/afwall/) (root) or [Karma](https://github.com/StarGW-net/karma-firewall) - Firewalls
 * ⭐ **[URLCheck](https://github.com/TrianguloY/URLCheck)**, [Tarnhelm](https://github.com/lz233/Tarnhelm), [LinkSheet](https://github.com/LinkSheet/LinkSheet) or [Untracker](https://github.com/zhanghai/Untracker) - URL Cleaners / Tracking Removal
 * ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy App
 * ⭐ **[NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)** or [Matsuri](https://matsuridayo.github.io/) - Proxy Clients
