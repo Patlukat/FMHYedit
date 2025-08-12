@@ -42,6 +42,7 @@
 * [GamePCFull](https://gamepcfull.com/) - Download
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [FreeToGame](https://www.freetogame.com/games) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
+* [Anti Denuvo Sanctuary](https://rentry.co/FMHYBase64#adsanctuary) - Denuvo Games / Works Offline
 * [ROM Heaven CSF](https://rentry.co/FMHYBase64#csf) - Download Clean Steam Files
 
 ***
@@ -62,7 +63,6 @@
 * [⁠Stevv Game](https://www.stevvgame.com/) - Download / [Discord](https://discord.gg/snbpB6pCK9)
 * [Xatab Repacks](https://byxatab.com/) - Torrent
 * [Elamigos](https://elamigos.site/) - Download
-* [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
 * [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads / [Hash Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#freegogpcgames-note)
 
 ***
@@ -369,7 +369,6 @@
 * ⭐ **[NoPayStation](https://nopaystation.com/)** - ROMs / PS3 / PSP / PSVita / [Discord](https://discord.com/invite/rNGrkUY)
 * ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSVita
 * [PKGPS4](https://www.pkgps4.click/) - ROMs / PS4
-* [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4 / [Discord](https://discord.gg/BVc63GqV7Y)
 * [PS3R](https://ps3r.com/) - ROMs / PS3
 * [PS1 Covers](https://github.com/xlenore/psx-covers) or [PS2 Covers](https://github.com/xlenore/ps2-covers) - Cover Downloaders
 

@@ -107,7 +107,7 @@
 
 ## ▷ Downloading / ডাউনলোডিং
 
-* [MLSBD](https://mlsbd.shop/) - Movie / TV
+* [MLSBD](https://mlsbd.shop/) - Movies / TV
 * [ftpbd](http://ftpbd.net/) - Movies / TV / Anime
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
 * [Bhoot FM](https://bhoot-fm.com/) - Bhoot FM Archive / Paranormal Radio Show
@@ -119,7 +119,6 @@
 * [Fibwatch](https://fibwatch.art/) - Movies / TV
 * [ftpbd](http://ftpbd.net/) - Movies / TV / Anime
 * [jadoocinema](https://www.jadoocinema.com/) - Movies / TV / Sub / Dub / 1080p
-
 
 ***
 
@@ -687,7 +686,7 @@
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
 * ⭐ **[TamilBlasters](https://www.1tamilblasters.net/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
-* ⭐ **[TamilMV](https://www.1tamilmv.tube/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
+* ⭐ **[TamilMV](https://www.1tamilmv.blue/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
 * [9xFlix](https://www.9xflix.me/) - Movies / TV / Anime
 * [Bollyflix](https://bollyflix.army/) - Movies / TV / Anime
 * [Mallumv](https://mallumv.guru/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
@@ -697,7 +696,7 @@
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime / Sub / Dub / 1080p
 * [PrivateMovieZ](https://privatemoviez.art/) - Movies / TV / 1080p
 * [Cinevood](https://cinevood.net/) - Movies / TV / 1080p
-* [⁠Cinemalux](https://cinemalux.store/) - Movie / TV / 1080p
+* [⁠Cinemalux](https://cinemalux.store/) - Movies / TV / 1080p
 * [ProtonMovies](https://m2.protonmovies.top/) - Movies / TV
 * [OlaMovies](https://olamovies.help/) - Movies / TV / Sub / Dub / 1080p / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / Chrome Required
 * [Fojik](https://fojik.site/) - Movies
@@ -712,7 +711,7 @@
 * [PikaHD](https://pikahd.com/) - Anime / Dub / 1080p
 * [Anilot.in](https://www.animeraja.in/) - Anime / 1080p / [Telegram](https://t.me/Anilot_Anime)
 * [Toonhub4u](https://toonhub4u.me/) - Anime / Cartoon / Dub / 1080p / [Telegram](https://telegram.me/joinchat/oHRgJ6SMZ6c3OTI1)
-* [TamilToon](https://tamiltoon.net/) - Tamil / Telegu / Hindi / English / Cartoons
+* [TamilToon](https://tamiltoon.net/) - Tamil / Telugu / Hindi / English / Cartoons
 * [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime Telegram Chat
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Music / FLAC
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - Audio
@@ -733,12 +732,14 @@
 * ⭐ **[Anime World India](https://watchanimeworld.in/)** - Anime
 * ⭐ **[MultiMovies](https://multimovies.guru)** - Movies / TV / .guru Always Redirects to Main
 * ⭐ **[Anime World India](https://anime-world.app/)** - Anime
+* [Streamblasters](https://www.streamblasters.city/) - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
 * [TamilMV](https://www.1tamilmv.tube/) - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p
 * [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies / TV / Dub / 720p / 1080p
 * [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 720p / 1080p
 * [TamilDhool](https://www.tamildhool.net/) - Tamil TV Shows / TV Serials / 720p / 1080p
-* [tamilpirates](https://tamilpirates.icu/) - Tamil Movies / TV / Dub / 720p / 1080p
+* [tamilpirates](https://tamilpirates.icu/) - Tamil & Indian languages Movies / TV / Dub / 720p / 1080p
+* [TamilToon](https://tamiltoon.net/) - Tamil / Telugu / Hindi / English / Cartoons / Anime
 * [MiniTV](https://www.amazon.in/minitv) - Movies / TV / Sub / 1080p
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies / Dub / 1080p
 * [Cinemaluxe](https://cinemaluxe.sbs/) - Movies / TV / Anime
@@ -821,7 +822,7 @@
 
 * [OverDay](https://overday.org/) - Courses / Books / [Telegram](https://t.me/Overposting1) / [Mirrors](https://justpaste.it/OVERPOSTING) / [2](https://filecrypt.co/Container/B25EED8329.html)
 * [HD4Me](https://hd4me.net/) - Movies / TV / Sub / 720p
-* [StreamingCommunity](https://github.com/Arrowar/StreamingCommunity) - Movie / TV / Download Script
+* [StreamingCommunity](https://github.com/Arrowar/StreamingCommunity) - Movies / TV / Download Script
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
 
 ## ▷ Torrenting
@@ -835,12 +836,12 @@
 * [StreamingCommunity](https://streamingcommunityz.life/) - Movies / TV / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29)
 * [Altadefinizione](https://altadefinizione.free/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.world/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
-* [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Movies / TV
+* [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Live TV / Movies / TV / Documentaries / Radio / Dub / Italian VPN Required / Signup Unlocks Extra Features
+* [RaiPlay](https://www.raiplay.it/) - Live TV / Movies / TV / Dub / Italian VPN Required / Signup Unlocks Channel History
 * [CB01](https://cb01net.buzz/) - Movies / TV
-* [RaiPlay](https://www.raiplay.it/) - Movies / TV / Dub / Italian VPN Required / Signup Unlocks Channel History
-* [AnimeUnity](https://www.animeunity.so/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/animeunitytv)
-* [AnimeWorld](https://www.animeworld.ac/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/AnimeWorldITA2) / [Mirrors](https://www.animeworlditalia.com/)
-* [AnimeSaturn](https://www.animesaturn.cx/) - Anime / Sub / Dub / 1080p /[Telegram](https://t.me/AnimeSaturnRedirect) / [Mirrors](https://www.animesaturn.me/)
+* [AnimeUnity](https://www.animeunity.so/)  - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/animeunitytv)
+* [AnimeWorld](https://www.animeworld.ac/) - Anime / Sub / Dub / 1080p / [Mirrors](https://www.animeworlditalia.com/) / [Telegram](https://t.me/AnimeWorldITA2)
+* [AnimeSaturn](https://www.animesaturn.cx/) - Anime / Sub / Dub / 1080p / [Mirrors](https://www.animesaturn.me/) / [Telegram](https://t.me/AnimeSaturnRedirect)
 * [Toonitalia](https://toonitalia.xyz/) - TV / Anime / Sub / Dub
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
 * [Kodi On Demand](https://guruhitech.com/kodi-on-demand-kod-kodi-add-on-tutte-le-info/) - Streaming Kodi Addon
@@ -1315,7 +1316,7 @@
 * [government_rus](https://t.me/government_rus) - Official Government Telegram
 * [zakupki_time](https://t.me/zakupki_time) - Government Procurement Watch
 * [Што за шрифт?](https://t.me/+lZD1qlHA3sFhMzQy) - Fonts
-* [World Art](http://www.world-art.ru/) - Movie / Anime / Game Reviews and Art Display
+* [World Art](http://www.world-art.ru/) - Movies / Anime / Game Reviews and Art Display
 * [Cute Chan](https://kpop.re/) - K-Pop Imageboard
 
 ## ▷ Downloading / Скачивание
