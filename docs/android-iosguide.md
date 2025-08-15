@@ -287,7 +287,7 @@
 * [Color Camera](https://play.google.com/store/apps/details?id=theindusdeveloper.com.colorcamera) - Change Image Colors
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - Image Size Reducer
 * [FFShare](https://github.com/caydey/ffshare) - Compress Videos / Images
-* [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android), [Galaxy Enhance-X](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-enhance-x/) or [Superimage](https://superimage.io/) - Image Upscalers
+* [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android), [Galaxy Enhance-X](https://rentry.co/fmhybase64#galaxy-enhance-x) or [Superimage](https://superimage.io/) - Image Upscalers
 * [EasyWatermark](https://github.com/rosuH/EasyWatermark) or [free-watermark](https://github.com/free-watermark/mobile-app) - Add Watermark to Images
 * [AndroidOCR](https://github.com/SubhamTyagi/android-ocr) - Extract Text from Images
 * [SauceNAO](https://github.com/LuK1337/SauceNAO) - Reverse Image Search / Some NSFW
@@ -629,7 +629,7 @@
 ## ▷ Maps / Location
 
 * ↪️ **[Navigation / Transport Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7_navigation_.2F_transport)**
-* [FMD Android](https://gitlab.com/fmd-foss/fmd-android), [PhoneTrack](https://github.com/julien-nc/phonetrack), [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
+* [Find My Device (FMD)](https://gitlab.com/fmd-foss/fmd-android), [PhoneTrack](https://github.com/julien-nc/phonetrack), [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
 * [OwnTracks](https://owntracks.org/), [Hauk](https://github.com/bilde2910/Hauk), [Positional](https://github.com/Hamza417/Positional), [2](https://github.com/mtrewartha/positional), [GPSCockpit](https://github.com/woheller69/gpscockpit), [GPSTest](https://play.google.com/store/apps/details?id=com.android.gpstest) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location / GPS
 * [Android-Mock-Location](https://github.com/warren-bank/Android-Mock-Location) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) (root) - Fake GPS Location
 * [MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - Track Devices Following You
@@ -918,8 +918,8 @@
 * [DigilogTV](https://github.com/aldrinzigmundv/digilogtv) - News TV Channels
 * [aDrama](https://adrama.app/) - Asian Drama
 * [Amnis](https://play.google.com/store/apps/details?id=com.amnis) - Stream Videos from Torrents
-* [Great Courses Plus Premium](https://forum.mobilism.org/search.php?keywords=great+courses+plus&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Courses
 * [MovieDB](https://github.com/WirelessAlien/MovieDB) - TMDB App
+* [Great Courses Plus Premium](https://rentry.co/fmhybase64#great-courses) - Courses
 * [Showly](https://github.com/michaldrabik/showly) - TV Trackers
 
 ***
@@ -1052,7 +1052,6 @@
 * [Journal it](https://apps.apple.com/app/id1501944799) - Planner / Journal App
 * [Success](https://apps.apple.com/app/id1544852780) or [(Not Boring) Habits](https://apps.apple.com/app/id1593891243) - Productivity Booster / Habit Trackers
 * [Body Clock](https://apps.apple.com/app/id869648628) - Plan / Track Circadian Rhythm
-* [PictureThis](https://apps.apple.com/app/id1252497129) - Plant Identifier
 * [Parcel](https://apps.apple.com/app/id375589283) or [Aftership](https://apps.apple.com/app/id507014023) - Delivery Tracker
 * [KeyPad](https://apps.apple.com/app/id1491684442) - Connect Mac Keyboard to Mobile Devices
 * [Stikdebug](https://apps.apple.com/us/app/stikdebug/id6744045754) - Enables JIT / Need for Emulators
