@@ -516,12 +516,12 @@
 * [r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddit
 * [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting
 * [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
-* [r/PS3Homebrew](https://reddit.com/r/ps3homebrew) or [/⁠r/PS3Piracy](https://www.reddit.com/r/ps3piracy/) - PS3 Homebrew / Piracy Subreddits
+* [r/PS3Homebrew](https://reddit.com/r/ps3homebrew) or [r/PS3Piracy](https://www.reddit.com/r/ps3piracy/) - PS3 Homebrew / Piracy Subreddits
 * [PS3 Disc Dumper](https://github.com/13xforever/ps3-disc-dumper) - Decrypted PS3 Disc Dumper
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Rusty Pan](https://github.com/RainbowCookie32/rusty-psn) - Update PS3 Games
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
 * [⁠PS2 Scene](https://discord.com/invite/Bd3A7v8) - PS2 Homebrew Discord
-* [⁠/r/PS2Homebrew](https://www.reddit.com/r/ps2homebrew/) - PS2 Homebrew Subreddit
+* [⁠r/PS2Homebrew](https://www.reddit.com/r/ps2homebrew/) - PS2 Homebrew Subreddit
 * [PSBBN Patch](https://rentry.co/FMHYBase64#psbbn-definitive-english-patch) - PSBBN Definitive English Patch
 * [PSXDev](https://www.psxdev.net/) - PS1 Development
 * [MemcardRex](https://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
@@ -591,7 +591,7 @@
 * [ViaVersion](https://viaversion.com/) - Allow Connections from Older Versions / [Discord](https://discord.gg/viaversion) / [GitHub](https://github.com/viaversion)
 * [mclo.gs](https://mclo.gs/) - Minecraft Log Sharing / Analyzing / [GitHub](https://github.com/aternosorg/mclogs-integration)
 * [Minestom](https://minestom.net/) - Lightweight Minecraft Server / [Discord](https://discord.gg/pkFRvqB) / [GitHub](https://github.com/Minestom/Minestom)
-* [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Server Plugin to Create Cloud Backups of Worlds / [Discord](https://discord.com/invite/VdCAUtm) /[GitHub](https://github.com/MaxMaeder/DriveBackupV2)
+* [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Server Plugin to Create Cloud Backups of Worlds / [Discord](https://discord.com/invite/VdCAUtm) / [GitHub](https://github.com/MaxMaeder/DriveBackupV2)
 * [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) / [GitHub](https://github.com/PurpurMC/) or [Paper](https://papermc.io/software/paper) / [Discord](https://discord.com/invite/papermc) / [GitHub](https://github.com/PaperMC/Paper) / [Plugins](https://hangar.papermc.io/) - Performance Enhancement Servers
 * [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Discord](https://discord.com/invite/geysermc) / [GitHub](https://github.com/GeyserMC/Geyser) / [Extras](https://geyserextras.letsgoaway.dev/) / [GitHub](https://github.com/GeyserExtras/GeyserExtras/) / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
 * [Minecraft Server Scanner](https://github.com/MrBruz/Minecraft-Server-Scanner) - Minecraft Server Info
@@ -636,7 +636,7 @@
 * [PAX](https://github.com/maradotwebp/pax), [ModMenu](https://modrinth.com/mod/modmenu) (fabric) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
 * [Forgix](https://github.com/PacifistMC/Forgix) - Merge Mod Loaders
 * [r/feedthebeast](https://reddit.com/r/feedthebeast/) - MC Modding Community
-* [Visual Bukkit](https://www.spigotmc.org/resources/visual-bukkit.76474/) - GUI Plugin Builder / [GitHub](https://github.com/OfficialDonut/VisualBukkit) / [Discord](https://discord.gg/ugkvGpu)
+* [Visual Bukkit](https://www.spigotmc.org/resources/visual-bukkit.76474/) - GUI Plugin Builder / [Discord](https://discord.gg/ugkvGpu) / [GitHub](https://github.com/OfficialDonut/VisualBukkit)
 * [CraftPresence](https://modrinth.com/mod/craftpresence) or [Phase's Discord RPC](https://modrinth.com/mod/phases-discord-rich-presence) - Discord RPC for Java Edition
 * [Controlify](https://modrinth.com/mod/controlify) - Add Controller Support to Java Edition
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
