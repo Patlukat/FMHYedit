@@ -218,7 +218,6 @@
 * [Memegine](https://memegine.com/) - Meme Search Engine
 * [MemeAtlas](https://www.memeatlas.com/) - Meme Templates
 * [GreenScreenMemes](https://greenscreenmemes.com/) - Green Screen Memes
-* [TweetGen](https://www.tweetgen.com/) - Fake Tweet Generator
 * [iFake](https://ifaketextmessage.com/) - Fake Text Conversation Creator
 * [Wojak Studio](https://wojak-studio.com/) - Wojak Meme Creator
 * [Pokémon Battle Creator](http://www.pokemonbattlecreator.com/) - Pokémon Battle Scene Meme Generator
@@ -369,7 +368,6 @@
 * [shot.cafe](https://shot.cafe/), [FanCaps](https://fancaps.net/) or [Film Grab](https://film-grab.com/) - Media Screenshots
 * [Footyrenders](https://www.footyrenders.com/) - Football Related Images
 * [PSDGraphics](https://www.psdgraphics.com/) - PSD Files
-* [Artvee](https://artvee.com/) - Public Domain Artwork
 * [Placeit](https://placeit.net/) - Image Templates
 * [Worldvectorlogo](https://worldvectorlogo.com/), [Logos & Badges Bundle](https://rentry.co/FMHYBase64#logos-badges-bundle), [Brands of the World](https://www.brandsoftheworld.com/), [seeklogo](https://seeklogo.com/) or [SuperTinyIcons](https://edent.github.io/SuperTinyIcons/) - Logo Search / Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles

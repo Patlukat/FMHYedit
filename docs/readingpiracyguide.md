@@ -211,9 +211,9 @@
 
 ## ▷ Special Interest
 
+* ↪️ **[Poetry Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_poetry_collections)**
+* ↪️ **[Quote Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_quote_collections)**
 * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
-* ↪️ **[Quote Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_quote_indexes)**
-* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**, [Poetry In Translation](https://www.poetryintranslation.com/), [PoemHunter](https://www.poemhunter.com/), [DiscoverPoetry](https://discoverpoetry.com/), [RUVerses](https://ruverses.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
 * ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - Anarchism
 * [FreeSFOnline](https://www.freesfonline.net/) - Sci-Fi / Fantasy
 * [eBookHunter.net](https://www.ebookhunter.net/) or [EpubPuB](https://www.epub.pub/) - Romance / Fantasy
@@ -374,7 +374,7 @@
 ## ▷ Comics
 
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
-* ⭐ **[BatCave](https://batcave.biz/)** / US IP or VPN Required
+* ⭐ **[BatCave](https://batcave.biz/)**
 * ⭐ **[GetComics](https://getcomics.org/)** - Download Comics
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Webcomics
@@ -423,7 +423,6 @@
 * [MangaKatana](https://mangakatana.com/)
 * [MangaFire](https://mangafire.to/) / [Subreddit](https://www.reddit.com/r/Mangafire/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
 * [The Manga Library](https://rentry.co/FMHYBase64#the-manga-library)
-* [MangaReader](https://mangareader.to/) / [Subreddit](https://www.reddit.com/r/MangaReaderOfficial/) / [Discord](https://discord.com/invite/Bvc5mVcUqE)
 * [MangaHub](https://mangahub.io/)
 * [MangaNato](https://www.manganato.gg/), [2](https://www.nelomanga.net/), [3](https://www.mangakakalot.gg), [4](https://www.natomanga.com/) / [Discord](https://discord.gg/Qhz84GGvE9)
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
