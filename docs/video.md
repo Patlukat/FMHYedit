@@ -52,7 +52,7 @@
 * [VLOP](https://www.vlop.fun/) - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/vlopstreaming) / [Discord](https://discord.gg/GzXQWKUbjh)
 * [Filmex](https://filmex.to/), [2](https://fmovies4u.com/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/WWrWnG8qmh)
 * [HydraHD](https://hydrahd.io/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
-* [Cinezo](https://www.cinezo.net/) - Movies / TV / Anime / Watch Parties / [Discord](https://discord.gg/k6QxBBzr)
+* [Cinezo](https://www.cinezo.net/) - Movies / TV / Anime / Watch Parties / [Discord](https://discord.gg/Gx27YMK73d)
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / Watch Parties / [Discord](https://discord.gg/V8XUhQb2MZ)
 * [ViewVault](https://viewvault.org/) - Movies / TV / Anime
 * [MovieMaze](https://moviemaze.cc/) - Movies / TV / Anime
@@ -942,7 +942,7 @@
 # ► Helpful Sites / Tools
 
 * 🌐 **[r/Animepiracy Wiki](https://thewiki.moe/)** or [Awesome ACG](https://github.com/soruly/awesome-acg) - Anime Tool Indexes
-* ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_media_covers_.2F_posters)**
+* ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_media_covers_.2F_posters)**
 * ↪️ **[Media Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_media_soundtracks)**
 * ↪️ **[File Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_data_automation)**
 * ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [GitHub](https://github.com/Andrews54757/FastStream/)

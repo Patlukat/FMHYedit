@@ -112,7 +112,7 @@ For email privacy, we recommend **[Proton](https://proton.me/mail)** and for sea
 
 > How can I download / activate Windows for free?
 
-Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://gravesoft.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://massgrave.dev/)**. If you'd like to use Windows 10 past its End-Of-Life date, follow **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)**.
+Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://gravesoft.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://rentry.co/FMHYBase64#mas)**. If you'd like to use Windows 10 past its End-Of-Life date, follow **[Windows 10 After EOL](https://rentry.co/FMHYBase64#win10-eol)**.
 
 * **[Windows Install / Debloat Guide](https://wispydocs.netlify.app/docs/windows/)**
 * **Software Piracy: [CracksURL](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
@@ -162,7 +162,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 * **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Language
 * **[Piracy Glossary](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
-* **[Unsafe Sites / Software](https://fmhy.net/unsafesites)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
+* **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
 * **[Base64 Decoders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)** - Tools to decode encrypted base64 links
 * **[FMHY.net](https://fmhy.net/)** - Our website with many more sites / tools
 

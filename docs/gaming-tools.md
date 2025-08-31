@@ -7,7 +7,7 @@
 # ► Gaming Tools
 
 * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
-* ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_media_covers_.2F_posters)**
+* ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_media_covers_.2F_posters)**
 * ↪️ **[Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_game_soundtracks)**
 * ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Fixes & Workarounds / [Discord](https://discord.gg/KDfrTZ8)
 * ⭐ **[Library of Codexes](https://libraryofcodexes.com/)** - Game Codex Library
@@ -456,7 +456,7 @@
 
 ## ▷ Switch Homebrew
 
-* ⭐ **[Switch Hacks Guide]](https://switch.hacks.guide/)** or [Switchway](https://switchway.net/)
+* ⭐ **[Switch Hacks Guide](https://switch.hacks.guide/)** or [Switchway](https://switchway.net/)
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store
 * [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) or [r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
