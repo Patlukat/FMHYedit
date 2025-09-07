@@ -276,6 +276,7 @@
 * ⭐ **[Drawabox](https://drawabox.com/)**, [Croquis Cafe](https://croquis.cafe/), [Drawing Starter Pack Playlist](https://www.youtube.com/playlist?list=PL7KO8uN5A9PJsQIJzecnohhKjtMnSuFtR), [FarsiTuts](https://t.me/farsituts) or [Bill Martin's Guide to Drawing](https://www.guidetodrawing.com/) - Drawing Lessons
 * ⭐ **[Proko](https://www.youtube.com/user/ProkoTV/videos)** - Figure Drawing Lessons
 * ⭐ **[PaintingTube](https://painting.tube)**, [MarcoBucci](https://www.youtube.com/@marcobucci), [Alphonso Dunn](https://www.youtube.com/c/ALPHONSODUNN/videos?view=0&sort=p&flow=grid), [Feng Zhu FZD](https://www.youtube.com/user/FZDSCHOOL/videos), [Art Fundamentals](https://www.youtube.com/playlist?list=PLVgLT-e3jXPDgeED0pD0BPq8kY1VAZAGa) or [Circle Line Art](https://www.youtube.com/user/circlelinemedia/videos) - Art Video Tutorials
+* [Ubu](https://ubuweb.com/) - Avant-Garde Artifacts
 * [online-courses](https://online-courses.club/) - Art / Design Courses
 * [TutsPlus](https://tutsplus.com/) - Creative Courses
 * [Curriculum for the Solo Artists](https://alexhuneycutt.gumroad.com/l/free_curriculum) - Self-Taught Artist Curriculum
@@ -891,7 +892,8 @@
 * [SSC](https://www.ssc.education.ed.ac.uk/BSL/) - BSL Academic Term Dictionary
 * [BKS](https://bks.org.uk/) - British Key Word Signs
 * [Interpreter Services](https://alb-accmedia.austincc.edu/signs) - Specialized Sign Langauge Dictionary
-* [SignSchool](https://www.signschool.com/) - Sign Language Learning / Dictionary 
+* [SignSchool](https://www.signschool.com/) - Sign Language Learning / Dictionary
+* [⁠SooSL](https://www.soosl.net/) - Create Custom Sign Language Dictionaries
 * [ASL Learning](https://asl.ms/) - ASL Learning Site
 * [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
 * [SignLearner](https://signlearner.com/) - Learn Sign Language while Browsing Internet / Chromium
