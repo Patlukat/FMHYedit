@@ -7,8 +7,8 @@ hero:
   name: Kugelstadt freemediaheckyeah
   tagline: Copy of fmhy.net!
   announcement:
-    title: Fight Chat Control 🔒
-    link: /posts/FCC
+    title: Why We're Here 🤍
+    link: /posts/WWH
   image:
     src: /test.png
     alt: FMHY Icon
