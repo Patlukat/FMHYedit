@@ -32,7 +32,7 @@
 * ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://spot-transfer.vercel.app/), [2](https://github.com/mahdi-y/Spotify2YoutubeMusic), [3](https://github.com/linsomniac/spotify_to_ytmusic), [4](https://github.com/sigma67/spotify_to_ytmusic) / [Better Lyrics](https://better-lyrics.boidu.dev/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/boidushya/better-lyrics)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
-* ⭐ **[TrackerHub](https://rentry.co/FMHYB64#trackerhub)** - Unreleased Songs
+* ⭐ **[ArtistGrid](https://artistgrid.cx/)** or [TrackerHub](https://trackerhub.cx/) / [Discord](https://discord.gg/trackerhub) - Unreleased / Check Google Sheets
 * [Spotify](https://open.spotify.com/) - Web Player
 * Spotify Tools - [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics App](https://github.com/mantou132/Spotify-Lyrics), [Lyrics Script](https://greasyfork.org/en/scripts/377439)
 * [Audiomack](https://audiomack.com/) - Browser Music
@@ -256,6 +256,7 @@
 * [Pluvior](https://pluvior.com/) - Ambient Rain
 * [Rainyscope](https://rainyscope.com/) - Ambient Rain
 * [ambiphone](https://ambiph.one/) or [Moodist](https://moodist.app/) - Simple Ambient Sound Mixers
+* [Ambie](https://ambieapp.com/) - Ambient Sound Mixer / App
 * [Click Bath](https://hamishlang.github.io/clickbath/) - Ambient Sound Mixer with Customizable Musical Scale / Instruments
 * [IMissTheOffice](https://imisstheoffice.eu/) - Ambient Office Sounds with Interactive UI
 * [Homesick](https://scoreascore.com/homesick) - Ambient Home Sounds
@@ -264,7 +265,6 @@
 * [Relaxing Sounds](https://unifycosmos.com/relaxing-sounds/), [Calmsound](https://www.calmsound.com/), [Click Relax](https://click-relax.com/), [Moszen](https://www.moszen.com/), [Zen Sounds](https://app.zenflowchart.com/zen-sounds) or [NoisyLoop](https://noisyloop.com/) - Ambient Soundscapes
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - Create Room / Lofi Player
 * [Wisdom Tree](https://github.com/HACKER097/wisdom-tree/) - TUI Concentration App
-* [Ambie](https://ambieapp.com/) - Ambient Sound Desktop App
 * [Generative.fm](https://generative.fm/) or [Lofi Generator](https://lofigenerator.com/) - Generative Ambient Music
 * [Earth.fm](https://earth.fm/), [tree.fm](https://www.tree.fm/) or [Sounds of Maine](https://soundsofmaine.life/) - Field Recordings
 * [HaloMe](https://halome.nu/) - Halo Menu Screens
@@ -407,7 +407,7 @@
 ***
 
 * 🌐 **[⁠Music Download Guide](https://rentry.co/wheredownloadmusic)** - Downloading Guide / Site Index
-* ⭐ **[TrackerHub](https://rentry.co/FMHYB64#trackerhub)** - Unreleased / Check Google Sheets
+* ⭐ **[ArtistGrid](https://artistgrid.cx/)** or [TrackerHub](https://trackerhub.cx/) / [Discord](https://discord.gg/trackerhub) - Unreleased / Check Google Sheets
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
 * [r/xTrill](https://reddit.com/r/xTrill) - Download App / [Backup](https://reddit.com/r/xTrillBackup)
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool
