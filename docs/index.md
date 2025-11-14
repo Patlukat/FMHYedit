@@ -7,7 +7,7 @@ hero:
   name: Kugelstadt freemediaheckyeah
   tagline: Copy of fmhy.net!
   announcement:
-    title: Fight Chat Control 🔒
+    title: Fight Chat Control 2.0 🔒
     link: /posts/FCC
   image:
     src: /test.png
