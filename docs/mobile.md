@@ -753,9 +753,8 @@
 * ⭐ **[Readera](https://readera.org/)** - Ebook Reader
 * ⭐ **[Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer)** - Audiobook Player
 * [ElevenReader](https://elevenreader.io/) or [ReadWise](https://readwise.io/read) (reset trial) - Book to Audiobook Converters
-* [Voice](https://github.com/PaulWoitaschek/Voice) - Audiobook Player
+* [Voice](https://voice.woitaschek.de/) - Audiobook Player / [GitHub](https://github.com/PaulWoitaschek/Voice/)
 * [Sirin](https://play.google.com/store/apps/details?id=com.sirin.android) - Audiobook Player
-* [AudioAnchor](https://github.com/flackbash/AudioAnchor) - Audiobook Player
 * [PlayBook](https://github.com/Goodwy/PlayBook) - Audiobook Player
 * [eStories](https://play.google.com/store/apps/details?id=com.estories) - Audiobook Player
 * [ABS FLutter](https://github.com/Vito0912/abs_flutter) or [Lissen](https://github.com/GrakovNe/lissen-android/) - Self-Hosted Audiobook Server
@@ -949,7 +948,6 @@
 * [⁠Night Video Player](https://play.google.com/store/apps/details?id=com.rz.night.player)
 * [MX Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Codec](https://github.com/USBhost/MX_FFmpeg)
 * [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
-* [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata)
 * [Next Player](https://github.com/anilbeesetti/nextplayer)
 * [⁠Arc Video Player](https://www.arctechstudio.com/)
 * [Audiofy](https://play.google.com/store/apps/details?id=com.prime.player)
