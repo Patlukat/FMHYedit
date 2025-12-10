@@ -48,7 +48,6 @@
 * [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
 * [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badge Info
 * [Discord Previews](https://discordpreviews.com/) - Get Early Access to Discord Features / [X](https://x.com/discordpreviews)
-* [GiveMeBadge](https://givemebadge.alexflipnote.dev/) - Unlock Discord Dev Badges
 * [Discord-Api](https://discord.gg/discord-api) - Discord API Chat
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Discord Datamining via JS Files
 * [Discord TTS Bot](https://docs.moonstar-x.dev/discord-tts-bot/) - Text to Speech for Discord
@@ -70,7 +69,7 @@
 * [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4) / [GitHub](https://github.com/replugged-org/replugged)
 * [Legcord](https://legcord.app/) - Discord Client / Lightweight / [Privacy-Fork](https://github.com/Milkshiift/GoofCord) / [Discord](https://discord.gg/TnhxcqynZ2) / [GitHub](https://github.com/Legcord/Legcord)
 * [BetterDiscord](https://betterdiscord.app/) - Discord Client Mod / [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins) / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
-* [Equicord](https://equicord.org) or [⁠Equibop](https://github.com/Equicord/Equibop) - Discord Client Mod / [Plugins](https://equicord.org/plugins) / [Discord](https://discord.gg/5Xh2W87egW) / [GitHub](https://github.com/Equicord/Equicord)
+* [Equicord](https://equicord.org) or [⁠Equibop](https://equibop.org/) / [GitHub](https://github.com/Equicord/Equibop) - Discord Client Mod / [Plugins](https://equicord.org/plugins) / [Discord](https://discord.gg/5Xh2W87egW) / [GitHub](https://github.com/Equicord/Equicord)
 * [abaddon](https://github.com/uowuo/abaddon) - Discord Client Mod / Lightweight / [Discord](https://discord.gg/wkCU3vuzG5)
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
 * [Vesktop](https://vesktop.dev/) - Web Client w/ Vencord Preinstalled / [GitHub](https://github.com/Vencord/Vesktop)
