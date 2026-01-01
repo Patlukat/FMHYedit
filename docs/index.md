@@ -7,8 +7,8 @@ hero:
   name: Kugelstadt freemediaheckyeah
   tagline: Copy of fmhy.net!
   announcement:
-    title: Dec 2025 Updates ❄️
-    link: /posts/dec-2025
+    title: Jan 2026 Updates 🎇 
+    link: /posts/jan-2026
   image:
     src: /xmasfmhy.png
     alt: FMHY Icon
