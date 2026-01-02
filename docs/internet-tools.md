@@ -316,7 +316,7 @@
 * ⭐ **[lychee](https://lychee.cli.rs/)** - URL Scanner / [GitHub](https://github.com/lycheeverse/lychee/)
 * [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [Changd](https://github.com/paschmann/changd) or [Follow That Page](https://www.followthatpage.com/) - Page Change Detection / Notification
 * [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - Turn Plain Text URLs Into Links
-* [Open Bulk URL](https://openbulkurl.com/), [Open URL](https://openurl.online/) or [OpenAllURLs](https://www.openallurls.com/) - Bulk Open URLs
+* [Open Bulk URL](https://openbulkurl.com/), [Multiple Link Opener](https://urltoolshub.com/multiple-link-opener/) or [OpenAllURLs](https://www.openallurls.com/) - Bulk Open URLs
 * [Link Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
 * [scrt.link](https://scrt.link/) or [Temporary URL](https://www.temporary-url.com/) - Temporary Single-Use Links
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - File Host Link Auto-Check
@@ -450,6 +450,7 @@
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
+* [CF Temp Mail](https://em.bjedu.tech/en), [2](https://mail.awsl.uk/en) - Forever / Forever / 5 Domains / [GitHub](https://github.com/dreamhunter2333/cloudflare_temp_email/blob/main/README_EN.md)
 * [⁠DuckSpam](https://duckspam.com/) - Forever / Forever / 1 Domain
 * [⁠AltAddress](https://altaddress.org/) - Forever / 3 Days / 14 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
