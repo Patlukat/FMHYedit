@@ -1242,7 +1242,7 @@
 ## ▷ Cybersecurity
 
 * 🌐 **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)**, [BlueTeam Tools](https://github.com/A-poc/BlueTeam-Tools) or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
-* 🌐 **[Cybersecurity YouTube Channels](https://github.com/superlincoln953/Free-Official-Youtube-Content?tab=readme-ov-file#tech--security)**
+* 🌐 **[Official Cybersecurity YouTube Channels](https://github.com/superlincoln953/Free-Official-Youtube-Content?tab=readme-ov-file#tech--security)**
 * 🌐 **[CTF Sites](https://ctfsites.github.io/)**, [echoCTF.RED](https://echoctf.red/), [CTF101](https://ctf101.org/), [picoCTF](https://picoctf.org/), [CTF Beginners Guide](https://jaimelightfoot.com/blog/so-you-want-to-ctf-a-beginners-guide/), [CTFtime](https://ctftime.org/) or [CTFLearn](https://ctflearn.com/) - CTF Resources / Guides
 * 🌐 **[Awesome Sites to Test On](https://github.com/BMayhew/awesome-sites-to-test-on)** - Cybersecurity Practice Sites
 * ⭐ **[HackTricks](https://book.hacktricks.wiki/)** - Practical Penetration Testing & Security Auditing Tips
@@ -1475,7 +1475,7 @@
 * [PrideFlags](https://www.prideflags.org/) - LGBT Flag Index
 * [TheDevilsDictionary](https://www.thedevilsdictionary.com/) - Cynical Dictionary
 * [WordSafety](http://wordsafety.com/) - Swear Word Indexes
-* [PyGlossary](https://github.com/ilius/pyglossary) - Convert Dictionary Files
+* [PyGlossary](https://github.com/ilius/pyglossary) or [DSL Converter](https://dictz.github.io/dsl_converter.html) - Convert Dictionary Files
 
 ***
 
