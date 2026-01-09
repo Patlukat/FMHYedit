@@ -154,9 +154,9 @@
 * 🌐 **[Forge Comparison](https://git.sdf.org/humanacollaborator/humanacollabora/src/branch/master/forge_comparison.md)**, [Forgejo](https://forgejo.org/compare/#only-develops-free-software) or [Forgeperf.org](https://forgeperf.org/) - Git Collab Tool Comparison
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * ⭐ **[Fork](https://git-fork.com/)** or [GitButler](https://github.com/gitbutlerapp/gitbutler) - Git Desktop Clients
-* ⭐ **[Codeberg](https://codeberg.org/)** / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [Drift](https://drift.lol/), [GitLab](https://about.gitlab.com/), [sourcehut](https://sourcehut.org/), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/), [Jujutsu](https://github.com/jj-vcs/jj) or [Notabug](https://notabug.org/) - Git Hosting Services
+* ⭐ **[Codeberg](https://codeberg.org/)** / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [Drift](https://drift.lol/), [GitLab](https://about.gitlab.com/), [sourcehut](https://sourcehut.org/), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/) or [Notabug](https://notabug.org/) - Git Hosting Services
 * [Gitea](https://about.gitea.com/) or [Forgejo](https://forgejo.org/) - Self-Hosted Repository Platforms
-* [Git](https://git-scm.com/) - Version Control System
+* [Git](https://git-scm.com/) or [Jujutsu](https://www.jj-vcs.dev) - Version Control Systems
 * [git-sim](https://github.com/initialcommit-com/git-sim) - Visually Simulate Git Operations Before Running
 * [GitKraken](https://www.gitkraken.com/) or [Graphite](https://graphite.com/), [Ungit](https://github.com/FredrikNoren/ungit) or [RelaGit](https://rela.dev/) - Git GUIs
 * [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/gitui-org/gitui) - Git TUIs
@@ -834,7 +834,6 @@
 * [Lorem.space](https://lorem.space/), [dummyimage](https://dummyimage.com/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/) or [PicSum](https://picsum.photos/) - Site Placeholder Images
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
 * [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/tooll3/t3), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/theatre-js/theatre), [GSAP](https://gsap.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com), [Mantra](https://jeremyckahn.github.io/mantra/) or [Lottielab](https://www.lottielab.com/) - Create Motion Graphics
-* [useAnimations](https://useanimations.com/index.html) or [LordIcon](https://lordicon.com/) - Animated Icons
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
 
@@ -894,7 +893,7 @@
 
 ## ▷ SVG Tools
 
-* ↪️ **[SVG / Vector Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)**
+* ↪️ **[SVG / Vector Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)**
 * [Method](https://editor.method.ac/), [SVG.wtf](https://svg.wtf/), [Boxy SVG](https://boxy-svg.com/), [Mossaik](https://mossaik.app/) or [SVG Viewer](https://www.svgviewer.dev/) - SVG Editors / Viewers
 * [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
 * [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
