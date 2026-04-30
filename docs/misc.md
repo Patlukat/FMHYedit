@@ -1545,6 +1545,8 @@
 * [Google Earth](https://www.google.com/earth/about/versions) - Explore Earth
 * [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
 * [elgooG](https://elgoog.im/) - Google Easter Eggs
+* [⁠Tolkien Gateway](https://tolkiengateway.net/) - J.R.R. Tolkien Content Encyclopedia / Wiki
+* [Middle-Earth Map](https://middle-earth-interactive-map.web.app/) - Tolkien's Middle-Earth Map
 * [QuarterMaester](https://quartermaester.info/) - Game of Thrones Map
 * [⁠Git City](https://www.thegitcity.com/) - 3D GitHub City / [GitHub](https://github.com/srizzon/git-city)
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
@@ -1655,6 +1657,7 @@
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
 * [OpenChaos.dev](https://www.openchaos.dev/) - Evolving Open-Source Project Governed by Community Votes / [GitHub](https://github.com/skridlevsky/openchaos)
 * [Grant Kot](https://grantkot.com/) - Toys / Games
+* [R74n](https://r74n.com/) - Toys / Games
 * [Oimo](https://oimo.io/works) - Toys / Games
 * [AIDN](https://aidn.jp/) - Toys / Games
 * [Neave](https://codepen.io/neave) / [2](https://neave.com/) - Toys / Games
