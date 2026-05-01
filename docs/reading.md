@@ -81,7 +81,7 @@
 
 ## ▷ PDF Search
 
-* ⭐ **[Ocean of PDF](https://oceanofpdf.com/)** - Books / Comics
+* ⭐ **[OceanOfPDF](https://oceanofpdf.com/)** - Books / Comics
 * [pdfroom](https://pdfroom.com/) - Books / Comics
 * [Ebook PDF](https://ebookpdf.com/) - Books
 * [KuPDF](https://kupdf.net/) - Books
@@ -193,7 +193,6 @@
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
 * [Booklet Library](https://bookletlibrary.org/) - Booklet Library
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
-* [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG
 * [Project Aon](https://www.projectaon.org/en/Main/Home) - Lone Wolf Gamebooks
 * [Trans Reads](https://transreads.org/) - Transgender-Focused Literature
 * [Anarchist FAQ](https://www.anarchistfaq.org/) - Anarchism / Translations
