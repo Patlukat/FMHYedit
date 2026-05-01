@@ -7,8 +7,8 @@ hero:
   name: Kugelstadt freemediaheckyeah
   tagline: Copy of fmhy.net!
   announcement:
-    title: Our 8-Year Anniversary 💖
-    link: /posts/anniversary
+    title: May 2026 Updates 🌼
+    link: /posts/may-2026
   image:
     src: test.png
     alt: FMHY Icon
