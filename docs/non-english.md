@@ -355,7 +355,8 @@
 
 ## ▷ Downloading / Stahování
 
-* ⭐ **[hellspy](https://hellspy.to/)** or [prehraj](https://prehraj.to/) - Video / Geoblocked
+* ⭐ **[hellspy](https://hellspy.to/)** - Video / Geoblocked
+*  [prehraj](https://prehraj.to/) - Video
 * [WebShare](https://webshare.cz/) - Video / Audio / Books / NSFW
 * [War-Forum](https://war-forum.net/) - Video / Audio / Books / Comics / NSFW / Requires Sign-Up
 * [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW / Requires Sign-Up
@@ -1018,7 +1019,6 @@
 * [DigiMovie](https://digimoviez.com/) - Movies / TV / Sub / Dub / 1080p
 * [iranianfilmarch](https://t.me/iranianfilmarch) - Iranian Movies / 1080p
 * [AnimeSubtitle](https://animesubtitle.ir/) - Anime Subtitles
-* [Just Music](https://just-music.ir/) - Classical Music / MP3
 * [TeleLeecherbot](https://t.me/TeleLeecherbot) - Movie Leech Telegram Bots
 * [FilmgramBot](https://t.me/FilmgramBot) or [FileMovieBot](https://t.me/FileMovieBot) - Movie Search Telegram Bots
 * [hoseinwave](https://rj.hoseinwave.ir/) - Javen Radio Downloader
@@ -1101,7 +1101,7 @@
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
 * [radio-polska](https://www.radio-polska.pl/) or [radioyanosik](https://radioyanosik.pl/) - Radio
 * [FlowFlix](https://flowflix.vercel.app/) - Streaming App / Windows, Android / [Discord](https://discord.gg/VSUWb283RK) / [GitHub](https://github.com/qJulianx/FlowFlixWeb)
-* [Naikamu](https://naikamu.com/) - Anime Streaming App / Android, iOS / [GitHub](https://github.com/FezMLG/Naikamu)
+* [Naikamu](https://github.com/FezMLG/Naikamu)) - Anime Streaming App / Android, iOS
 * [adapter](https://adapter.pl/) - Descriptive Audio for Blind Users
 
 ## ▷ Reading / Czytanie
@@ -1542,7 +1542,6 @@
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
-* [ModoCine](https://modocine.com/) - Movies / TV
 * [Tubepelis](https://www.tubepelis.com/) - Movies / TV
 * [PelisPlus](https://ww3.pelisplus.to/) - Movies / TV
 * [La Movie](https://la.movie/) - Movies / TV

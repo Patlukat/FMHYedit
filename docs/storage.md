@@ -217,7 +217,7 @@
 * [ichi.moe](https://ichi.moe/) - Japanese to English Phrase Translation
 * [Nippon Colors](https://nipponcolors.com/) - Traditional Japanese Color Meanings
 
-[Jotoba](https://jotoba.de/), [Tagaini](https://www.tagaini.net/), [Takoboto](https://takoboto.jp/), [Jisho](https://jisho.org/), [Massif](https://github.com/rsimmons/massif), [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380), [JapBase](https://japbase.neocities.org/), [Weblio](https://ejje.weblio.jp/), [JS-Dict](https://github.com/petlyh/JS-Dict), [rtk-search](https://hochanh.github.io/rtk/)
+[Jotoba](https://jotoba.de/), [Tagaini](https://www.tagaini.net/), [Takoboto](https://takoboto.jp/), [Jisho](https://jisho.org/), [Massif](https://github.com/rsimmons/massif), [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380), [Weblio](https://ejje.weblio.jp/), [JS-Dict](https://github.com/petlyh/JS-Dict), [rtk-search](https://hochanh.github.io/rtk/)
 
 ### Kanji Learning
 
