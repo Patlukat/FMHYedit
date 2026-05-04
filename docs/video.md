@@ -12,7 +12,7 @@
 
 * ⭐ **[Cineby](https://www.cineby.sc/)**, [Bitcine](https://www.bitcine.net/) or [Fmovies+](https://www.fmovies.gd/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * ⭐ **[XPrime](https://xprime.su/)**, [2](https://xprime.stream/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nqwzv8U6Pg)
-* ⭐ **[Rive](https://rivestream.org/)**, [2]((https://www.rivestream.app/) or [CorsFlix](https://watch.corsflix.net), [2](https://watch.corsflix.dpdns.org/), [3](https://corsflix.net) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
+* ⭐ **[Rive](https://rivestream.org/)**, [2](https://www.rivestream.app/) or [CorsFlix](https://watch.corsflix.net), [2](https://watch.corsflix.dpdns.org/), [3](https://corsflix.net) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[LordFlix](https://lordflix.org/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/jUSTtedkpY)
 * ⭐ **[Aether](https://aether.mom/)**, [2](https://aether.bar/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * ⭐ **[PopcornMovies](https://popcornmovies.org/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/JAxTMkmcpd)

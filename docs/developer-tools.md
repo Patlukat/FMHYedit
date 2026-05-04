@@ -766,7 +766,7 @@
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [PocketBase](https://pocketbase.io/) - Open-Source Backend Platforms / [GitHub](https://github.com/pocketbase/pocketbase)
 * [⁠CS Chromium](https://cs.chromium.org/) - Chromium Code Search
-* [Caddy](https://caddyserver.com/) - Web Server
+* [Caddy](https://caddyserver.com/) - Web Server / [GitHub](https://github.com/caddyserver/caddy)
 * [Directory Lister](https://directorylister.com/) - Web-Based Directory Listing
 * [BawkBox](https://bawkbox.com/) - Website Widgets
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO

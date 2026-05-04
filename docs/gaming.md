@@ -112,7 +112,6 @@
 * [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform / [Subreddit](https://www.reddit.com/r/sidequest)
 * [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games / [Discord](https://discord.gg/UVs9V58)
 * [UEVR](https://uevr.io/) - Convert Unreal Engine Games to VR
-* [Oculess](https://github.com/basti564/Oculess) - Remove Oculus Quest Account Requirements & Telemetry
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
 
 ***
