@@ -443,6 +443,7 @@
 * [EMRap](https://www.emrap.org/hd) - Emergency Medicine Videos
 * [Calgary Guide](https://calgaryguide.ucalgary.ca/) - Disease Pathophysiology / Manifestation Flow-Charts
 * [MalaCards](https://www.malacards.org/) - Human Disease Database
+* [⁠Folding@home](https://foldingathome.org/) - Donate Idle PC to Disease Research
 * [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data
 * [Pathology Outlines](https://www.pathologyoutlines.com/) - Pathology Info
 * [University of Utah Pathology](https://webpath.med.utah.edu/webpath.html) - Pathology Guide
@@ -579,8 +580,9 @@
 * [⁠WildWinds](https://www.wildwinds.com/) - Ancient Numismatics / Coin Database
 * [911 Realtime](https://911realtime.org/) - 9/11 in Real-Time
 * [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
-* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Collection
+* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) or [Tasting History](https://www.tastinghistory.com/) - Historical Recipes
 * [⁠Gode Cookery](http://www.godecookery.com/godeboke/godeboke.htm) - Authentic Medieval Recipes & Historical Info
+* [⁠The Food Historian](https://www.thefoodhistorian.com/) - Food History Blog
 * [SmartHistory](https://smarthistory.org/) - Art / Cultural Object History
 * [⁠gwulo](https://gwulo.com/) - Historical Hong Kong Photo Archive
 * [CARI](https://cari.institute/) or [CARI Are.na](https://www.are.na/consumer-aesthetics-research-institute/channels) - Design Aesthetics History
@@ -1223,7 +1225,7 @@
 * ↪️ **[Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
 * ⭐ **[git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)**, [Git Commands](https://gabrieldejesus.github.io/git-commands/) or [Git Cheatsheet](https://www.ndpsoftware.com/git-cheatsheet.html#loc=index;) - Git Command Lists
-* ⭐ **[OpenVim](https://openvim.com/)** or [Vim Hero](https://www.vim-hero.com/) - Interactive Vim Tutorials
+* ⭐ **[OpenVim](https://openvim.com/)** - Interactive Vim Tutorials
 * ⭐ **[StarSQL](https://selectstarsql.com/)**, [⁠SQL Practice](https://www.sql-practice.online/) or [Learn SQL](https://sqlbolt.com/) - SQL Lessons / Practice
 * [First Timers Only](https://www.firsttimersonly.com/) - Contribution Guide for Beginners
 * [Beej's Guide to Git](https://beej.us/guide//) or [Git Tips](https://github.com/git-tips/tips) - Git Guides / Tips
