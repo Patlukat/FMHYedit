@@ -14,13 +14,10 @@ const syncState = () => {
 let observer: MutationObserver | undefined
 
 onMounted(() =>
-  (observer = new MutationObserver(syncState)).observe(
-    document.documentElement,
-    {
-      attributes: true,
-      attributeFilter: ['class']
-    }
-  )
+  (observer = new MutationObserver(syncState)).observe(document.documentElement, {
+    attributes: true,
+    attributeFilter: ['class']
+  })
 )
 
 onMounted(syncState)
@@ -45,7 +42,7 @@ const toggleStarred = (value: boolean) => {
     v-model="isOn"
     :disabled="isDisabled"
     :class="{ disabled: isDisabled }"
-    @update:model-value="toggleStarred"
+    @update:modelValue="toggleStarred"
   />
 </template>
 
