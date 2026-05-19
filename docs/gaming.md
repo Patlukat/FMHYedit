@@ -132,12 +132,12 @@
 
 ## ▷ Abandonware / Retro
 
-* ⭐ **[My Abandonware](https://www.myabandonware.com/)** - Abandonware
 * ⭐ **[AbandonwareGames](https://abandonwaregames.net/)** - Abandonware
 * ⭐ **[Retro eXo](https://www.retro-exo.com/)** - Abandonware / Retro PC Games / Torrents
 * ⭐ **[Zombs-Lair](https://www.zombs-lair.com/)** - Abandonware / [Discord](https://discord.com/invite/JdyPtRv)
 * ⭐ **[VETUSWARE](https://vetusware.com/category/Games/)** - Abandonware
 * ⭐ **[CollectionChamber](https://collectionchamber.blogspot.com/)** - Abandonware
+* ⭐ **[My Abandonware](https://www.myabandonware.com/)** - Abandonware
 * ⭐ **[LegendsWorld](https://www.legendsworld.net/)** - Retro PC Adventures
 * ⭐ **[RAZE](https://github.com/ZDoom/Raze)** / [Discord](https://discord.com/invite/zdoom-edge-raze-official-268086704961748992) or [BuildGDX](https://m210.duke4.net/) / [Discord](https://discord.gg/zZw2eq3n7G) - Oldschool Shooter Engines
 * [C.A.G.E](https://discord.gg/cage) - Abandonware / Requires Discord
@@ -380,7 +380,6 @@
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [NSWGame](https://nswgame.com/) - ROMs / DS / 3DS / Switch / Wii / WiiU / Avoid PC Games
 * [notUltraNX](https://not.ultranx.ru/en) - ROMs / Switch / Requires Sign-Up
-* [ROMSim](https://romsim.com/) - ROMs / Switch / [Discord](https://discord.gg/Zgdhq7xDcd)
 * [ROMSLAB](https://romslab.com/) - ROMs / Switch
 * [NXbrew](https://nxbrew.net/) - ROMs / Switch
 * [GNS](https://rentry.co/FMHYB64#gns) - ROMs / Switch
@@ -445,7 +444,7 @@
 * [RetroGames](https://www.retrogames.cz/) - Retro Consoles
 * [Retro Games Bot](https://retrogamesbot.com/) - Retro Consoles
 * [PlayGames](https://playgames.onl/) - Retro Consoles
-* [Retro Online](https://retroonline.net/) - Retro Consoles / [Discord](https://discord.gg/5CBvdysSnZ) / [GitHub](https://t.me/RetroOnlineNet)
+* [Retro Online](https://retroonline.net/) - Retro Consoles / [Discord](https://discord.gg/5CBvdysSnZ) / [Telegram](https://t.me/RetroOnlineNet)
 * [Aurora](https://skitty.xyz/aurora/) - Retro Consoles / [Discord](https://discord.gg/UAf7Bad)
 * [Vizzed](https://www.vizzed.com/) - Retro Consoles / Multiple-Emulators
 * [Online.OldGames](https://online.oldgames.sk/) - Retro Consoles / Multiple-Emulators
@@ -559,6 +558,7 @@
 * [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles
 * [RobinWords](https://www.robinwords.com/) - Word Ladder Game
 * [⁠TiledWords](https://tiledwords.com/) - Daily Tile Rotation Word Game
+* [Three Letters Game](https://threelettersgame.com/) - Daily Word Game
 * [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
 * [Squaredle](https://squaredle.app/) - Daily Word Puzzle / [Discord](https://discord.com/invite/aredl)
@@ -1078,9 +1078,6 @@
 * [⁠Pokelike](https://pokelike.xyz/) - Pokémon Roguelike / [Discord](https://discord.gg/YsakfWStYq)
 * [Pokemon Auto Chess](https://pokemon-auto-chess.com/) - Pokemon Style Teamfight Tactics / [Discord](https://discord.gg/6JMS7tr) / [GitHub](https://github.com/keldaanCommunity/pokemonAutoChess)
 * [TCG ONE](https://tcgone.net/) - Online Pokémon Card Game / [Discord](https://discord.gg/MTBGxVE)
-
-
-
 
 ***
 

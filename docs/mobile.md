@@ -293,6 +293,7 @@
 * [Quick Cursor](https://play.google.com/store/apps/details?id=com.quickcursor) - Cursor for Large Smartphones
 * [Caffeine](https://lab.zhs.moe/caffeine/) or [KeepScreenOn](https://github.com/elastic-rock/KeepScreenOn) - Keep Screen On
 * [FakeStandby](https://fakestandby.jonasbernard.de/) - Turn Off the Screen While App is Running
+* [Twilight](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Blue Light Filter
 * [KineStop](https://play.google.com/store/apps/details?id=com.urbandroid.kinestop) - Prevent Motion Sickness
 * [Screen Recorder](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder) or [⁠CaptureCap](https://github.com/yepgoryo/CaptureCap) - Screen Recorders w/ Internal Audio Support
 
@@ -518,7 +519,7 @@
 
 * ↪️ **[QR Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_qr_code_tools)**
 * ↪️ **[Hacker News Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)**
-* ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)** / [Alt Client](https://github.com/AChep/keyguard-app) / [X](https://twitter.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden), [Proton Pass](https://proton.me/pass/download/android), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) / [GitHub](https://github.com/PhilippC/keepass2android) - Password Managers
+* ⭐ **[KeePassDX](https://www.keepassdx.com/)** / [Resources](https://github.com/lgg/awesome-keepass), **[Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)** / [Alt Client](https://github.com/AChep/keyguard-app) / [X](https://twitter.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden), [Proton Pass](https://proton.me/pass/download/android), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) / [GitHub](https://github.com/PhilippC/keepass2android) - Password Managers
 * ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/mobile/)** / [GitHub](https://github.com/thunderbird/thunderbird-android) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/thunderbird.md), [Monocles](https://f-droid.org/packages/de.monocles.mail/) or [FairEmail](https://email.faircode.eu/) - Email Clients
 * ⭐ **[Network Survey](https://www.networksurvey.app/)**, [PCAPdroid](https://emanuele-f.github.io/PCAPdroid/) or [keepitup](https://github.com/ibbaa/keepitup/) - Network Monitors
 * [PairVPN Hotspot](https://pairvpn.com/hotspot), [Tetherfi](https://github.com/pyamsoft/tetherfi) or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
@@ -526,7 +527,7 @@
 * [NewsBang](https://www.newsbang.com/) - News App / US Only
 * [Glasswire](https://play.google.com/store/apps/details?id=com.glasswire.android), [⁠Traffic Light](https://github.com/leekleak/traffic-light/) or [DataMonitor](https://github.com/itsdrnoob/DataMonitor) - Data Usage Monitors
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
-* [Bookmark Manager Zero](https://bmz.absolutezero.fyi/), [Linkora](https://github.com/LinkoraApp/Linkora) / [Discord](https://discord.gg/ZDBXNtv8MD), [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager), [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client) - Bookmark Managers
+* [Bookmark Manager Zero](https://bmz.absolutezero.fyi/), [Linkora](https://github.com/LinkoraApp/Linkora) / [Discord](https://discord.gg/ZDBXNtv8MD), [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager), [⁠Deepr](https://github.com/yogeshpaliyal/Deepr) or [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client) - Bookmark Managers
 * [NativeAlpha](https://play.google.com/store/apps/details?id=com.cylonid.nativealpha) - Run Websites in Borderless Window
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
 * [PassAndroid](https://github.com/ligi/PassAndroid) - Manage Virtual Tickets / Passes
@@ -579,6 +580,7 @@
 * ⭐ **[1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager)** / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [Go Speed](https://gopeed.com/) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed), [AB Download Manager](https://abdownloadmanager.com/) / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager), [ADM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
 * ⭐ **[SD Maid SE](https://github.com/d4rken-org/sdmaid-se)** - File Manager / Cleaner / [Discord](https://discord.com/invite/8Fjy6PTfXu) / [Unlock Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sd-maid.md)
 * ⭐ **[MiXplorer](https://mixplorer.com/beta/)**, [2](https://mixplorer.com/), [3](https://xdaforums.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [MT Manager](https://mt2.cn/) - Advanced Root File Explorer / Manager / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
+* ⭐ **[Material Files](https://github.com/zhanghai/MaterialFiles)** - File Manager
 * ⭐ **[Fossify File Manager](https://github.com/FossifyOrg/File-Manager)** - File Manager
 * ⭐ **[ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)** - File Manager / Archiver
 * ⭐ **[Pairdrop](https://pairdrop.net/)** / [GitHub](https://github.com/fm-sys/snapdrop-android) or [⁠Snapdrop](https://node-snapdrop.onrender.com/) - File Sharing 
@@ -1368,7 +1370,7 @@
 # ► iOS Streaming
 
 * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
-* ⭐ **[Nuvio](https://nuvioapp.space/)** / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming), [Fusion](https://fusionapp.dev/) / [Discord](https://discord.gg/frkaK2B2Y9) or [Web Stremio](https://web.stremio.com/) / [Guide](https://blog.stremio.com/using-stremio-web-on-iphone-ipad/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+* ⭐ **[Nuvio](https://nuvioapp.space/)** / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming), [Fusion](https://fusionapp.dev/) / [Discord](https://discord.gg/frkaK2B2Y9), [Forward](https://apps.apple.com/app/forward/id6503940939) / [Telegram](https://t.me/forward_en) or [Web Stremio](https://web.stremio.com/) / [Guide](https://blog.stremio.com/using-stremio-web-on-iphone-ipad/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
 * ⭐ **[Luna](https://github.com/cranci1/Luna)** - Movies / TV / Anime / Extension-Based / [Modules](https://library.cufiy.net/library/) / [Discord](https://discord.gg/XR3SrmUbpd)
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
