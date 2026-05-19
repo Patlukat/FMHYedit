@@ -27,10 +27,9 @@ export const search: DefaultTheme.Config['search'] = {
     _render(src, env, md) {
       // Check if current file should be excluded from search
       const relativePath = env.relativePath || env.path || ''
-      const shouldExclude = excluded.some(
-        (excludedFile) =>
-          relativePath.includes(excludedFile) ||
-          relativePath.endsWith(excludedFile)
+      const shouldExclude = excluded.some(excludedFile =>
+        relativePath.includes(excludedFile) ||
+        relativePath.endsWith(excludedFile)
       )
 
       // Return empty content for excluded files so they don't appear in search
@@ -41,10 +40,7 @@ export const search: DefaultTheme.Config['search'] = {
       let contents = src
 
       //Strip any content wrapped in <!-- search-exclude --> tags
-      contents = contents.replace(
-        /<!--\s*search-exclude\s*-->[\s\S]*?<!--\s*\/search-exclude\s*-->/gi,
-        ''
-      )
+      contents = contents.replace(/<!--\s*search-exclude\s*-->[\s\S]*?<!--\s*\/search-exclude\s*-->/gi, '')
 
       // I do this as env.frontmatter is not available until I call `md.render`
       if (contents.includes('Beginners Guide'))
@@ -56,10 +52,7 @@ export const search: DefaultTheme.Config['search'] = {
     },
     miniSearch: {
       options: {
-        tokenize: (text) =>
-          text
-            .replace(/[\u2060\u200B]/g, '')
-            .split(/[\n\r #%*,=/:;?[\]{}()&]+/u), // simplified charset: removed [-_.@] and non-english chars (diacritics etc.)
+        tokenize: (text) => text.replace(/[\u2060\u200B]/g, '').split(/[\n\r #%*,=/:;?[\]{}()&]+/u), // simplified charset: removed [-_.@] and non-english chars (diacritics etc.)
         processTerm: (term, fieldName) => {
           // biome-ignore lint/style/noParameterAssign: h
           term = term

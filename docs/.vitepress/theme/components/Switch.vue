@@ -17,7 +17,7 @@ const emit = defineEmits<{
     :disabled="props.disabled"
     class="switch"
     :class="{ enabled: props.modelValue, disabled: props.disabled }"
-    @update:model-value="emit('update:modelValue', $event)"
+    @update:modelValue="emit('update:modelValue', $event)"
   >
     <span class="thumb" />
   </HeadlessSwitch>
@@ -51,9 +51,7 @@ const emit = defineEmits<{
 
 .switch.disabled .thumb {
   background-color: #fff;
-  box-shadow:
-    0 0 0 2px rgba(0, 0, 0, 0.2),
-    var(--vp-shadow-1);
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.2), var(--vp-shadow-1);
 }
 
 .dark .switch.disabled {
@@ -74,9 +72,7 @@ const emit = defineEmits<{
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  box-shadow:
-    0 0 0 2px rgba(0, 0, 0, 0.08),
-    var(--vp-shadow-1);
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.08), var(--vp-shadow-1);
 }
 
 .switch.enabled .thumb {
