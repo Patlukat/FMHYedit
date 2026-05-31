@@ -27,6 +27,7 @@
 * [MxToolbox](https://mxtoolbox.com/NetworkTools.aspx) - Network Tools
 * [NETworkManager](https://borntoberoot.net/NETworkManager/) / [GitHub](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - Network Manager
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
+* [MyPublicWiFi](https://www.mypublicwifi.com/) - Turn PC into Wi-Fi Hotspot
 * [Netbalancer](https://netbalancer.com/) - Internet Traffic Control
 * [⁠Meshtastic](https://meshtastic.org/) - Off-Grid Mesh Network Communication Guide
 * [Arcai](https://arcai.com/) - WiFi Speed Control
@@ -786,7 +787,7 @@
 * ⭐ **[Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887)** - Safari Userscript Manager / [GitHub](https://github.com/quoid/userscripts/)
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) - Dark Mode
 * [CSE](https://cizzuk.net/projects/cse/) - Custom Search Engine / [GitHub](https://github.com/Cizzuk/CSE)
-* [PiPifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture Mode
+* [PiPifier](https://github.com/arnoappenzeller/PiPifier) - Picture in Picture Mode
 
 ***
 
@@ -849,7 +850,7 @@
 * [ArchiveWeb.page](https://archiveweb.page/) - Browser Extension
 * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Archive Wikis
 * [Wayback](https://github.com/wabarc/wayback) - Web Archiving Tool
-* [DownloadNet (dn)](https://github.com/dosyago/dn) or [Kiwix](https://kiwix.org/en/) / [Zim Reader](https://zimit.kiwix.org/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) - Offline Website Readers
+* [DownloadNet (dn)](https://github.com/dosyago/dn) or [Kiwix](https://get.kiwix.org/en/solutions/applications/download-options/) / [Zim Reader](https://zimit.kiwix.org/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) / [Subreddit](https://www.reddit.com/r/Kiwix/) / [GitHub](https://github.com/kiwix/) - Offline Website Readers
 * [Wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/), [SuckIT](https://github.com/skallwar/suckit), [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy), [Website Downloader](https://github.com/AhmadIbrahiim/Website-downloader) or [PageRip](https://webpagerip.com/) - Website Downloaders
 * [Archivematica](https://www.archivematica.org/) - Digital Preservation System
 * [wallabag](https://wallabag.org/) - Save Articles
