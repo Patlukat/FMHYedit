@@ -236,13 +236,13 @@
 
 ## ▷ Online PDF Toolkits
 
-* ⭐ **[BentoPDF](https://bentopdf.com/)** or [File PDF](https://filepdf.net/) - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
+* ⭐ **[⁠ihatepdf](https://www.ihatepdf.cv/)** - Client-Side
+* ⭐ **[BentoPDF](https://bentopdf.com/)** - Client-Side or [File PDF](https://filepdf.net/) / [GitHub](https://github.com/alam00000/bentopdf)
 * [PDFCraft](https://pdfcraft.devtoolcafe.com/) - Client-Side / [GitHub](https://github.com/PDFCraftTool/pdfcraft)
 * [BreezePDF](https://breezepdf.com/) - Client-Side
 * [⁠itinypdf](https://itinypdf.com/) - Client-Side
 * [PDFClear](https://www.pdfclear.com/) - Client-Side
 * [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side
-* [⁠ihatepdf](https://www.ihatepdf.cv/)
 * [Sejda](https://www.sejda.com/)
 * [ILovePDF](https://www.ilovepdf.com/)
 * [⁠PDFResizer](https://pdfresizer.com/)
