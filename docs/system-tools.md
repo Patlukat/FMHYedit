@@ -320,7 +320,7 @@
 * [Ergogen](https://ergogen.xyz/) - Design / Make Ergonomic Keyboards
 * [⁠Keyboard Tester](https://keyboardtest.io/) or [Key Test](https://en.key-test.ru/) - Keyboard Testers
 * [HotkeyP](https://sourceforge.net/projects/hotkeyp/) or [CheatKeys](https://cheatkeys.com/cheatsheet) - Hotkey Remapping
-* [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
+* [OpenMouse](https://openmouse.app/) / [Discord](https://discord.com/invite/yxC9jzMdw6) / [GitHub](https://github.com/OpenMouse-Project) or [Piper](https://github.com/libratbag/piper) - Mouse Config Tools
 * [⁠Onboard Memory Manager](https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager) - Modify Logitech G Mouse Memory
 * [⁠Mouse Tester](https://mousetester.io/) - Mouse Testing Tools
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel

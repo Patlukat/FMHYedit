@@ -804,7 +804,6 @@
 * ⭐ **[OtakuDesu](https://otakudesu.cloud/)** - Anime / Sub / 720p
 * [idlixku](https://idlix.net/) - Movies / TV
 * [klikxxi](https://klikxxi.art/), [2](https://www.klikxxi.com/) - Movies / TV
-* [MyNimeku](https://www.mynimeku.com/) - Anime / Sub / 1080p
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
 * [Irama Nusantara](https://www.iramanusantara.org/en) - Music
 
@@ -1510,7 +1509,6 @@
 * [Series.ly](https://series.ly/) - Movies / TV / Anime / [Status](https://enlaces.ly/) / [Telegram](https://t.me/seriesly) / [Discord](https://discord.com/invite/pmDQYHxjnA)
 * [Tubepelis](https://www.tubepelis.com/) - Movies / TV
 * [LaMovie](https://lamovie.org/) - Movies / TV / Anime / [Telegram](https://t.me/centrodeactividades)
-* [PelisPlus](https://ww3.pelisplus.to/) - Movies / TV
 * [hackstore2](https://hackstore2.com/) - Movies / TV
 * [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/aetherdomains) / [Discord](https://discord.gg/MadMF7xb5q)
 * [Cinezo](https://www.cinezo.org/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/yWWKfMbtm3)

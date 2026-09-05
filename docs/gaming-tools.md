@@ -105,7 +105,7 @@
 * ⭐ **[Game Pauser](https://madebyjase.com/game-pauser/)** - Pause Unpausable Cutscenes / [Source Code](https://madebyjase.com/game-pauser/source/)
 * [SweetFX](https://sfx.thelazy.net/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [ENBSeries](http://enbdev.com) - Game Setting Guides
 * [r/OptimizedGaming](https://www.reddit.com/r/OptimizedGaming/) - Game Settings Optimization Community
-* [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
+* [OpenMouse](https://openmouse.app/) / [Discord](https://discord.com/invite/yxC9jzMdw6) / [GitHub](https://github.com/OpenMouse-Project) or [Piper](https://github.com/libratbag/piper) - Mouse Config Tools
 * [⁠Onboard Memory Manager](https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager) - Modify Logitech G Mouse Memory
 * [WindowedBorderlessGaming](https://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://legacy.borderlessgam.ing/) / [Discord](https://discord.gg/8UvpR5UgX3) / [GitHub](https://github.com/andrewmd5/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games / Windows
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window / Windows
@@ -210,6 +210,7 @@
 * [NES Maps](https://www.nesmaps.com/) - NES Game Maps
 * [SNES Maps](https://www.snesmaps.com/) - SNES Game Maps
 * [⁠PokéMaps](https://pokemaps.net/) - Interactive Pokémon Maps & Catch Locations
+* [Roundtable Guides Map](https://roundtablehold.net/map.html) - Interactive Elden Ring Map
 * [⁠TWHL](https://twhl.info/vault) - Half-Life Maps, Mods & Mapping Tutorials
 * [RDR2 Map](https://rdr2map.com/) - Interactive Red Dead Redemption Maps
 * [Forgehub](https://www.forgehub.com/) - Halo Maps / [Discord](https://discord.com/invite/ybGX7sv)
@@ -237,6 +238,7 @@
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
 * [The Manual Project](https://vimm.net/manual), [ReplacementDocs](http://replacementdocs.com/) or [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
 * [Sym.gg](https://sym.gg/) - FPS Game Info & Weapon Stats / [Discord](https://discord.com/invite/RVRZ3RgYNP)
+* [Roundtable Guides](https://roundtablehold.net/) - Elden Ring Guide / Checklist 
 * [⁠Balatro Wiki](https://balatrowiki.org/) - Community-Maintained Balatro Wiki / Card Database
 * [Bazaar DB](https://bazaardb.gg/) - The Bazaar Wiki / Guides / [Discord](https://discord.gg/Thcdk2epGx)
 * [/codmeta/](https://rentry.co/codmeta) - Call of Duty Loadouts / Meta
@@ -1173,11 +1175,11 @@
 
 * ⭐ **[RimWorld Wiki](https://rimworldwiki.com/)** - Official Wiki / [Discord](https://discord.com/invite/UTaMDWc)
 * ⭐ **[RimSort](https://rimsort.github.io/RimSort/)** - Mod Manager / [GitHub](https://github.com/RimSort/RimSort)
+* [Void Archives](https://sites.google.com/view/void-archives/) - Modding, Troubleshooting & Performance-Optimization Guides
 * [RimWorld Discord](https://discord.com/invite/rimworld) - Official Community Discord
 * [r/RimWorld](https://www.reddit.com/r/RimWorld/) - Official Community Subreddit
 * [Judge My List](https://jumli.sysrqmagician.dev/) - Automated Modlist Feedback / [GitHub](https://github.com/sysrqmagician/jumli)
 * [Workshop Walker](https://workshop-walker.disconsented.com/) - Improved Steam Workshop UI / [GitHub](https://github.com/disconsented/workshop-walker)
-* [Void Archives](https://sites.google.com/view/void-archives/) - RimWorld Guides
 * RimWorld Infographs - [Basic](https://mortalsmurph.com/?page_id=184) / [Anomaly DLC](http://mortalsmurph.com/?page_id=50)
 
 ***

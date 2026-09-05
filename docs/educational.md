@@ -984,6 +984,7 @@
 * ⭐ **[Pawn Appétit](https://github.com/Pawn-Appetit/pawn-appetit)** or [En Croissant](https://encroissant.org/) - Chess Analysis Tool / [Game Databases](https://encroissant.org/docs/assets/databases)
 * ⭐ **[Chess Tempo](https://chesstempo.com/)** - Tactics Training / Endgame Solver
 * ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)** - Chess Database Software
+* [⁠Maia Chess](https://www.maiachess.com/) - Human-Like AI Chess Opponent
 * [ChessGames](https://www.chessgames.com/) or [⁠Lumbra's Gigabase](https://lumbrasgigabase.com/) - Chess Game Databases
 * [ChessLab](https://chesslab.me/) - Learning Community / [Discord](https://discord.com/invite/AA5G5f9wKC)
 * [⁠Chess Results](https://chess-results.com/) - Chess Tournament Results Database
@@ -993,7 +994,6 @@
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Learn / Practice Chess
 * [⁠Blitz Tactics](https://blitztactics.com/) - Fast-Paced Chess Puzzle Training
 * [⁠ChessMD](https://chessmd.org/) - Chess Training / Match Analysis / [GitHub](https://github.com/ChessMD/ChessMD)
-* [⁠Maia Chess](https://www.maiachess.com/) - Human-Like AI Chess Opponent
 * [Chess Monitor](https://www.chessmonitor.com/) - Aggregate Lichess and Chess.com Match History
 * [Chess Coach](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) - Chess Coaching App
 * [⁠Chess OCR](https://helpman.komtera.lt/chessocr/) - Multi-Site Digital Chessboard Analysis

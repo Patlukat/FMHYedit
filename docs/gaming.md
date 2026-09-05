@@ -18,7 +18,7 @@
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (Sign-Up) / Pre-Installed / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
 * ⭐ **[AstralGames](https://astralgames.net/)** - Download / Achievements / Pre-Installed / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/snnf8RH8Fn)
-* ⭐ **[⁠GOG Revived](https://gog-rev.com/)** / [Discord](https://discord.gg/pH6avrdHHC) or [GOG Games](https://gog-games.to/) / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/) - Download / Torrent / GOG Games Only
+* ⭐ **[⁠GOG Revived](https://gog-rev.com/)** - Download / Torrent / GOG Games Only / [Discord](https://discord.gg/pH6avrdHHC)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / Pre-installed / Achievements / [Discord](https://discord.gg/dmjUJ4xCEV)
 * ⭐ **[UnionCrax](https://union-crax.xyz/)** - Download / Torrent / Pre-Installed / [Launcher](https://union-crax.xyz/direct) / [Mirrors](https://rentry.co/ucxyz)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
@@ -1106,7 +1106,7 @@
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Guessing Game
 * [⁠Slopcheck](https://slopcheck.co/) - AI vs. Real Image Guessing Game 
 * [⁠Dialed](https://dialed.gg/) - Color Memory Game
-* [Huedle](https://huedle.com/), [Color Rush](https://www.colorrush.io/), [WhatTheHex](https://yizzle.com/whatthehex/) or [Hexcodle](https://www.hexcodle.com/) - Hex Code Guessing Games
+* [Huedle](https://huedle.com/), [WhatTheHex](https://yizzle.com/whatthehex/) or [Hexcodle](https://www.hexcodle.com/) - Hex Code Guessing Games
 * [Nerdle](https://nerdlegame.com/), [Additional](https://additional.today/) or [Countle](https://www.countle.org/) - Math Guessing Games
 * [⁠MCdle](https://www.mcdle.net/) or [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Guessing Games
 * [Gearoid Pokémon](https://gearoid.me/pokemon/), [Pokedle](https://pokedle.net/) or [Squirdle](https://squirdle.fireblend.com/) - Pokémon Guessing Games

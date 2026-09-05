@@ -30,7 +30,7 @@
 * ⭐ **[YouTube Music](https://music.youtube.com/)** or [⁠Ytify](https://ytify.pp.ua/) / [Telegram](https://t.me/ytifytg) - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
 * ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://lossless.wtf), [4](https://if-it-runs-ship-it.lol/), [5](https://monochromemusic.pages.dev/) - Browser Music / Lossless / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[SoundCloud](https://soundcloud.com/)** or [⁠soundcloak](https://sc.maid.zone/) / [Instances](https://maid.zone/soundcloak/instances.html) - User-Made & User-Uploaded Songs
-* ⭐ **[ArtistGrid](https://artistgrid.cx/)** - Unreleased / [Render](https://dev.artistgrid.cx/) / [Discord](https://discord.gg/tns89b3w7R) / [GitHub](https://github.com/ArtistGrid/)
+* ⭐ **[ArtistGrid](https://artistgrid.cx/)** - Unreleased / [Discord](https://discord.gg/tns89b3w7R) / [GitHub](https://github.com/ArtistGrid/)
 * [Spotify](https://open.spotify.com/) - Web Player / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
 * [Deezer](https://www.deezer.com/) - Browser Music / Requires Sign-Up / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
 * [Audiomack](https://audiomack.com/) - Browser Music
@@ -363,7 +363,6 @@
 * [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Better Shuffle for Playlists
 * [Sort Your Music](http://sortyourmusic.playlistmachinery.com/) - Sort Playlists / [GitHub](https://github.com/plamere/SortYourMusic)
 * [Spotify Dedup](https://spotify-dedup.com/) - Remove Duplicates in Playlists / [GitHub](https://github.com/JMPerez/spotify-dedup/)
-* [Timelineify](https://www.timelineify.com/) - Create Playlist from an Artist's Discography
 * [Share Liked Songs](https://nonnullish.github.io/share-liked-songs/) - Create Shareable Playlist from Liked Songs / [GitHub](https://github.com/nonnullish/share-liked-songs)
 * [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Public Spotify Playlists Archive / [GitHub](https://github.com/mackorone/spotify-playlist-archive)
 ***
