@@ -1301,10 +1301,10 @@
 
 ## ▷ Streaming / Стриминг
 
-* ⭐ **[Kinohub](https://on.kinohub.vip/)**, [2](https://tv.kinohub.vip/), [3](https://kinomix.web.app/) - Movies / TV / Anime / [Telegram](https://t.me/KinohubLive)
+* ⭐ **[Kinohub](https://on.kinohub.vip/)**, [2](https://tv.kinohub.vip/), [3](https://kinomix.web.app/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/KinohubLive)
 * ⭐ **[KinoGo](https://kinogo.ec/)**, [2](https://kinogo.luxury/), [3](https://kinogo2026.com/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/+itg2xfHPNQg2MGVk)
-* ⭐ **[YummyAnime](https://ru.yummyani.me/)** - Anime / Sub / 1080p / [Telegram](https://t.me/yummyanime) / [Discord](https://discord.com/invite/yummyanime-1103691943881474048)
-* ⭐ **[AnimeLIB](https://animelib.org/)**, [2](https://v3.animelib.org) - Anime / Sub / Dub / 1080p (account required)
+* ⭐ **[YummyAnime](https://ru.yummyani.me/)** - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/yummyanime) / [Discord](https://discord.com/invite/yummyanime-1103691943881474048)
+* ⭐ **[AnimeLIB](https://animelib.org/)** - Anime / Sub / Dub / 1080p (account required) / [Telegram](https://t.me/mangalib_social)
 * ⭐ **[AnimeGO](https://animego.me/)** - Anime / Sub / Dub / 1080p
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / Android App / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [KinoBase](https://kinobase.org/) - Movies / TV / Sub / Dub / 1080p
@@ -1381,9 +1381,9 @@
 * [LibraryOfDos](https://t.me/lib_of_dos_old_vk) - Esoteric Literature
 * [AniLabX](https://anilabx.xyz/) - Manga / Comics / Light Novels
 * [Gameland](https://gameland.ru/archive/) - Country of Games Magazine Archive
-* [MangaLIB](https://mangalib.me/) - Manga / [Telegram](https://t.me/mangalib_social)
+* [MangaLIB](https://mangalib.me/) - Manga / Comics / [Telegram](https://t.me/mangalib_social)
 * [MangaPoisk](https://mangapoisk.me/) - Manga
-* [ReManga](https://remanga.org/) - Manga / [Telegram](https://t.me/Remanga) / [Discord](https://discord.gg/5UHGXajYPD)
+* [ReManga](https://remanga.org/) - Manga / Comics / [Telegram](https://t.me/Remanga) / [Discord](https://discord.gg/5UHGXajYPD)
 * [Manga Hub](https://mangahub.ru/) - Manga
 * [mmnt](https://www.mmnt.ru/) - Document Search
 * [Samlib](http://samlib.ru/) - Document Search

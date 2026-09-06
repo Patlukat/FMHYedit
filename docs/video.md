@@ -960,7 +960,7 @@
 * [⁠IbbyLabs Uptime Tracker](https://uptime.ibbylabs.dev/) - Stremio Addon Status
 * [Stremio Account Bootstrapper](https://github.com/DryKillLogic/stremio-account-bootstrapper) - Easy Stremio Setup
 * [⁠AIOStreams](https://docs.aiostreams.viren070.me/) - Multi-Source Addon + Debrid Aggregator / [GitHub](https://github.com/Viren070/AIOStreams)
-* [⁠AIOMetadata](https://aiometadata.elfhosted.com/) - Multi-Source Metadata & Catalogs Addon / [Public Instances](https://uptime.ibbylabs.dev/aiometadata) / [Configure](https://aiometadata.elfhosted.com/configure/), [2](https://aiometadatafortheweak.nhyira.dev/configure/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/aiometadata-note.md) / [GitHub](https://github.com/cedya77/aiometadata)
+* [⁠AIOMetadata](https://github.com/cedya77/aiometadata) - Multi-Source Metadata & Catalogs Addon / [Public Instances](https://uptime.ibbylabs.dev/aiometadata) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/aiometadata-note.md)
 * [Up Next](https://up-next.dontwanttos.top/) - Stremio Catalogs
 * [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure) - Stremio Anime Catalogs
 * [Simkl Stremio](https://simkl.com/apps/stremio/) - Simkl for Stremio
