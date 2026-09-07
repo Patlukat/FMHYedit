@@ -71,9 +71,9 @@
 
 ## ▷ YouTube Music Tools
 
+* ⭐ **[Better Lyrics](https://better-lyrics.boidu.dev/)** / [Uploader](https://darkforcefreefire.github.io/unison-web/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/better-lyrics/better-lyrics) or [YouLy+](https://github.com/ibratabian17/YouLyPlus) - Improved Lyrics Browser Extensions
 * [Themesong](https://themesong.app/) or [BetterYTM](https://github.com/Sv443/BetterYTM) - Enhancement Extensions
 * [YT Music Deleter](https://github.com/apastel/ytmusic-deleter) - Library Manager / Deleter / Windows, macOS, Linux
-* [YouLy+](https://github.com/ibratabian17/YouLyPlus) or [Better Lyrics](https://better-lyrics.boidu.dev/) / [Uploader](https://darkforcefreefire.github.io/unison-web/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/better-lyrics/better-lyrics) - Improved Lyrics Browser Extensions
 * [Spot Transfer](https://spot-transfer.vercel.app/), [Spotify2YoutubeMusic](https://github.com/mahdi-y/Spotify2YoutubeMusic) or [spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) / [2](https://github.com/sigma67/spotify_to_ytmusic) - Spotify Playlist Importers
 * [⁠TunesToTube](https://www.tunestotube.com/) - Easily Upload Songs to YouTube
 * [YT Upload Clear](https://rentry.co/tv4uo) - Script to Clear Uploaded Songs

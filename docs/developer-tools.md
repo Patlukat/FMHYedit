@@ -1191,6 +1191,7 @@
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - Encrypted DNS Providers & Resources / [Public Servers](https://github.com/curl/curl/wiki/DNS-over-HTTPS#publicly-available-servers) / [iOS + macOS Configs](https://github.com/paulmillr/encrypted-dns)
 * [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
 * [DNS Propagation](https://dnspropagation.net/) - DNS Checker
+* [⁠DNS Coffee](https://dns.coffee/) - DNS Search History Tool 
 * [MXToolBox](https://mxtoolbox.com/) - MX Record Lookup Tool
 * [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info), [DNSHistory](https://dnshistory.org/) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
 * [Web Check](https://web-check.xyz/) / [GitHub](https://github.com/Lissy93/web-check) or [NSLookup](https://www.nslookup.io/) - DNS Information Tools
