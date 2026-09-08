@@ -644,7 +644,7 @@
 * [Museum of Obsolete Media](https://obsoletemedia.org/) - Physical Media Format Wiki / History
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) / [Discord](https://discord.com/invite/XPz5Zm42tR) - Operating System / Software History 
 * [Old Computer Museum](https://oldcomputers.net/) - Computer History
-* [The Retro Web](https://theretroweb.com/) - Computer Hardware History / [Discord](https://discord.gg/HWWH7hsk2p) / [GitLab](https://gitlab.com/ultimateretro/ultimateretro)
+* [The Retro Web](https://theretroweb.com/) / [Discord](https://discord.gg/HWWH7hsk2p) / [GitLab](https://gitlab.com/ultimateretro/ultimateretro) or [⁠Hardware Museum](https://hw-museum.cz/) - Computer Hardware History
 * [⁠HP Computer Museum](https://www.hpmuseum.net/) or [The HP 9845 Project](https://www.hp9845.net/) - HP Computer History
 * [Folklore](https://www.folklore.org) / [X](https://x.com/ComputerHistory) or [TheAppleWiki](https://theapplewiki.com/) / [Discord](https://discord.com/invite/zk2HggAw89) - Apple Computer History
 * [Crypto Museum](https://www.cryptomuseum.com/) - Cryptographic Machine History
