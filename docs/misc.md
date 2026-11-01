@@ -65,7 +65,6 @@
 ## ▷ Random Sites / Discovery
 
 * ⭐ **[Vijay's Virtual Vibes](https://vijaysvibes.uk/)** - Find Random Sites / [iFrame Version](https://vijaysvibes.uk/iframe-version.html)
-* ⭐ **[Random FMHY Sites](https://ffmhy.pages.dev/)** - Find Random Sites Listed on FMHY / Works Per Page / [Use Button](https://i.ibb.co/xrqkVGJ/image.png), [2](https://i.imgur.com/88eNtD4.png)
 * [Chance](https://chanceapp.io/?c=CHANCE-FMHY-DOOR) - Find Random Sites
 * [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
 * [BoredButton](https://www.boredbutton.com/) - Find Random Sites
@@ -81,7 +80,7 @@
 * [Random-Website](https://random-website.com/) - Find Random Sites
 * [Wilderness Land](https://wilderness.land/) - Find Random Sites
 * [CloudHiker](https://cloudhiker.net/) - Find Random Sites
-* [⁠OpenWeird](https://openweird.com/) - Find Random Strange Sites 
+* [⁠OpenWeird](https://openweird.com/) or [⁠r/WeirdWebsites](https://www.reddit.com/r/WeirdWebsites/) - Find Random Weird Sites
 * [WebRelic](https://www.webrelics.org/) - Find Random Retro Sites
 * [Wiby](https://www.wiby.me/) - Find Random Retro Sites
 * [HyperText](https://hypertext.tv/) - Random Sites / TV Channel Style / [GitHub](https://github.com/evadecker/hypertext.tv)
@@ -248,7 +247,7 @@
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
 * [⁠Run Repeat](https://runrepeat.com/) - Shoe Shopping Guide / Reviews
 * [A Bra That Fits](https://www.abrathatfits.org/calculator) or [BraMetric](https://brametric.com/) - Bra Size Calculators
-* [Choly Knight](https://cholyknight.com/) or [FreeSewing](https://freesewing.eu/) / [Forum](https://forum.freesewing.eu/) / [Discord](https://discord.gg/freesewing-698854858052075530) - Free Clothing Sewing Patterns
+* [Choly Knight](https://cholyknight.com/), [DRCOS](https://dr-cos.info/) or [FreeSewing](https://freesewing.eu/) / [Forum](https://forum.freesewing.eu/) / [Discord](https://discord.gg/freesewing-698854858052075530) - Free Clothing Sewing Patterns
 * [PinDIY](https://www.pindiy.com/) - Free Crochet / Knitting Patterns and Magazines
 * [⁠Craft Yarn Council](https://www.craftyarncouncil.com/instructions_kn.php3) - Knitting + Crochet Learning
 * [Antique Pattern Library](https://www.antiquepatternlibrary.org/) - Antique Pattern Library / Knitting + Crochet
@@ -417,15 +416,14 @@
 * [Local Map](https://www.matthewsiu.com/local-map) - Explore a Map with Wikipedia
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
-* [NearbyWiki](https://en.nearbywiki.org/) - Explore Interesting Places Near You
-* [Urbex](https://urbexology.com/), [⁠TrespassersHQ](https://trespassershq.com/) / [Discord](https://discord.gg/trespassers) or [UER](https://www.uer.ca/locations/gmaps/) / [Forum](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Maps
+* [⁠WikiMapped](https://wikimapped.nikamma.in/), [NearbyWiki](https://en.nearbywiki.org/), [⁠Local Wikipedia](https://edjefferson.com/localwiki/), [Wiki-Map](https://wiki-map.com/) or [⁠Wikimap](https://wikimap.wiki/) / [GitLab](https://gitlab.com/nocylah/wikimap/) - Wikipedia Articles Geolocated on Maps
+* [Urbex](https://urbexology.com/), [⁠Zuniz](https://zuniz.com/) / [Discord](https://discord.com/invite/7HaHj6ahx5), [⁠TrespassersHQ](https://trespassershq.com/) / [Discord](https://discord.gg/trespassers) or [UER](https://www.uer.ca/locations/gmaps/) / [Forum](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Maps
 * [⁠Arcade Database](https://zenius-i-vanisher.com/v5.2/arcades.php) - Arcade Game Map + Database
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
 * [Orhyginals Map](http://map.orhyginal.fr/) - Online Editable Map
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
 * [⁠d-maps](https://www.d-maps.com/) - Free Blank Maps / Outlines / Printable
 * [There to Where](https://theretowhere.com/) - Find Apartments Near Important Things
-* [⁠WikiMapped](https://wikimapped.nikamma.in/), [Wiki-Map](https://wiki-map.com/) or [⁠Wikimap](https://wikimap.wiki/) / [GitLab](https://gitlab.com/nocylah/wikimap/) - Wikipedia Articles Geolocated on Map
 * [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
 * [Dawarich](https://dawarich.app/) - Self-Hosted Google Maps Timeline Alternative / [Discord](https://discord.gg/pHsBjpt5J8)
 * [gpx.studio](https://gpx.studio/) - GPX File Editor
@@ -464,7 +462,8 @@
 * [⁠HK Traffic Intelligence](https://hktraffic.keith-li.workers.dev/) / [GitHub](https://github.com/keithligh/hk-traffic-intelligence) or [⁠Hong Kong Transit 3D](https://hktransit3d.pages.dev/) - Hong Kong Public Transport Maps
 * [Mini Map Macau](https://mini-map-macau.app/) - Macau Public Transport Map / [GitHub](https://github.com/asdfghj1237890/mini-macau)
 * [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport Map
-* [kakaomap](https://map.kakao.com/) - Map of South Korea
+* [kakaomap](https://map.kakao.com/) - South Korea Public Transport Map
+* [⁠Metroskop](https://metroskop.cz/) - Prague Public Transport Map
 * [ALPR Watch](https://alprwatch.org/), [⁠FlockHopper](https://dontgetflocked.com/), [⁠Flock Surveillance Map](https://uncensored.ai/flocksurveillance), [DeFlock](https://deflock.org/) / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock) or [Panopti](https://panopti.ca/) / [GitHub](https://github.com/resistanceisliberty/panopti.ca) (Canada) - AI Automated License Plate Reader Cameras / ALPR Maps
 * [⁠Atlas of Surveillance](https://www.atlasofsurveillance.org/) - Police / Surveillance Tech Map
 * [⁠Sparrow Map](https://map.sparrowmap.com/) - Police Vehicle Map / Community Camera Network
@@ -581,6 +580,8 @@
 * [NLS Maps](https://maps.nls.uk/) - Historical Maps of Scotland
 * [Imperium](https://imperium.ahlfeldt.se/) - Digital Atlas of the Roman Empire
 * [ORBIS](https://orbis.stanford.edu/) - Interactive Simulation of Roman Trade & Travel Logistics
+* [⁠Battles of the Romans](https://iosiflazaridis.github.io/battles-of-the-romans/) - Interactive Historical Roman Battle Map
+* [Where the Greeks Fought](https://iosiflazaridis.github.io/ancient-greek-battles/) / [Modern](https://iosiflazaridis.github.io/modern-greek-battles/) - Interactive Historical Greek Battle Map
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
 * [⁠Theban Mapping Project](https://thebanmappingproject.com/) - Theban Necropolis / Valley of the Kings Mapping Project
 * [1940s NYC](https://1940s.nyc/) - Explore 1940's New York
@@ -724,6 +725,7 @@
 * [Hacki](https://github.com/Livinglist/Hacki) or [Harmoni](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) / [GitHub](https://github.com/SimonHalvdansson/Harmonic-HN) - Android Hacker News Apps
 * [ZCombinator](https://github.com/Livinglist/ZCombinator), [HACK](https://apps.apple.com/app/id1464477788), [Octal](https://apps.apple.com/app/id1308885491), [Hackers](https://apps.apple.com/app/id603503901) or [Hacki](https://apps.apple.com/app/id1602043763) - iOS Hacker News Apps
 * [The Hacker Herald](https://hackerherald.com/), [⁠Brutalist HN](https://brutalisthackernews.com/), [unslop.news](https://www.unslop.news/) or [hckrnws](https://www.hckrnws.com/) - HN Frontends
+* [Orange Juice](https://oj-hn.com) - Hacker News Features / Extension / [GitHub](https://github.com/OrangeJuiceExtension/OrangeJuice)
 * [HNRankings](https://hnrankings.com/) - Best of / Top Posts Aggregator
 * [⁠Hacker Smacker](https://hackersmacker.org/) - Filter / Mark HackerNews Posters
 * [⁠Hacker Book](https://hackerbook.dosaygo.com/) - Hacker News Posts + Comment Archive
@@ -1083,11 +1085,10 @@
 
 ## ▷ Investing / Market Research
 
-* ⭐ **[TradingView](https://www.tradingview.com/)**, **[GoCharting](https://gocharting.com/)**, **[ticker](https://github.com/achannarasappa/ticker)** or **[finviz](https://finviz.com/)** - Market Charting / Analysis
+* ⭐ **[TradingView](https://www.tradingview.com/)** / [Alert Forwarder](https://github.com/fabston/TradingView-Webhook-Bot), **[GoCharting](https://gocharting.com/)**, **[ticker](https://github.com/achannarasappa/ticker)** or **[finviz](https://finviz.com/)** - Market Charting / Analysis
 * ⭐ **[StockTicker](https://github.com/premnirmal/StockTicker)** or **[Candle](https://gitlab.com/cosmosapps/candle)** - Mobile Market Tracking
-* ⭐ **[Ghostfolio](https://ghostfol.io/)** - Investment Portfolio Tracker / [Export To](https://github.com/dickwolff/Export-To-Ghostfolio)
+* ⭐ **[Wealthfolio](https://wealthfolio.app/)** / [X](https://x.com/WealthfolioApp) / [Discord](https://discord.gg/WDMCY6aPWK) / [GitHub](https://github.com/wealthfolio/wealthfolio), [Ghostfolio](https://ghostfol.io/) / [GitHub](https://github.com/ghostfolio/ghostfolio) / [Export To](https://github.com/dickwolff/Export-To-Ghostfolio) or [Portfolio Performance](https://www.portfolio-performance.info/en/) / [GitHub](https://github.com/portfolio-performance/portfolio) - Investment Portfolio Trackers / Management
 * [OpenBB](https://openbb.co/), [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) or [Koyfin](https://www.koyfin.com/) - Investment Research Platforms
-* [Portfolio Performance](https://www.portfolio-performance.info/en/) - Portfolio Management / Performance Tracking / [GitHub](https://github.com/portfolio-performance/portfolio)
 * [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Portfolio Analysis / Backtesting
 * [Bogleheads](https://www.bogleheads.org/) - Long-Term Investing Resources
 * [ETFDB](https://etfdb.com/) (US) or [justETF](https://www.justetf.com/) (EU / UCITS) - ETF Research and Screening Platforms 
@@ -1097,7 +1098,6 @@
 * [Simul8or](https://simul8or.com/) - Trading Simulator
 * [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Investment Growth Calculator
 * [Financials Extension](https://github.com/cmallwitz/Financials-Extension) - Stock Market Data for LibreOffice
-* [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) - TradingView Alert Automation
 * [Kitco](https://www.kitco.com/) - Precious Metals Prices / Calculators
 
 ***
@@ -1151,14 +1151,10 @@
 * [⁠RedRecs](https://www.redrecs.com/) or [RedditRecs](https://redditrecs.com/) - Reddit Product Rankings, Summaries, and Comments
 * [ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/) - Find Interesting Things to Buy
 * [⁠BuyItForLife](https://buyitforlife.com/) - Durable Product Shopping Guide / [Subreddit](https://www.reddit.com/r/BuyItForLife/)
+* [PicClick](https://picclick.com/) - ebay Visual Search Engine
 * [⁠NoBids](https://nobids.net/), [⁠BuyMap](https://buymap.app/) or [WatchCount](https://www.watchcount.com/) - eBay Advanced Search
 * [Typo Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - eBay Typo Search
 * [⁠a view from my seat](https://aviewfrommyseat.com/) / [UK](https://aviewfrommyseat.co.uk/) - See Event Views Before Buying Tickets
-* [Blu Ray Deals](https://www.blu-ray.com/deals/) - Blu Ray Price Comparisons / Deals
-* [JustWatch Deals](https://www.justwatch.com/us/on-sale) - Digital Movie + Show Deals
-* [⁠Suppose](https://www.suppose.tv/) - Compare TV Providers (US Only)
-* [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit
-* [⁠StreamCheck](https://search.streamcheck.pro/) - IPTV Provider Channel Checker
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
 * [⁠Gem](https://gem.app/) - Secondhand Clothing Multi-Store Search
 * [r/MaleFashionAdvice Spreadsheet](https://docs.google.com/spreadsheets/d/1mhOIpjUUibBf3QueJs8iRJy5gBKCILq82ekJkiC5uqQ/) - Male Clothing Brand / Price Spreadsheet
@@ -1235,6 +1231,7 @@
 * ⭐ **[r/PCMasterrace Builds](https://pcmasterrace.org/builds)**, [r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [PC Tiers](https://pctiers.com/) - PC Building Guides / **[Video](https://youtu.be/s1fxZ-VWs2U)**
 * ⭐ **[Open Benchmarking](https://openbenchmarking.org/)** - Hardware Benchmarks
 * ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)**, [Toms GPU Hierarchy](https://www.tomshardware.com/reviews/gpu-hierarchy) or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
+* [⁠PerUnitPrice](https://perunitprice.com/) - Hardware Price Comparisons
 * [SuggestALaptop Guide](https://docs.google.com/document/d/1_Oh9M4zrBB1hx3B0Yw32-evH4bqTmwNM5DJ12lWvA0w/) - Laptop Suggestions / [Subreddit](https://www.reddit.com/r/SuggestALaptop/) / [Discord](https://discord.gg/pes68JM)
 * [r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
 * [r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
@@ -1310,6 +1307,22 @@
 
 ***
 
+## ▷ Physical Media / Streaming
+
+* [Blu-ray.com](https://www.blu-ray.com/) - Blu-ray Release Calendar / Database / Reviews / [Deals](https://www.blu-ray.com/deals/)
+* [⁠DVDBeaver](https://www.dvdbeaver.com/) - Blu-ray & DVD Release Calendar / Database / Reviews
+* [High Def Digest](https://www.highdefdigest.com/) - Blu-ray Release Calendar / Database / Reviews
+* [Releases](https://www.releases.com/) - Blu-Ray / DVD Release Calendar
+* [DVDs Release Dates](https://www.dvdsreleasedates.com/) - DVD Release Calendar
+* [Caps-A-Holic](https://caps-a-holic.com/) - Compare Movie Release Quality / Details
+* [⁠Best Blurays](https://www.bestblurays.com/) - Find Best Quality Blu-ray Release
+* [JustWatch Deals](https://www.justwatch.com/us/on-sale) - Digital Movie + Show Deals
+* [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit
+* [⁠StreamCheck](https://search.streamcheck.pro/) - IPTV Provider Channel Checker
+* [⁠Suppose](https://www.suppose.tv/) - Compare TV Providers (US Only)
+
+***
+
 ## ▷ Apps
 
 * [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0&price=FREE) - Apple Platform Apps / Games / [Subreddit](https://www.reddit.com/r/AppRaven/) / [Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
@@ -1379,7 +1392,7 @@
 * [⁠anruler](https://anruler.com/) - Online Ruler
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
 * [wttr](https://wttr.in/) - Simple / Minimal Weather / [GitHub](https://github.com/chubin/wttr.in)
-* [⁠RetroCast Now](https://weather.com/retro/), [WeatherStar 4000+](https://weatherstar.netbymatt.com/) / [2](https://weatherstar.dev/), [WeatherStar 80's](https://weatherstar3000.netbymatt.com/) or [WeatherScan](https://weatherscan.net/) - Retro Style Weather / [GitHub](https://github.com/MistWeatherMedia/)
+* [⁠RetroCast Now](https://weather.com/retro/), [WeatherStar 4000+](https://weatherstar.netbymatt.com/) / [2](https://weatherstar.dev/) / [International](https://mwood77.github.io/ws4kp-international/), [WeatherStar 80's](https://weatherstar3000.netbymatt.com/) or [WeatherScan](https://weatherscan.net/) - Retro Style Weather / [GitHub](https://github.com/MistWeatherMedia/)
 * [Wheel Decide](https://wheeldecide.com/), [SpinWheelPlus](https://spinwheelplus.com/), [Ultimate Wheel](https://ultimatewheelspin.com/), [PickerWheel](https://pickerwheel.com/), [SpinWheelify](https://spinwheelify.com/), [SpinTheWheel](https://spinthewheel.io/), [HeySpinner](https://heyspinner.com/), [SpinTheWheel](https://spinthewheel.net/), [TheSpinnerWheel](https://thespinnerwheel.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers / Spinners
 * [⁠Date Night Questions](https://www.datenightquestions.com/) - Friend / Date Q&A Cards
 * [SurveyHeart](https://surveyheart.com/) - Survey Creators
@@ -1404,7 +1417,6 @@
 
 ## ▷ Multi Tool Sites
 
-* 🌐 **[Mr Free Tools](https://mrfreetools.com/)** - Find Free Tools
 * ⭐ **[TinyWow](https://tinywow.com/)** - Text / Image / PDF / File
 * ⭐ **[⁠HeyTools](https://heytools.app/)** - Text / PDF / Image / Code
 * ⭐ **[PineTools](https://pinetools.com/)** - Text / Multimedia / Colors / Code
@@ -1600,7 +1612,7 @@
 * [Random Art](https://www.random-art.org/) - Random Art Generator
 * [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/) - Paper Quilling Art Generator
 * [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
-* [Synaptic Spiral](https://synapticspiral.nz/) or [Mandelbrot Explorer](https://math.hws.edu/eck/js/mandelbrot/MB.html) / [WebGPU](https://math.hws.edu/eck/js/mandelbrot/MBgpu.html) - Fractal Visualizers / Creators
+* [Synaptic Spiral](https://synapticspiral.nz/), [Mandelnaut](https://techmatt.github.io/fractals/explorer/) or [Mandelbrot Explorer](https://math.hws.edu/eck/js/mandelbrot/MB.html) / [WebGPU](https://math.hws.edu/eck/js/mandelbrot/MBgpu.html) - Fractal Visualizers / Creators
 * [Silk](http://weavesilk.com/) - Create Geometric Silk Art
 * [MandalaGaba](https://www.mandalagaba.com/) / [Pro Version](https://pro.mandalagaba.com/), [Mandala App](https://mandala-app.com/) or [DigitalDoily](https://codymoose.github.io/web-applications/DigitalDoily/index.html) - Zen Geometry Tools
 * [Inspirograph](https://inspiral-web.nathanfriend.com/) or [SpirographN](http://seedcode.com/SpirographN/sgn.html) - Spirograph Tool
@@ -1671,13 +1683,14 @@
 * [⁠The Cursed Library](https://cursed.epic.net/) - Interactive 3D Short Stories
 * [MyGrandmothersLingo](https://www.sbs.com.au/mygrandmotherslingo/) - Interactive Story
 * [⁠The HTML Review](https://thehtml.review/archive) - Interactive Stories / Poetry Written in Code
+* [⁠Ted the Caver](https://teds-caving-page.netlify.app/) - Interactive Horror Story / Webs First Creepypasta (2001)
 * [⁠Git City](https://www.thegitcity.com/) - 3D GitHub City / [GitHub](https://github.com/srizzon/git-city)
 * [⁠Web Rewind](https://web-rewind.com/) - Interactive Web History Journey
 * [What Football Will Look Like](https://www.sbnation.com/a/17776-football/chapter-1) - Interactive Future Football Story
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - 3D Driving Simulator
 * [Traffic Simulation](https://traffic-simulation.de/) - Traffic Flow Simulation
 * [⁠Stowaway](https://stowaway.live/) - Live 3D Flight Window Seat Simulator
-* [OpenScope](https://www.openscope.io/) - Air Traffic Control Simulator
+* [OpenScope](https://www.openscope.io/) or [⁠Vectors](https://vectorsatc.com/) - Air Traffic Control Simulators
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
 * [Jellify](https://sc420.github.io/jellify-ur-website/) - Turn Websites to Jelly / [GitHub](https://github.com/sc420/jellify-ur-website)
 * [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator

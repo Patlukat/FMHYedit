@@ -36,14 +36,13 @@
 * [Spotify](https://open.spotify.com/) - Web Player / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
 * [Deezer](https://www.deezer.com/) - Browser Music / Requires Sign-Up / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
 * [Audiomack](https://audiomack.com/) - Browser Music
-* [⁠Volta](https://app.volta-music.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music / US Only
 * [Jango](https://jango.com/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [⁠Arcod](https://player.arcod.xyz/) - Browser Music
 * [Mixupload](https://mixupload.com/) - Browser Music
 * [Tancpol](https://tancpol.net/) - Russian Music / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
-* [jiosaavn](https://www.jiosaavn.com/) or [Hayasaka](https://hayasaka.8man.in/) - Browser Music / [API](https://cyberboysumanjay.github.io/JioSaavnAPI/)
+* [JioSaavn](https://www.jiosaavn.com/) or [Hayasaka](https://hayasaka.8man.in/) - Browser Music / [API](https://cyberboysumanjay.github.io/JioSaavnAPI/)
 * [MTV REWIND](https://wantmymtv.xyz/) / [2](ttps://wantmymtv.org/) - Recreates MTV Experience from Different Eras
 * [The 120 Minutes Archive](https://altmusictv.com/) - MTV's 120 Minutes Archive
 * [Ballsack TV](https://bsky.app/profile/feed.ballsack.tv) - MTV Style User-Submitted Music Video Feed / [Discord](https://discord.gg/KT2Dht4zcZ)
@@ -147,7 +146,7 @@
 ## ▷ Podcast Streaming
 
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
-* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [SponsorBlock](https://spotsponsorblock.org/), [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension) / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast) / [Audio Download](https://rentry.co/dlspotifypodcast)
+* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [SponsorBlock](https://spotsponsorblock.org/), [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension) / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast)
 * ⭐ **[Pocket Casts](https://pocketcasts.com/discover)** - Podcasts / [Desktop App](https://pocketcasts.com/downloads/windows/)
 * [⁠jumbletop](https://jumble.top/) or [⁠Pirate Podcast Feeds](https://piratefeeds.net/) - Premium Podcast Feeds
 * [⁠PodcastToMP3](https://podcasttomp3.com/) - Podcast Downloads / Search
@@ -392,7 +391,7 @@
 * ⭐ **[lucida](https://lucida.to/)** - Amazon Music / Soundcloud / FLAC / AAC / MP3 / [Status](https://status.lucida.to/status/lmbr) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
 * ⭐ **[Monochrome](https://monochrome.st/)** - Multi-Site / FLAC / AAC / MP3 / E-AC3 / AC-4 / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[Antra Web](https://antra.hoshi.cfd/)** - Multi-Site / FLAC / AAC / MP3 / Requires Sign-Up / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)
-* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Amazon Music / Soundcloud / Qobuz / Deezer / Tidal / FLAC / [Telegram](https://t.me/lucidahasmusic)
+* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Amazon Music / Soundcloud / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * [Jumo-DL](https://jumo-dl.pages.dev/) - Qobuz / FLAC / MP3
 * [⁠Octave](https://octavestreaming.com/) - Multi-Site / FLAC / Dolby Atmos / 320 AAC / 128 MP3 / Requires Discord / [Discord](https://discord.gg/5cZAbW3Tbg)
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
@@ -401,7 +400,7 @@
 * [vdwn.cloud](https://vdwn.cloud/) - Multi-Site / 320kb MP3
 * [⁠CYBROX](https://cybrox.pro/) - Multi-Site / 320kb MP3
 * [AMP3](https://amp3.cc/) - Multi-Site / 320kb MP3
-* [⁠AudioFetcher](https://audiofetcher.com/) - YouTube / 320kb MP3 / [Discord](https://discord.gg/DFZaejcJfg)
+* [⁠AudioFetcher](https://audiofetcher.com/) - Multi-Site / 320kb MP3 / [Discord](https://discord.gg/DFZaejcJfg)
 * [Spotisaver](https://spotisaver.net/) - YouTube / 320kb MP3
 * [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb AAC
 * [⁠Lossless Music Download](https://flac.music.hi.cn/) - Kuwo / MP3 / FLAC / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
@@ -575,9 +574,9 @@
 ***
 
 * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
-* ⭐ **[Redacted](https://redacted.sh/)** - MP3 / FLAC / [Interviews](https://interviewfor.red/), [2](https://clarasguide.valeena.workers.dev/Guides/private-trackers/#introducing-red)
+* ⭐ **[Redacted](https://redacted.sh/)** - MP3 / FLAC / Requires Sign-Up / [Interviews](https://interviewfor.red/), [2](https://clarasguide.valeena.workers.dev/Guides/private-trackers/#introducing-red)
 * ⭐ **[New-Team](https://new-team.org/)** - MP3 / FLAC
-* ⭐ **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / [Interviews](https://interview.orpheus.network/)
+* ⭐ **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / Requires Sign-Up / [Interviews](https://interview.orpheus.network/)
 * ⭐ **[Lidarr](https://lidarr.audio/)** / [GitHub](https://github.com/Lidarr/Lidarr) or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-Site Search
 * [TPB Music](https://thepiratebay.org/search.php?q=top100:100) - MP3 / FLAC / **Avoid Software / Games**
@@ -619,8 +618,8 @@
 
 * 🌐 **[EverythingMoe](https://everythingmoe.com/section/music)** - Otaku Music Sites Index / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[Wotaku](https://wotaku.wiki/music)** - Otaku Music Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* ⭐ **[Squidify](https://www.squidify.org)**, [2](https://www.squidify.net/) - Game / Anime Soundtracks / [Desktop](https://github.com/kobayashi90/squidify-desktop)
 * ⭐ **[Sitting on Clouds](https://www.sittingonclouds.net/)**, [2](https://sittingonclouds.com/) - Anime / Game Soundtracks / [Forum](https://squid-board.org/) / [.onion](http://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/) / [Discord](https://discord.com/invite/x23SFbE)
+* ⭐ **[Squidify](https://www.squidify.org)**, [2](https://www.squidify.net/) - Game / Anime Soundtracks / [Desktop](https://github.com/kobayashi90/squidify-desktop)
 * [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) - Soundtracks
 * [RenovationRecords](https://renovatiorecords.blogspot.com/) - HQ Movies Soundtracks
 * [⁠Adtunes](https://adtunes.com/) - Commercial / Trailer Media Soundtrack Community
@@ -692,6 +691,7 @@
 * [Loudness War](https://dr.loudness-war.info/) - Albums Dynamic Range Database
 * [Talpa Search](https://www.talpasearch.com/) - Find Albums by Describing Them
 * [MyPitchFork](https://mypitchfork.fun/) - Individual Song Rating / Tracking
+* [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
 * [DAHR](https://adp.library.ucsb.edu/index.php) - American Historical Recordings Database
 * [Obscurify](https://obscurifymusic.com/) or [MusicTaste](https://musictaste.space/) - Compare Music Taste to Others
 * [AME](https://gitlab.com/SuperSaltyGamer/ame) - Music Site Enhancement Userscripts
@@ -701,46 +701,56 @@
 
 ## ▷ Curated Recommendations
 
-* ⭐ **[AnyDecentMusic](http://www.anydecentmusic.com/)** - Album Review Aggregator
-* ⭐ **[Shfl](https://theshfl.com/)** - Album Recommendations
-* ⭐ **[r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
-* [Sputnik](https://www.sputnikmusic.com/) - Ratings / Reviews
-* [AlbumOfTheYear](https://www.albumoftheyear.org/) - Ratings / Reviews / [API](https://aoty.prigoana.pw/)
-* [AllMusic](https://www.allmusic.com/) - Ratings / Reviews
-* [⁠Pitchfork](https://pitchfork.com/) or [The Fork](https://the-fork.vercel.app/) - Reviews
-* [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
-* [⁠Essential Charts](https://4chanmusic.miraheze.org/wiki/Essential_Charts) - Album Recommendation Charts
-* [⁠Melondy](https://melondy.com/) - Curated List of Albums Rated by Anthony Fantano
+* ⭐ **[AnyDecentMusic](https://anydecentmusic.com/)** - Aggregated Critics' Album Ratings
+* ⭐ **[AlbumOfTheYear](https://www.albumoftheyear.org/)** - Critic & User Ratings / Album Charts / [Unofficial API](https://aoty.prigoana.pw/)
+* ⭐ **[Shfl](https://theshfl.com/)** - Curated Album Discovery / Genre & Label Filters
+* ⭐ **[Bandcamp Daily](https://daily.bandcamp.com/)** - Independent Music Recommendations / [Hidden Gems](https://daily.bandcamp.com/hidden-gems)
+* ⭐ **[The Quietus](https://thequietus.com/charts/)** - Independent Music Reviews / Monthly & Annual Charts
+* [AllMusic](https://www.allmusic.com/) - Expert Album Reviews / Artist Recommendations
+* [Sputnikmusic](https://www.sputnikmusic.com/) - Staff & User Album Reviews
+* [Pitchfork](https://pitchfork.com/) / [The Fork](https://the-fork.vercel.app/) - Album Reviews / Searchable Review Database
+* [Resident Advisor](https://ra.co/reviews) - Electronic Music Reviews / Recommended Releases
+* [⁠TWGEEMA](https://twgeema.com/) - Electronic Music Recommendations
+* [Essential Charts](https://4chanmusic.miraheze.org/wiki/Essential_Charts) - Community Album Recommendation Charts
+* [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Community Music Recommendations
 * [Talk Classical List](https://talkclassical-list.github.io/) - Classical Music Recommendations / [Spotify Playlist](https://open.spotify.com/playlist/2ssmoEdwODoE2tPOAcvRge)
-* [MusicTo](https://www.musicto.com/) - Musician Curated Playlists
-* [DigitalDreamDoor](https://digitaldreamdoor.com/pages/music0.html) - Greatest 100 Lists
-* [CET](https://rentry.org/CET) / [2](https://rentry.co/CET) - Music Comps & Edits / [Discord](https://discord.gg/DfAfVPPvq4)
+* [MusicTo](https://www.musicto.com/) - Human-Curated Playlists
+* [The Drop](https://the-drop-reviews.vercel.app/) / [Melondy](https://melondy.com/) - Anthony Fantano Album Ratings & Recommendations
+* [DigitalDreamDoor](https://digitaldreamdoor.com/pages/music0.html) - Greatest Music Lists by Genre & Era
 
 ***
 
 ## ▷ Music Discovery
 
 * 🌐 **[/music discovery/](https://rentry.co/musicdiscovery)** - Music Discovery Guide
+* ⭐ **[NTS Radio](https://www.nts.live/)** - Human-Curated Music Discovery / [Interactive Tracklist](https://greasyfork.org/scripts/592656) / [Downloader](https://github.com/everdrone/nts)
 * ⭐ **[RateYourMusic Charts](https://rateyourmusic.com/charts/)** - Customizable Music Discovery Charts / [Add Features](https://rateyourmusic.com/list/kknq/evenbetterrym-browser-extension/) / [Forum](https://rym.fm/)
-* ⭐ **[NTS Radio](https://www.nts.live/)** - Recommendation Radio / [Interactive Tracklist](https://greasyfork.org/scripts/592656) / [Downloader](https://github.com/everdrone/nts) / [SoundCloud](https://rentry.co/ntssoundcloud) / [Mixcloud](https://www.mixcloud.com/NTSRadio/) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
-* ⭐ **[EveryNoise](https://everynoise.com/)** - Music Genre Discovery Tool / [New Music](https://furia.com/page.cgi?type=log&skip=20#id492)
-* [Kworb](https://kworb.net/), [Spotify Charts](https://charts.spotify.com/home), [ChartRank](https://chartrank.app/) or [SuperFridayChart](https://www.superfridaychart.com/) - Music Top Charts
-* [Musicroamer](https://www.musicroamer.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [⁠Music Atlas](https://music-atlas.app/), [Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
-* [Chosic](https://www.chosic.com/), [lazyrecords](https://lazyrecords.app/), [SongsLikeX](https://songslikex.com/), [Discover Quickly](https://discoverquickly.com/), [TapeFear](https://www.tapefear.com/), [Dubolt](https://dubolt.com/) or [Playlost.fm](https://playlost.fm/) - Song Discovery Tools
-* [OrbitMusic](https://www.bbc.co.uk/orbitmusic) - Undiscovered Artist Recommendations / [Limit Bypass](https://i.ibb.co/Y7gjmdqb/image.png), [2](https://files.catbox.moe/v7hy49.png), [3](https://i.imgur.com/FDx8jKa.png)
+* ⭐ **[EveryNoise](https://everynoise.com/)** - Interactive Music Genre Discovery / [New Music](https://furia.com/page.cgi?type=log&skip=20#id492)
+* ⭐ **[cosine.club](https://cosine.club/)** - Audio-Based Music Similarity Search / Underground Electronic Music
+* ⭐ **[Musicmap](https://musicmap.info/)** - Interactive Music Genre History / Influences / Example Tracks
+* [NTS In Focus](https://rentry.co/ntsinfocus), [NTS Guide To](https://rentry.co/ntsguideto) or [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio) - NTS Music Discovery Guides / Episode Indexes
+* [NTS SoundCloud](https://rentry.co/ntssoundcloud) or [Mixcloud](https://www.mixcloud.com/NTSRadio/) - NTS Alternative Archives
+* [Musicroamer](https://www.musicroamer.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [Music Atlas](https://music-atlas.app/), [Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted) or [LivePlasma](https://liveplasma.com/) - Visual Artist Discovery Tools
+* [GNOD](https://www.gnod.com/), [Gnoosic](https://www.gnoosic.com/) or [Music-Map](https://www.music-map.com/) - Similar Artist Recommendations
+* [SAGE](https://hate5six.com/sage) - Personalized Band Recommendations
+* [Chosic](https://www.chosic.com/), [SongsLikeX](https://songslikex.com/), [Discover Quickly](https://discoverquickly.com/) or [Dubolt](https://dubolt.com/) - Similar Song / Playlist Discovery Tools
+* [lazyrecords](https://lazyrecords.app/) or [TapeFear](https://www.tapefear.com/) - Obscure Music Discovery / Digital Crate Digging
+* [Playlost.fm](https://playlost.fm/) - Similar Spotify Playlist Discovery
+* [OrbitMusic](https://www.bbc.co.uk/orbitmusic) - Discover Emerging BBC Introducing Artists / [Limit Bypass](https://i.ibb.co/Y7gjmdqb/image.png), [2](https://files.catbox.moe/v7hy49.png), [3](https://i.imgur.com/FDx8jKa.png)
 * [ArtistPath](https://artistpath.cc/) - Find Connections Between Music Artists
-* [NTS In Focus](https://rentry.co/ntsinfocus) or [NTS Guide To](https://rentry.co/ntsguideto) - NTS Episode Indexes
-* [⁠BestSellingAlbums](https://bestsellingalbums.org/), [Best Ever Albums](https://www.besteveralbums.com/index.php) or [Acclaimed Music](https://acclaimedmusic.net/) - Discover Albums
+* [Radiooooo](https://radiooooo.com/) - Discover Music by Country & Decade
+* [Best Ever Albums](https://www.besteveralbums.com/index.php) or [Acclaimed Music](https://acclaimedmusic.net/) - Greatest Albums / Aggregated Rankings
+* [BestSellingAlbums](https://bestsellingalbums.org/) - Historical Album Sales Rankings
+* [1001 Albums Generator](https://1001albumsgenerator.com/) - Daily Album Listening Challenge
 * [Album Roulette](https://album-selector-chi.vercel.app/) - Random Album Recommendations
-* [1001 Albums Generator](https://1001albumsgenerator.com/) - Daily Random Album Recommendation
-* [Random Song Generator](https://randomsonggenerator.com/), [⁠SampleRoulette](https://www.sampleroulette.io/) or [Samplette](https://samplette.io/) - Play Random YouTube Songs
-* [Musicmap](https://musicmap.info/) - Genealogy / History of Music Genres
-* [⁠Genre Sampler](https://genresampler.com/) - RYM Genre Sampler / [GitHub](https://github.com/fouriels/rym-sampler)
-* [Map of Metal](https://mapofmetal.com/) - Interactive Map of Metal History
-* [MusicGenreTree](https://www.musicgenretree.org/chart.html) - Discover New Music by Genre
-* [Identifying Music Genres](https://chunisama.github.io/Identifying-Music-Genres/) - Compare Music Genres
-* [⁠cosine.club](https://cosine.club/) - Find Similar Electronic Songs
-* [Music.ishkur](https://music.ishkur.com/) - Electronic Music Genre Guide
+* [Music.ishkur](https://music.ishkur.com/) - Interactive Electronic Music Genre History
+* [Genre Sampler](https://genresampler.com/) - RYM Genre Sampler / [GitHub](https://github.com/fouriels/rym-sampler)
+* [MusicGenreTree](https://www.musicgenretree.org/chart.html) - Music Discovery by Genre / Random Recordings
+* [Identifying Music Genres](https://chunisama.github.io/Identifying-Music-Genres/) - Interactive Music Genre Comparisons
+* [Map of Metal](https://mapofmetal.com/) - Interactive History of Metal Music
+* [Random Song Generator](https://randomsonggenerator.com/), [SampleRoulette](https://www.sampleroulette.io/) or [Samplette](https://samplette.io/) - Random YouTube Music Discovery
+* [Kworb](https://kworb.net/), [Spotify Charts](https://charts.spotify.com/home) or [ChartRank](https://chartrank.app/) - Music Popularity / Streaming Charts
+* [SuperFridayChart](https://www.superfridaychart.com/) - Spotify New Music Friday Chart Aggregator
 * [⁠HappyHardcore](https://www.happyhardcore.com/forums/) - Hardcore Dance Music Forum
 * [TranceFix](https://www.trancefix.nl/index.php) - Trance Music Forum
 
@@ -805,6 +815,7 @@
 * [CatNip](https://github.com/noriah/catnip) - Terminal-Based Audio Visualizer / Windows, macOS, Linux
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer / Windows
 * [⁠Nagi](https://github.com/Anthonyy232/Nagi) - Audio Player / Windows
+* [Mornye](https://desktop.mornye.com/) - Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/mornyeapp/Mornye-Desktop)
 * [Snowify](https://snowify.cc/) - Audio Player / Windows, macOS, Linux / [Discord](https://discord.gg/JHDZraE5TD) / [GitHub](https://github.com/nyakuoff/Snowify)
 * [Museeks](https://museeks.io/) - Simple Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/martpie/museeks)
 * [Audacious](https://audacious-media-player.org/) - Lightweight Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/audacious-media-player/audacious)

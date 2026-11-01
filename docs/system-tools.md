@@ -498,6 +498,7 @@
 * [CoolBackgrounds](https://coolbackgrounds.io/) - Customizable Wallpapers
 * [Aesthetic Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - Aesthetic Wallpapers
 * [Xbox Wallpapers](https://www.xbox.com/en-us/wallpapers/) - Xbox Wallpapers
+* [Mandelnaut](https://techmatt.github.io/fractals/explorer/) - Fractal Wallpaper Generator
 * [Anime Pictures](https://anime-pictures.net/), [WallpaperWaifu](https://wallpaperwaifu.com/) or [MyLiveWallpapers](https://mylivewallpapers.com/) - Anime Wallpapers
 * [WallsPic](https://wallspic.com/), [WallpaperFlare](https://www.wallpaperflare.com/), [HDQwalls](https://hdqwalls.com/) or [UHD Wallpaper](https://www.uhdpaper.com/) - Misc Wallpapers
 * [G_Walls](https://t.me/G_Walls) - Telegram Wallpaper Channels
@@ -512,7 +513,7 @@
 * ⭐ **[Lively](https://www.rocksdanister.com/lively/)** / [GitHub](https://github.com/rocksdanister/lively) or [ScreenPlay](https://screen-play.app/) - Live Wallpaper Manager
 * [backiee](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD) - Wallpaper Manager
 * [SuperPaper](https://github.com/hhannine/superpaper) - Cross-Platform Multi-Monitor Wallpaper Manager
-* [Background Switcher](https://johnsad.ventures/software/backgroundswitcher/), [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) or [Dynamic Theme](https://apps.microsoft.com/detail/9nblggh1zbkw) - Auto Change Wallpaper
+* [Wallhaven Slideshow](https://github.com/nitishengineer/Wallhaven-Slideshow), [Background Switcher](https://johnsad.ventures/software/backgroundswitcher/), [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) or [Dynamic Theme](https://apps.microsoft.com/detail/9nblggh1zbkw) - Wallpaper Slideshow / Auto-Change Apps
 * [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers
 * [Awesome Wallpaper](https://awesome-wallpaper.com/) - Show System Information on Wallpaper
 * [GoWall](https://github.com/Achno/gowall) - Wallpaper Color Scheme Converter

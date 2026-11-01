@@ -246,6 +246,7 @@
 * [Coolmath Games](https://www.coolmathgames.com/c/number-games) - Math Games
 * [Cut The Knot](https://cut-the-knot.org/) or [⁠MathNet](https://mathnet.mit.edu/) - Math Equations / Problems
 * [HSC Maths By Topic](https://hscmathsbytopic.firsteducation.com.au/) - HSC Math Practice
+* [Vim/LaTeX Mathematics Note-Taking Guide](https://castel.dev/post/lecture-notes-1/)
 * [ParkMath](https://parkmath.github.io/) or [FreeMathHelp](https://freemathhelp.com/) - Math Guides
 * [ISODN Math](https://discord.gg/3sbwZdh) - ISODN Math Discord Community
 * [Fourier Transform](https://www.jezzamon.com/fourier/index.html) - Interactive Fourier Transform Guide
@@ -364,7 +365,7 @@
 
 * 🌐 **[⁠Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)** - Bioinformatics Learning Resources + Tools
 * ⭐ **[Wikispecies](https://species.wikimedia.org/)** or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Databases
-* ⭐ **[OneZoom](https://www.onezoom.org/)** - Tree of Life Explorer
+* ⭐ **[OneZoom](https://www.onezoom.org/)** or [⁠Ptree](https://ptree.org/) - Tree of Life Reference / Explorers
 * ⭐ **[Lost and Found Nature](https://www.lostandfoundnature.com/)** - Rediscovered Animal / Plant Database
 * [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
 * [⁠Wayne's Word](https://www.waynesword.net/) - Biology and Botany Information / Learning
@@ -473,7 +474,7 @@
 * [NASA+](https://plus.nasa.gov/) - Official NASA Streaming Service
 * [NASA History](https://www.nasa.gov/history/history-publications-and-resources/) / [X](https://x.com/NASAhistory) or [NASA Ebooks](https://www.nasa.gov/ebooks/) - NASA Books
 * [⁠Ask an Astronaut](https://askanastronaut.issinrealtime.org/) - Astronaut Interview Q&A Search
-* [⁠Cosmos2025](https://cosmos2025.iap.fr/fitsmap.html), [Map of the Universe](https://mapoftheuniverse.net/), [Universe Atlas](https://universeatlas.org/), [Scale of the Universe](https://scaleofuniverse.com/), [AndroidCelestia](https://github.com/celestiamobile/AndroidCelestia/) or [SpaceEngine](https://spaceengine.org/) - Universe Scale Simulators
+* [⁠Cosmos2025](https://cosmos2025.iap.fr/fitsmap.html), [Map of the Universe](https://mapoftheuniverse.net/), [⁠Your Eyes In Space](https://www.youreyesinspace.com/), [Universe Atlas](https://universeatlas.org/), [Scale of the Universe](https://scaleofuniverse.com/), [AndroidCelestia](https://github.com/celestiamobile/AndroidCelestia/) or [SpaceEngine](https://spaceengine.org/) - 3D Universe Scale Explorers & Simulators
 * [NASA's Eyes](https://science.nasa.gov/eyes/) or [Celestia](https://celestiaproject.space/) - 3D Space Visualizations / [Solar System](https://eyes.nasa.gov/apps/solar-system/#/home)
 * [RGV Aerial Photography](https://discord.gg/wsFxEw9g4X) - Aerial Photography Community / News / [X](https://x.com/RGVaerialphotos)
 * [TheCMB](http://thecmb.org/) - 3D Cosmic Microwave Background Model
@@ -535,6 +536,7 @@
 * [⁠Historic Spacecraft](https://historicspacecraft.com/) - Spacecraft / Rocket Photos & illustrations
 * [⁠HeroicRelics](http://heroicrelics.org/) - Spacecraft Technical Information Archive
 * [⁠Encyclopedia Astronautica](http://www.astronautix.com/) - Spaceflight & Rocketry History Encyclopedia
+* [⁠Starship Telemetry](https://telemetry.starshipspaceprogram.com/) - Starship Flight Test Replays + Telemetry / [X](https://x.com/fael097) / [Discord](https://discord.gg/2VeySaYN3x)
 * [⁠Ringwatchers](https://ringwatchers.com/) - Starship Diagrams / Articles / Community / [X](https://x.com/ringwatchers) / [Discord](https://discord.com/invite/ringwatchers)
 * [Energia-Buran Archive](https://buranarchive.space/) - Energia-Buran Image Archive / [X](https://x.com/11K25_Energia)
 * [Andegraf Rockets](https://rockets.andegraf.com/) - Rocket Diagrams
@@ -810,7 +812,7 @@
 * [PrideFlags](https://www.prideflags.org/) - LGBT Flag Database
 * [⁠HOTW](https://www.heraldry-wiki.com/) - Coat of Arms Database / Wiki
 * [⁠r/heraldry](https://www.reddit.com/r/heraldry/) - Heraldry / Coat of Arms Subreddit
-* [Flag Guesser](https://flagguesser.com/), [⁠Flagle](https://flagle-game.com/), [Vexillologists](https://vexillologists.com/), [FlagGuessr](https://flagguessr.app/), [Flagdle](https://www.flagdle.org/), [⁠flagdoku](https://flagdoku.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
+* [Flag Guesser](https://flagguesser.com/), [⁠Geotrivia (Flags)](https://geotrivia.com/world/flags), [⁠Flagle](https://flagle-game.com/), [FlagGuessr](https://flagguessr.app/), [Flagdle](https://www.flagdle.org/), [⁠flagdoku](https://flagdoku.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
 * [Vexle](https://vexle.org/) - Daily Flag Drawing Game
 
 ***
@@ -834,6 +836,8 @@
 * [MoveMap](https://www.movemap.io/) - North America Property Costs Map
 * [⁠Opportunity Atlas](https://www.opportunityatlas.org/) - Interactive Future Success Impact Map
 * [HungerMap](https://hungermap.wfp.org/) - Global Hunger Map
+* [⁠Wealth Shown to Scale](https://evolving-thoughts.github.io/1-pixel-wealth/) - Global Wealth Inequality Visualization
+* [⁠Wealth Inequality in America](https://dreamagainusa.org/) - America Wealth Inequality Visualization
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
 * [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
@@ -1621,7 +1625,7 @@
 * [Data Science Intro Guide](https://florian-huber.github.io/data_science_course/) or [Data Science First Intro](https://python.datasciencebook.ca/) - Data Science with Python Intro Guides
 * [Advanced R](https://adv-r.hadley.nz/) - R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)
 * [R Packages](https://r-pkgs.org/) - R Packages Guide
-* [R for Data Science](https://r4ds.had.co.nz/) - R Data Science Guide
+* [R for Data Science](https://r4ds.hadley.nz) - R Data Science Guide
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - ggplot2 Guide
 * [Scipy Lectures](https://lectures.scientific-python.org/) or [Virgilio](https://virgili0.github.io/Virgilio/) / [GitHub](https://github.com/virgili0/Virgilio) - Learn DataScience
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Course
@@ -1798,10 +1802,10 @@
 
 ***
 
-## ▷ JEE / NEET
+## ▷ India Exam Prep
 
 * 🌐 **[r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
-* ⭐ **[PhysicsWallah](https://www.pw.live/)**, [Pirate Wallah](https://rentry.co/FMHYB64#pwallah-studystark) or [StudyShark](https://rentry.co/FMHYB64#pwallah-studystark) - JEE Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
+* ⭐ **[PhysicsWallah](https://www.pw.live/)**, [Pirate Wallah](https://rentry.co/FMHYB64#pwallah-studystark) or [StudyShark](https://rentry.co/FMHYB64#pwallah-studystark) - Exam Prep / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
 * ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions
 * [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
@@ -1866,10 +1870,7 @@
 
 ## ▷ Research Tools
 
-
 * 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [Scolary](https://scolary.com/) or [KausalFlow](https://tools.kausalflow.com/) - Research Tool Indexes
-
-
 * ↪️ **[Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_documents_.2F_articles)** / **[Academic Papers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_academic_papers)**
 * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
 * ⭐ **[Zotero](https://www.zotero.org/)**, **[Mendeley](https://www.mendeley.com/)** / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/) or [⁠JabRef](https://www.jabref.org/) / [GitHub](https://github.com/JabRef/jabref) - Research Managers
@@ -1888,6 +1889,7 @@
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
 * [Inciteful](https://incitefulmed.com/academic/) - Find Connected Literature via Citations
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
+* [⁠Citation Tree](https://citationtree.org/) - Paper Citation Trees
 * [MyBib](https://www.mybib.com/), [CiteMaker](https://www.citemaker.com/), [Formatically](https://formatically.com/), [ZoteroBib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [⁠BibGuru](https://www.bibguru.com/), [Scribbr](https://www.scribbr.com/citation/generator/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Citation Generators / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [PlagiarismDetector](https://plagiarismdetector.net/) or [Duplichecker](https://www.duplichecker.com/) - Plagiarism Checkers
 
@@ -1978,6 +1980,7 @@
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
 * [Simple Wiki](https://simple.wikipedia.org/wiki/Main_Page) - Simplified Wikipedia
 * [namuwiki](https://en.namu.wiki/) - Korean Encyclopedia
+* [⁠Encyclopedia 2000](https://encyclopedia2000.com/) - 2000s-Style Desktop Encyclopedia / [GitHub](https://github.com/sburton0/encyclopedia-2000)
 * [Britannica](https://www.britannica.com/)
 * [EverybodyWiki](https://en.everybodywiki.com/)
 * [Encyclopedia](https://www.encyclopedia.com/)

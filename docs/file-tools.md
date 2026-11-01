@@ -32,6 +32,7 @@
 * [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/free-download-manager-addon/) / [Chrome](https://chrome.google.com/webstore/detail/free-download-manager-chr/ahmpjcflkgiildlgicmcieglgoilbfdp/RK%3D2/RS%3DfQzscgKGm9aMezJJ7Gf2Fcc.JSo-) / Windows, macOS, Linux, Android
 * [Brisk](https://github.com/BrisklyDev/brisk/) / Windows, macOS, Linux
 * [Plexo](https://anmolkapil.github.io/plexo) - Multi-Connection / Windows, macOS, Linux / [GitHub](https://github.com/anmolkapil/plexo)
+* [⁠HDM](https://hydra.javad.dev/) - Multi-Connection / Windows, macOS, Linux / [GitHub](https://github.com/ja7ad/hydra)
 * [imFile](https://imfile.org/) / Windows, macOS, Linux / [GitHub](https://github.com/imfile-io/imfile-desktop)
 * [⁠Aria2 Next](https://github.com/AnInsomniacy/aria2-next) or [aria2](https://aria2.github.io/) / [GitHub](https://github.com/aria2/aria2) - Terminal Download Manager / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/) / Windows, macOS, Android
 * [Persepolis](https://persepolisdm.github.io/) - Download Manager / Windows, macOS, Linux / [GitHub](https://github.com/persepolisdm/persepolis)
@@ -39,6 +40,7 @@
 * [ArrowDL](https://www.arrow-dl.com/) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/arrow-dl/) / [Chrome](https://chrome.google.com/webstore/detail/arrow-dl/modofbhnhlagjmejdbalnijgncppjeio) / Windows, macOS, Linux / [GitHub](https://github.com/setvisible/ArrowDL)
 * [Varia](https://github.com/giantpinkrobots/varia) - Download Manager / [Firefox](https://addons.mozilla.org/firefox/addon/varia-integrator/) / [Chrome](https://chrome.google.com/webstore/detail/dacakhfljjhgdfdlgjpabkkjhbpcmiff) / [Extesnsion](https://github.com/BrisklyDev/brisk-browser-extension) / Windows, macOS, Linux
 * [⁠Surge](https://github.com/surge-downloader/surge) - TUI Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/surge/) / Windows, macOS, Linux
+* [Cyberdrop-DL](https://pypi.org/project/cyberdrop-dl-patched) - TUI Download Manager / [GitHub](https://github.com/Cyberdrop-DL/cyberdrop-dl) / Windows, macOS, Linux
 * [DownThemAll](https://www.downthemall.org/) - Download Management Extension / [Firefox](https://addons.mozilla.org/addon/downthemall/) / [Chrome](https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge) / [GitHub](https://github.com/downthemall/downthemall)
 * [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/http-downloader/) / [Chrome](https://github.com/erickutcher/httpdownloader/releases/download/CE_v1.0.2.8/HTTP_Downloader_Chrome_Extension.crx) / Windows / [GitHub](https://github.com/erickutcher/httpdownloader)
 
@@ -243,6 +245,7 @@
 * [PDFCraft](https://pdfcraft.devtoolcafe.com/) - Client-Side / [GitHub](https://github.com/PDFCraftTool/pdfcraft)
 * [⁠itinypdf](https://itinypdf.com/) - Client-Side
 * [PDFWix](https://pdfwix.com/), [2](https://pdfwix.github.io/pdfwix/) - Client-Side
+* [⁠PDFkind](https://pdfkind.com/) - Client-Side
 * [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side / [Codeberg](https://codeberg.org/ladigitale/digipdf)
 * [Sejda](https://www.sejda.com/) - Server-Side
 * [ILovePDF](https://www.ilovepdf.com/) - Server-Side
@@ -296,6 +299,7 @@
 * [croc](https://getcroc.com/) - Online / Windows, macOS, Linux, Android / [GUI](https://github.com/howeyc/crocgui) / [GitHub](https://github.com/schollz/croc)
 * [LANDrop](https://landrop.app/) - Local / All Platforms / [Discord](https://discord.com/invite/5adm6sPugT) / [X](https://x.com/LANDropApp)
 * [NahrajSoubor](https://new.nahrajsoubor.cz/) - Online / Web
+* [FilePizza](https://file.pizza/) - Online / Web
 * [Free Transfer](https://transfert.free.fr/upload) - Online / Web
 * [IPFS](https://ipfs.tech/) - Desktop / Mobile Transfer / [Discord](https://discord.gg/vj7qWuAyHY)
 * IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
@@ -335,7 +339,7 @@
 * ⭐ **[Gofile](https://gofile.io/)** - 1TB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / Signup Required for Upload / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.gamedrive.to/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pixeldrain.md)
 * ⭐ **[Mocha](https://mocha.my/)** - 150GB (w/ Account) / 20GB / 30 Days After Last Download / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup) / [Discord](https://discord.gg/hWPqHpCD3A)
-* ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
+* ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / Use Adblock / [Discord](https://discord.gg/EPEFC6KkpF)
 * ⭐ **[0807](https://0807.st/)** or [0908](https://0908.st/) - 10GB / 30 Days After Last Download / [Discord](https://discord.gg/0807) / [Codeberg](https://codeberg.org/Sauul/0807)
 * ⭐ **[⁠DropDrive](https://dropdrive.org/)** - 100GB / 60 Days After Last Download / [Discord](https://discord.com/invite/YSABtmnD7a)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
@@ -356,12 +360,13 @@
 * [⁠MaraFile](https://marafile.cc/) - 1GB / Forever
 * [Hxfile](https://hxfile.co/), [2](https://down.mdiaload.com/), [3](https://down.fast-down.com/) - 5GB / 180 Days After Last View
 * [DataNodes](https://datanodes.to/) - 5GB / 5 Days (After Last Download) / 25GB / 7 Days After Last Download (w/ Account) / **Use uBlock** / [Discord](https://discord.gg/mKyBMyeKvh)
-* [⁠Filester](https://filester.me/) - 10GB / 45 Days After Last Download
+* [⁠Filester](https://filester.me/), [2](https://filester.sh/), [3](https://filester.si/), [4](https://filester.gg/) - 10GB / 45 Days After Last Download
 * [⁠Stashr](https://stashr.wtf/) - 1GB / 30 days
 * [⁠ATM](https://atm.rip/) - 10GB / Forever
 * [eDisk](https://www.edisk.cz/) - 10GB / 30 Days
 * [⁠Origrid](https://origrid.io/) - 100GB / 25GB / 7 Days After Last Download (30 w/ Account, Never w/ Plus)
 * [⁠DropMeFiles (ua)](https://dropmefiles.com.ua/) - 100GB / 14 Days
+* [⁠filedrop](https://r7zxn.cc/filedrop/) - 10GB / 30 Days
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Signup
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
@@ -492,6 +497,5 @@
 
 * ⭐ **[Megabasterd](https://github.com/tonikelope/megabasterd)** - Download Quota Bypass / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/megabasterd-note.md)
 * ⭐ **[MEGA Account Generators](https://rentry.co/FMHYB64#mega-gen)** - Account Gen / Unlimited Upload Size / [Fix](https://rentry.co/mega_account_generator)
-* [Clonr](https://clonr.co/) - MEGA Link Direct Downloader
 * [MEGA Desktop](https://mega.io/desktop) - Official GUI App / [GitHub](https://github.com/meganz/MEGAsync)
 * [MEGA CMD](https://mega.io/cmd) - Official CLI App / [GitHub](https://github.com/meganz/MEGAcmd)

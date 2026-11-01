@@ -63,6 +63,7 @@
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
 * [NetU](https://netu.tv/) - 7.5GB / 90 Days (after last view)
 * [Streamplay](https://streamplay.to/) - 30TB / 20GB
+* [UQLOAD](https://uqload.vc/) - 5GB / Forever
 * [Luluvdoo](https://luluvdoo.com/), [2](https://lulustream.com/) - 15GB / 60 Days Since Last Download
 * [Streamtape](https://streamtape.com/), [2](https://streamtape.to/) - 15GB / Requires Sign-Up
 * [Dubz](https://dubz.co/) - 100MB / Forever
@@ -213,7 +214,7 @@
 * ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [Firefox Note](https://github.com/Andrews54757/FastStream?tab=readme-ov-file#notice-for-firefox-extension-store-users) / [GitHub](https://github.com/Andrews54757/FastStream/)
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad-Free Player with Subs, Speed Control & More
 * [Codec Guide](https://www.codecguide.com/), [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), or [Free-Codecs](https://www.free-codecs.com/) - Video Player Codec Collections
-* [PotPlayer](https://potplayer.tv/) - Video Player / [Twitch Addon](https://github.com/TwitchPotPlayer/TwitchPotPlayer) / [YouTube Addon](https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp) / [Guide](https://tennojim.xyz/article/media_stack_diy)
+* [PotPlayer](https://potplayer.tv/) - Video Player / [Twitch Addon](https://github.com/TwitchPotPlayer/TwitchPotPlayer) / [YouTube Addon](https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp)
 * [Screenbox](https://github.com/huynhsontung/Screenbox) - Video Player
 * [GridPlayer](https://github.com/vzhd1701/gridplayer), [AVPlayer](http://www.awesomevideoplayer.com/) or [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) - Multi-Video Players
 * [SPlayer](https://www.splayer.org/) - Video Player with Smart Translation
@@ -257,7 +258,6 @@
 ## ▷ MPV Tools
 
 * 🌐 **[⁠Awesome-MPV](https://github.com/stax76/awesome-mpv)** - MPV Tools / Resources
-* 🌐 **[igv's shaders](https://gist.github.com/igv)** - Various Shaders
 * [MPV Config Guide](https://thewiki.moe/tutorials/mpv/), [2](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/), [3](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 * [Flower's MPV Config](https://github.com/flowerey/flower-mpv-config) - Automated MPV Configs
 * [ModernZ](https://github.com/Samillion/ModernZ) or [uosc](https://github.com/tomasklaen/uosc) - Alt User Interfaces
@@ -389,6 +389,7 @@
 * [vdwn.cloud](https://vdwn.cloud/), [2](https://imov.life/) - Multi-Site / Online
 * [yoink.tools](https://yoink.tools/) - Multi-Site / Online
 * [AMP4](https://amp4.cc/) - Multi-Site / Online
+* [AudioFetcher (MP4)](https://audiofetcher.com/) - Multi-Site / Online / [Discord](https://discord.gg/DFZaejcJfg)
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
 * [⁠OFA Downloader](https://oneforalldownloader.com/) - Multi-Site / Online
 * [⁠YT-DLP Online](https://ytdlp.online/), [2](https://ytdlp.wiki/) - Multi-Site / Online

@@ -330,13 +330,11 @@
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Patterns
 * [Background Tiles](https://background-tiles.com/) - Patterns
 * [Pixela](https://pixela.ai/) or [TextureLab](https://www.texturelab.io/) - Texture Generators
-* [⁠Normal Map Generator](https://normalmapgenerator.art/) - 2D to 3D Texture Map Converter
 * [TextureLab](https://njbrown.itch.io/texturelab) - Procedural Texture Generator / [Discord](https://discord.com/invite/975NdQPsSc) / [GitHub](https://github.com/njbrown/texturelab)
 * [Material Maker](https://rodzilla.itch.io/material-maker) - Procedural Texture Creator
 * [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [more.graphics](https://more.graphics/) or [Haikei](https://app.haikei.app/) - Pattern Generators
 * [Noise & Gradient](https://www.noiseandgradient.com/), [⁠FeralUI Gradients](https://feralui.dev/gradients), [PhotoGradient](https://photogradient.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
 * [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators
-* [Mixer](https://quixel.com/mixer) - 3D Texture Creation Software
 * [The Textures Resource](https://textures.spriters-resource.com/) - Game Textures
 * [Trianglify.io](https://trianglify.io/) - Low-Poly Texture Generator
 
@@ -532,7 +530,7 @@
 * [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
 * [Sketchfab](https://sketchfab.com/), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail), [3DArchive](https://t.me/ArchiveStl), [All STL](https://t.me/allstll), [cgtrader](https://www.cgtrader.com/free-3d-models) or [3dsky](https://3dsky.org/) - Misc 3D Models / Requires Sign-Up
 * [Cults](https://cults3d.com/), [Thangs](https://thangs.com/), [MakerWorld](https://makerworld.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Requires Sign-Up
-* [⁠3DSearch](https://3dsearch.net/) / [Discord](https://discord.gg/BEYvDKEGkT) or [STLFinder](https://www.stlfinder.com/) - Multi-Site 3D Model Search
+* [⁠3DSearch](https://3dsearch.net/) / [Discord](https://discord.gg/BEYvDKEGkT), [⁠PrintWhat](https://printwhat.app/) or [STLFinder](https://www.stlfinder.com/) - Multi-Site 3D Model Search
 * [3D Warehouse](https://3dwarehouse.sketchup.com/) - 3D Models Compatible with SketchUp / Requires Sign-Up
 * [Pack 3D Models](https://p3dm.ru/) - Vehicle / Character 3D Models
 * [Figurosity](https://figurosity.com/) - Human 3D Models
@@ -587,6 +585,8 @@
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
 * [PaintUp](http://technohippy.github.io/teddyjs/) or [⁠VGGT](https://huggingface.co/spaces/facebook/vggt) - Make 2D Art into 3D
+* [⁠Normal Map Generator](https://normalmapgenerator.art/) - 2D to 3D Texture Map Converter
+* [Mixer](https://quixel.com/mixer) - 3D Texture Creation Software
 * [Keygen](https://keygen.co/) - 3D Key Model Generator
 * [⁠STL-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail Generator for 3D Model Files
 * [AliceVision](https://alicevision.org/) - 3D Reconstruction / Camera Tracking / [GitHub](https://github.com/alicevision)
@@ -619,6 +619,7 @@
 * [SendCutSend Education](https://sendcutsend.com/education/) - CAD Engineering Study Guide / Videos / [X](https://x.com/sendcutsend)
 * [SOLIDWORKS Practice Problems](https://www.solidworks.com/solution/education/practice-problems) - CAD Engineering Practice Exercises / [X](https://x.com/solidworks)
 * [FreeCAD](https://www.freecad.org/) - Parametric CAD Modeling / [GitHub](https://github.com/FreeCAD/FreeCAD)
+* [⁠SolidCraft](https://github.com/tangency-labs/solidcraft) - Parametric CAD Modeling / [Web Version](https://docs.solidcraft.io/app/)
 * [⁠Chili3d](https://chili3d.com/) - Web-Based CAD App / [GitHub](https://github.com/xiangechen/chili3d)
 * [BRL-CAD](https://brlcad.org/) or [OpenSCAD](https://openscad.org/) - Cross-Platform CSG CAD Modeling
 * [LibreCAD](https://librecad.org/) or [QCAD](https://www.qcad.org/en/) - 2D CAD Modeling
@@ -734,35 +735,33 @@
 
 ## ▷ Image Viewers
 
-* ⭐ **[IrfanView](https://www.irfanview.com/)**
-* ⭐ **[JPEGView](https://github.com/KrokusPokus/JPEGView_L)**
-* ⭐ **[FastStone](https://www.faststone.org/index.htm)**
-* ⭐ **[qView](https://interversehq.com/qview/)** / [GitHub](https://github.com/jurplel/qView)
-* ⭐ **[XnView MP](https://www.xnview.com/en/xnview/)**
-* ⭐ **[Digikam](https://www.digikam.org/)** / [Source Code](https://invent.kde.org/graphics/digikam)
-* ⭐ **[ImageGlass](https://imageglass.org/)** / [GitHub](https://github.com/d2phap/ImageGlass)
-* [⁠Imagine](https://www.nyam.pe.kr/dev/imagine/)
-* [nomacs](https://nomacs.org/) / [GitHub](https://github.com/nomacs/nomacs)
-* [qimgv](https://github.com/easymodo/qimgv)
-* [oculante](https://github.com/woelper/oculante)
-* [⁠Zeiger](https://zeigerviewer.com/)
-* [⁠FlyPhotos](https://github.com/riyasy/FlyPhotos)
-* [QuickView](https://github.com/justnullname/QuickView)
-* [Diffractor](https://www.diffractor.com/) / [GitHub](https://github.com/diffractor/diffractor)
-* [PhotoQt](https://github.com/luspi/photoqt)
-* [⁠Minimal Image Viewer](https://github.com/deminimis/minimalimageviewer)
-* [⁠NeeView](https://neelabo.github.io/NeeView/en-us/) / [GitHub](https://github.com/neelabo/NeeView)
-* [PicView](https://picview.org/)
-* [ImagefanReloaded](https://github.com/mihnea-radulescu/imagefanreloaded)
-* [Image Eye](https://www.fmjsoft.com/imageeye.html)
-* [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/)
-* [HoneyView](https://en.bandisoft.com/honeyview/)
-* [picturama](https://picturama.github.io/)
-* [narrative](https://narrative.so/)
-* [G'MIC](https://gmic.eu/)
-* [BeeRef](https://beeref.org/) or [PureRef](https://www.pureref.com/) - Reference Image Viewers
-* [HDRView](https://github.com/wkjarosz/hdrview) or [tev](https://github.com/Tom94/tev) - HDR / Technical Image Viewers
-* [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow
+* ⭐ **[ImageGlass](https://imageglass.org/)** / Windows, macOS, Linux / [Discord](https://discord.gg/tWjbynH2X8) / [GitHub](https://github.com/d2phap/ImageGlass)
+* ⭐ **[IrfanView](https://www.irfanview.com/)** / Windows
+* ⭐ **[qView](https://interversehq.com/qview/)** / Windows, macOS, Linux / [GitHub](https://github.com/jurplel/qView)
+* ⭐ **[JPEGView](https://github.com/KrokusPokus/JPEGView_L)** / Windows
+* [⁠Zeiger](https://zeigerviewer.com/) / Windows, macOS
+* [QuickView](https://github.com/justnullname/QuickView) / Windows
+* [FastStone](https://www.faststone.org/index.htm) / Windows
+* [XnView MP](https://www.xnview.com/en/xnview/) / Windows, macOS, Linux
+* [Image Eye](https://www.fmjsoft.com/imageeye.html) / Windows
+* [nomacs](https://nomacs.org/) / Windows, macOS, Linux / [GitHub](https://github.com/nomacs/nomacs)
+* [qimgv](https://github.com/easymodo/qimgv) / Windows, macOS, Linux
+* [⁠Minimal Image Viewer](https://github.com/deminimis/minimalimageviewer) / Windows
+* [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/) / Windows
+* [Digikam](https://www.digikam.org/) / Windows, macOS, Linux / [Source Code](https://invent.kde.org/graphics/digikam)
+* [oculante](https://github.com/woelper/oculante) / Windows, Linux
+* [PicView](https://picview.org/) / Windows, macOS
+* [Diffractor](https://www.diffractor.com/) / Windows / [GitHub](https://github.com/diffractor/diffractor)
+* [G'MIC](https://gmic.eu/) / Windows, Linux
+* [⁠FlyPhotos](https://github.com/riyasy/FlyPhotos) / Windows
+* [PhotoQt](https://photoqt.org/) / Windows, Linux / [GitHub](https://github.com/luspi/photoqt)
+* [ImagefanReloaded](https://github.com/mihnea-radulescu/imagefanreloaded) / Windows, Linux
+* [⁠Imagine](https://www.nyam.pe.kr/dev/imagine/) / Windows
+* [⁠NeeView](https://neelabo.github.io/NeeView/en-us/) / Windows / [GitHub](https://github.com/neelabo/NeeView)
+* [picturama](https://picturama.github.io/) / Windows, macOS, Linux / [GitHub](https://github.com/picturama/picturama)
+* [BeeRef](https://beeref.org/) or [PureRef](https://www.pureref.com/) - Reference Image Viewers / Windows, macOS, Linux
+* [HDRView](https://github.com/wkjarosz/hdrview) or [tev](https://github.com/Tom94/tev) - HDR / Technical Image Viewers / Windows, macOS, Linux
+* [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow / Windows, macOS, Linux
 
 ***
 
@@ -774,7 +773,7 @@
 
 * 🌐 **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
 * ↪️ **[Android Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_galleries)**
-* ⭐ **[Immich](https://immich.app/)** / Docker / [Resources](https://awesome.immich.app/) / [Storage Server](https://pixelunion.eu/) / [Bulk Uploader](https://github.com/simulot/immich-go) / [Power Tools](https://github.com/varun-raj/immich-power-tools) / [Discord](https://discord.com/invite/immich) / [GitHub](https://github.com/immich-app/immich)
+* ⭐ **[Immich](https://immich.app/)** / [Resources](https://awesome.immich.app/) / [Storage Server](https://pixelunion.eu/) / [Bulk Uploader](https://github.com/simulot/immich-go) / [Power Tools](https://github.com/varun-raj/immich-power-tools) / Docker / [Discord](https://discord.com/invite/immich) / [GitHub](https://github.com/immich-app/immich)
 * [Damselfly](https://github.com/Webreaper/Damselfly) / Docker
 * [Lap](https://julyx10.github.io/lap/) / Windows, macOS, Linux / [GitHub](https://github.com/julyx10/lap)
 * [HomeGallery](https://home-gallery.org/) / Docker
@@ -801,7 +800,7 @@
 * [Horizon](https://horizon.pics/) - 75MB (500MB Storage) / Forever / Requires Sign-Up
 * [imgchest](https://imgchest.com/) - 10MB (30MB with Account) / Forever
 * [Imgur](https://imgur.com/) - 20MB Image / 200MB Animated / Forever / [Upload Limits](https://help.imgur.com/hc/en-us/articles/26511665959579-What-files-can-I-upload-Is-there-a-size-limit) / [Direct Link Grabber](https://imgur.plen.io/) / [Proxy / Unblocker](https://greasyfork.org/scripts/558123)
-* [Google Photos](https://photos.google.com/) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) - 200MB / 15GB Cloud / Forever
+* [Google Photos](https://photos.google.com/) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_app_patchers_.26amp.3B_modifiers) - 200MB / 15GB Cloud / Forever
 * [Zonerama](https://eu.zonerama.com/) - Unlimited / Forever
 * [Ente](https://ente.com/) - Unlimited / 10GB Cloud
 * [Piczel](https://piczel.tv/) - 10MB / Forever / Requires Sign-Up

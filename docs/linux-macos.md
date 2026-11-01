@@ -32,7 +32,7 @@
 * [Awesome for One Liner](https://github.com/sheepla/awesome-for-oneliner) - Curated One-Liner CLI Tools
 * [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI Alts for GUI Tasks
 * [CommandlineFU](https://www.commandlinefu.com/) - Community-Driven Command Snippets
-* [cheat.sh](https://github.com/chubin/cheat.sh) or [Commands.dev](https://www.commands.dev/) - Terminal Commands
+* [cheat.sh](https://github.com/chubin/cheat.sh) - Terminal Commands
 * [Bash Academy](https://guide.bash.academy/) - Bash Scripting Guide
 * [ss64 Bash](https://ss64.com/bash/) - Alphabetical Command Reference
 * [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/) - Bash One-Liner Collection
@@ -53,6 +53,7 @@
 * [Discord-Linux](https://discord.gg/discord-linux) - Linux Discord Server
 * [Arch Linux Community](https://discord.gg/3m6dbPR) - Arch Discord Server / [Fluxer](https://fluxer.gg/mb4B39fZ)
 * [Debian Community](https://discord.gg/debian) or [r/debian](https://www.reddit.com/r/debian/) - Debian Discord Server + Subreddit / [Fluxer](https://fluxer.gg/debian)
+* [⁠Fedora Linux](https://discord.gg/fedora) - Fedora Discord Server
 * [Linux.org](https://linux.org/) - Linux Forum / Invite Required for Account
 * [Arch Forums](https://bbs.archlinux.org/) - Linux Forum
 * [Gentoo Forums](https://forums.gentoo.org/) - Linux Forum
@@ -83,7 +84,7 @@
 * 🌐 **[GNOME Shell Extensions](https://extensions.gnome.org/)**
 * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
 * ↪️ **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_office_suites)**
-* ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine containers / [Discord](https://discord.com/invite/wF4JAdYrTR) / [GitHub](https://github.com/bottlesdevs)
+* ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine containers / [Discord](https://discord.com/invite/wF4JAdYrTR) / [GitHub](https://github.com/bottlesdevs/Bottles)
 * ⭐ **[WineHQ](https://appdb.winehq.org/)** - Wine Compatibility Database
 * ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
 * ⭐ **[AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)**, [GearLever](https://github.com/mijorus/gearlever) or [⁠AppManager](https://github.com/kem-a/AppManager) - Integrate AppImages to App Launchers
@@ -277,6 +278,7 @@
 ## ▷ Productivity / Calendars
 
 * [todo](https://github.com/sioodmy/todo/) or [Planify](https://github.com/alainm23/planify) - To-Do Apps
+* [⁠Planify](https://useplanify.com/) - Task Manager / To Do App
 * [Mindfulness at the Computer](https://fswb.codeberg.page/mindfulness-at-the-computer/) - Productivity Managers
 * [GNOME Evolution](https://help.gnome.org/evolution/) - Desktop Calendar
 * [dLine](https://github.com/jazz-it/dline) or [⁠calcurse](https://calcurse.org/) - CLI Calendars
@@ -289,7 +291,7 @@
 * ↪️ **[Steam Deck Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_steam_deck)**
 * ⭐ **[Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php?title=Main_Page)** or **[r/LinuxCrackSupport Wiki](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** - Linux Gaming Guides
 * ⭐ **[protondb](https://www.protondb.com/)** - Game Compatibility Database / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension) / [Discord](https://discord.com/invite/uuwK9EV)
-* ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine Containers / [Discord](https://discord.com/invite/wF4JAdYrTR) / [GitHub](https://github.com/bottlesdevs)
+* ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine Containers / [Discord](https://discord.com/invite/wF4JAdYrTR) / [GitHub](https://github.com/bottlesdevs/Bottles)
 * ⭐ **[SLSsteam](https://cs.rin.ru/forum/viewtopic.php?f=29&t=146352&hilit=SLSsteam)** - Steamclient Mod w/ DLC Unlocker and Emulated Achievements / [Auto Install / Update](https://github.com/Deadboy666/h3adcr-b) / [Discord](https://discord.com/invite/j3ZzjeV4eQ) / [GitHub](https://github.com/AceSLS/SLSsteam)
 * ⭐ **[Accela](https://github.com/ciscosweater/enter-the-wired)** - Steam Game + DLC Unlocker / [Setup Guide](https://redd.it/1tniqhc)
 * ⭐ **[ProtonPlus](https://github.com/Vysp3r/ProtonPlus)** or [ProtonUp-QT](https://davidotek.github.io/protonup-qt/) / [GitHub](https://github.com/DavidoTek/ProtonUp-Qt/) - Linux Compatibility Tool Managers
@@ -443,6 +445,7 @@
 * [Moe Memos](https://memos.moe/) (android) or [Kept](https://www.keepitkept.xyz/) / [GitHub](https://github.com/ericerkz/kept) - Self-Hosted Note-Taking
 * [BookStack](https://www.bookstackapp.com/) / [GitHub](https://github.com/BookStackApp/BookStack), [NoteDiscovery](https://www.notediscovery.com/) / [GitHub](https://github.com/gamosoft/NoteDiscovery/) or [Siyuan](https://b3log.org/siyuan/en) / [GitHub](https://github.com/siyuan-note/siyuan) - Self-Hosted Info Managers
 * [iRedMail](https://www.iredmail.org/), [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/), [Stalwart](https://stalw.art/) / [GitHub](https://github.com/stalwartlabs/stalwart), [UnInbox](https://github.com/un/inbox) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers
+* [⁠Mailflare](https://mailflare.co/) - Self-Hosted Custom Domain Email Workspace / [GitHub](https://github.com/hieunc229/mailflare)
 * [⁠AIOStreams](https://docs.aiostreams.viren070.me/) - Multi-Source Addon + Debrid Aggregator / [Discord](https://discord.com/invite/zRq8dVh5rJ) / [GitHub](https://github.com/Viren070/AIOStreams)
 * [⁠AIOMetadata](https://github.com/cedya77/aiometadata) - Multi-Source Metadata & Catalogs Addon / [Public Instances](https://uptime.ibbylabs.dev/aiometadata)
 
@@ -630,11 +633,11 @@
 * [Adobe Downloader](https://github.com/X1a0He/Adobe-Downloader/blob/main/readme-en.md) - Adobe Product Downloader / [Telegram](https://t.me/X1a0He_bot)
 * [ss64 macOS](https://ss64.com/mac/) - macOS Bash Commands
 * [Left on Read](https://leftonread.me/) - iMessage Client
-* [MacBing](https://goodsnooze.gumroad.com/l/macbing), [LlamaChat](https://www.llamachat.app/), [Osaurus](https://osaurus.ai/) / [GitHub](https://github.com/osaurus-ai/osaurus), [⁠Atomic Chat](https://atomic.chat/) or [Mollama](https://apps.apple.com/app/mollama/id6736948278) - AI Chatbots
+* [MacBing](https://goodsnooze.gumroad.com/l/macbing), [LlamaChat](https://www.llamachat.app/), [Oscilla](https://apps.apple.com/app/id6759628356), [Osaurus](https://osaurus.ai/) / [GitHub](https://github.com/osaurus-ai/osaurus), [⁠Atomic Chat](https://atomic.chat/) or [Mollama](https://apps.apple.com/app/mollama/id6736948278) - AI Chatbots
 * [CodexBar](https://codexbar.app/) - Menu Bar AI Limit Tracker / [GitHub](https://github.com/steipete/CodexBar)
 * [NetNewsWire](https://netnewswire.com/) or [ViennaRSS](https://www.vienna-rss.com/) - RSS Reader
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
-* [Drafts](https://getdrafts.com/), [CotEditor](https://coteditor.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Strflow](https://strflow.app/), [⁠NotesPlus](https://www.notesplus.com/), [Voodoopad](https://www.voodoopad.com/), [Kyun](https://github.com/lennart-finke/kyun) or [Notenik](https://notenik.app/) - Text Editors / Notes
+* [Drafts](https://getdrafts.com/), [CotEditor](https://coteditor.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Strflow](https://strflow.app/), [⁠NotesPlus](https://www.notesplus.com/), [Voodoopad](https://www.voodoopad.com/), [Kyun](https://github.com/lennart-finke/kyun) or [Notenik](https://notenik.app/) - Text Editors / Notes
 * [Clearly](https://clearly.md/) - Markdown Editor / [GitHub](https://github.com/Shpigford/clearly)
 * [⁠TypeWhisper](https://www.typewhisper.com/en/) - Text to Speech / [Discord](https://discord.gg/pUFR4a65SD) / [GitHub](https://github.com/TypeWhisper)
 * [Agenda](https://agenda.com/) - Date-Focused Note Organizer / [Forum](https://agenda.community/)
@@ -694,7 +697,6 @@
 * [⁠Unwatched](https://apps.apple.com/app/unwatched-para-youtube/id6477287463) / [GitHub](https://github.com/fer0n/Unwatched) or [Yattee](https://github.com/yattee/yattee) - YouTube Players
 * [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling / [Discord](https://discord.com/invite/mRReVBMQtN)
 * [Cap](https://cap.so/) / [X](https://x.com/cap) / [Discord](https://discord.gg/y8gdQ3WRN3) / [GitHub](https://github.com/CapSoftware/Cap), [Kap](https://getkap.co) / [GitHub](https://github.com/wulkano/kap), [⁠Tight Studio](https://tight.studio/) / [Subreddit](https://www.reddit.com/r/TightStudio/) / [X](https://x.com/tight_studio) / [Discord](https://discord.gg/zNXQjXSJrJ) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders
-* [⁠LonelyScreen](https://www.lonelyscreen.com/) - AirPlay Receiver for PC + macOS / Infinite Free Trial
 
 ***
 
@@ -711,7 +713,7 @@
 * [⁠Kaset](https://github.com/sozercan/kaset/) - YouTube Music Clients
 * [Nuage](https://github.com/lbrndnr/nuage-macos) - SoundcCoud Client
 * [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
-* [EQMac](https://eqmac.app/) - Audio Equalizer
+* [EQMac](https://eqmac.app/) or [CoreEQ](https://github.com/andreypudov/core-eq) - Audio Equalizer
 * [The Levelator](https://archive.org/details/conversationsnetwork_org-levelator) - Automatic Audio Level Adjustments
 * [⁠Silkwave Clarity](https://www.silkwave.ai/silkwave-clarity) - Noise Suppression Software
 * [Guitarix](https://guitarix.org/) - Virtual Guitar Amplifier / [Plugins](https://github.com/brummer10/GxPlugins.lv2)
@@ -750,6 +752,7 @@
 * [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games on Mac
 * [⁠Highball](https://github.com/gauthierpiarrette/highball) - Run Windows Games on Apple Silicon
 * [⁠Sikarugir](https://github.com/Sikarugir-App/Sikarugir) - Create Wine Wrapped Game Ports for Mac
+* [⁠MacNativeGames](https://github.com/ly05010419/MacNativeGames) - Run Switch Games Natively on Apple Silicon
 * [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic / GOG / Prime Games Launcher / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 * [Mythic](https://getmythic.app/) - Epic Games Launcher / [Discord](https://discord.gg/58NZ7fFqPy)
 * [⁠MetalGoose](https://github.com/Stallion77RepoOfficial/MetalGoose) - Frame Generation + Upscaling Tool
@@ -767,7 +770,7 @@
 * ↪️ **[Adblocking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy)**
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [ESET](https://rentry.co/FMHYB64#eset), [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
-* [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ubo-lite.md), [AdGuard Mini](https://adguard.com/en/adguard-safari/overview.html) / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [2](https://justpaste.it/adguard) or [wBlock](https://apps.apple.com/app/wblock/id6746388723) / [GitHub](https://github.com/0xCUB3/wBlock) - Safari Adblockers
+* [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ubo-lite.md), [AdGuard Mini](https://adguard.com/en/adguard-safari/overview.html) / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [2](https://justpaste.it/adguard) or [wBlock](https://skula.me/project/wblock/) / [Discord](https://discord.com/invite/Y3yTFPpbXr) / [GitHub](https://github.com/0xCUB3/wBlock) - Safari Adblockers
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
 * [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [⁠ClashMac](https://github.com/666OS/ClashMac) - Proxy Client
