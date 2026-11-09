@@ -422,8 +422,6 @@
 * 🌐 **[EverythingMoe](https://everythingmoe.com/section/manga)** - Manga Site Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[⁠JustIndex](https://justindex.cc/)** - Manga Site Index / [Mirrors](https://projectjust.xyz/) / [Subreddit](https://www.reddit.com/r/ProjectJust) / [Discord](https://discord.gg/P3yqksmGun)
 * 🌐 **[Rawmangaz](https://clarasguide.valeena.workers.dev/Guides/rawmangaz/)** - List of Raw Manga Sites
-* ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
-* ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
 * ⭐ **[Kagane](https://kagane.org/)** / [Discord](https://discord.gg/kaganeto)
 * ⭐ **[MangaDot](https://mangadot.net/)** / [Matrix](https://fuckdm.ca/)
 * ⭐ **[Weeb Central](https://weebcentral.com/)**
@@ -438,6 +436,7 @@
 * [Nyora](https://web.nyora.xyz/) - Multi-Site Manga Aggregator
 * [⁠Tobari](https://tobari.moe/) - Multi-Site Manga Aggregator / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/⁠tobari.md)
 * [⁠bManga](https://bmanga.dedyn.io/) - Multi-Site Manga Aggregator
+* [⁠YumeZone](https://yumezone.live/manga/) - Multi-Site Manga Aggregator
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi-Site Manga Aggregator / [Discord](https://discord.com/invite/SavdUC45MS)
 * [MangaKatana](https://mangakatana.com/)
 * [MangaK](https://mangak.io/)
@@ -466,11 +465,27 @@
 * [MP4DIRECTS](https://mp4directs.com/) or [⁠jnovels](https://jnovels.com/) - Manga Downloads
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Database / Releases Updates
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
-* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Manga App / Windows, macOS, Linux, Android, iOS / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk)
-* [Seanime](https://seanime.app/) - Self-Hosted Manga App / [Discord](https://discord.com/invite/3AuhRGqUqh)
-* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
+
+***
+
+## ▷ Manga Readers / Tools
+
+* ↪️ **[Android Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_manga)** / **[iOS Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)**
+* ⭐ **[Suwayomi](https://github.com/Suwayomi)** - Manga Reader / [Extensions](https://keiyoushi.github.io/), [2](https://discord.gg/3FbCpdKbdY) / [Desktop](https://github.com/Suwayomi/Suwayomi-Server)
+* [AllMangasReader](https://allmangasreader.com/) - Manga Reader
+* [Houdoku](https://houdoku.org/) - Manga Reader / [GitHub](https://github.com/xgi/houdoku)
+* [Adolla](https://github.com/AdollaApp/Adolla) - Manga Reader
+* [OpenComic](https://github.com/ollm/OpenComic) - Manga Reader
+* [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - Manga Reader
+* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Manga Reader / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk)
+* [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer) - Manga Reader
+* [LANraragi](https://github.com/Difegue/LANraragi) - Manga Reader
+* [Unyo](https://github.com/K3vinb5/Unyo) - Manga Reader
+* [Manga-Manager](https://github.com/MangaManagerORG/Manga-Manager) - Manga Manager
+* [Comics Downloader](https://github.com/Girbons/comics-downloader), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2) or [anime-dl](https://github.com/vrienstudios/anime-dl) - Manga Download Tools
 * [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Koharu](https://koharu.rs/) / [GitHub](https://github.com/koharu-rs/koharu), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
-* [Manga-Manager](https://github.com/MangaManagerORG/Manga-Manager) - Manga Managers
+* [Seanime](https://seanime.app/) / [Discord](https://discord.com/invite/3AuhRGqUqh), [KavitaReader](https://www.kavitareader.com/), [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu) or [atsumeru](https://atsumeru.xyz/) - Self-Hosted Manga Readers
+* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
 
 ***
 
@@ -749,7 +764,7 @@
 
 * 🌐 **[Manuals & Schematics](https://redd.it/nlw3er)**, [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [manualzz](https://manualzz.com/), [ManualsNet](https://manualsnet.com/), [manua.ls](https://www.manua.ls/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
 * ↪️ **[Vehicles Manuals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_vehicle)** - Vehicle Repair & Owner Manuals
-* ⭐ **[RepairWiki](https://repair.wiki/)** - Repair Articles / [Old Layout](https://old.repair.wiki/)
+* ⭐ **[RepairWiki](https://repair.wiki/)** - Repair Articles
 * [ManualLib](https://www.manuallib.com/) or [Manuals+](https://manuals.plus/) - Manual Search
 * [iFixIt](https://www.ifixit.com/) - Repair Manuals
 * [Restarters](https://wiki.restarters.net/) - Device Repair Wiki / Guides
@@ -912,6 +927,7 @@
 * [Literal](https://literal.club/) - Social Reading Tracker / Reviews / Reading Lists
 * [Oku](https://oku.club/) - Book Tracking / Reading Goals / Collections / Statistics
 * [Candl](https://www.candlapp.com/) - Private Reading Tracker / Notes / Statistics / Spaced Repetition
+* [⁠Bookplate](https://bookplate.eu/) - Private Reading Tracker / Notes
 * [Libib](https://www.libib.com/) - Personal Library Cataloguing / ISBN Scanning / Web & Mobile
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - Desktop Book Collection Manager / Windows
 * [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews / Reading Community
@@ -919,6 +935,7 @@
 * [EntertainMe](https://www.entertainme.fun/) - Multi-Media Tracking / Books / Films / Games
 * [rate.house](https://rate.house/) - Multi-Media Ratings / Reviews / Tracking
 * [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - Self-Hosted Media Tracker / Books / Films / TV / Games
+* [⁠BookOrbit](https://bookorbit.app/) / [GitHub](https://github.com/bookorbit/bookorbit) or [⁠Grimmory](https://grimmory.org/) / [GitHub](https://github.com/grimmory-tools/grimmory) - Ebook Managers / Self-Hosted
 * [Listal](https://www.listal.com/) - Media Collection Tracking / Reviews / Lists
 * [Ratings Filter](https://www.book-filter.com/) - Filter Books by Goodreads & StoryGraph Ratings
 * [Books Search](https://books-search.typesense.org/) - Fast Open Library Book Database Search
